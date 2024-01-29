@@ -22,6 +22,8 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 - [Molecule Text Integration](#molecule-text-integration)
 - [Protein Text Integration](#protein-text-integration)
 - [More Modalities Integration](#more-modalities-integration)
+- Pre-training Datasets
+- Downstream Datasets
 
 
 ---
