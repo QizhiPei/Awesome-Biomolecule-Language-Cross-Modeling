@@ -1,4 +1,3 @@
-# Awesome-Biomolecule-Language-Integration
 <h1 align="center">
 🧬📝 Awesome Biomolecule-Language Integration
 </h1>
