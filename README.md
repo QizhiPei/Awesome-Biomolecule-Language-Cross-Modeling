@@ -109,6 +109,89 @@ If you have a paper or resource you'd like to add, please submit a pull request 
   [![Stars](https://img.shields.io/github/stars/microsoft/BioGPT?color=yellow&style=social)](https://github.com/microsoft/BioGPT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/microsoft/biogpt)
 
+* **GatorTron: A Large Clinical Language Model to Unlock Patient Information from Unstructured Electronic Health Records**
+  
+  [![](https://img.shields.io/badge/Arxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faf0fe7f31315a4173de5695887dffb20be458f48%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?color=yellow&style=social)](https://github.com/NVIDIA/Megatron-LM)
+
+* **Large language models encode clinical knowledge**
+  
+  [![](https://img.shields.io/badge/Nature_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6052486bc9144dc1730c12bf35323af3792a1fd0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **The Diminishing Returns of Masked Language Models to Science**
+  
+  [![](https://img.shields.io/badge/ACL_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F44279244407a64431810f982be6d0c7da4429dd7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/globuslabs/ScholarBERT)
+
+* **PMC-LLaMA: Further Finetuning LLaMA on Medical Papers**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fcd2d1a0f73ba8c40f882a386cd367899785fb877%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/chaoyi-wu/PMC-LLaMA?color=yellow&style=social)](https://github.com/chaoyi-wu/PMC-LLaMA)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/chaoyi-wu/PMC-LLaMA)
+
+
+* **BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe3fd89a7f6b28973cfc68bfc51caebd8fb93f0bc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/BioMedGPT-LM-7B)
+
+* **A study of generative large language model for medical research and healthcare**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe154dd91de91558f9d671370754eace62a54c911%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?color=yellow&style=social)](https://github.com/NVIDIA/Megatron-LM)
+
+* **Clinical Camel: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F61b0f5cfd4f951632435707948201474e16e835b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/bowang-lab/clinical-camel?color=yellow&style=social)](https://github.com/bowang-lab/clinical-camel)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/wanglab/ClinicalCamel-70B)
+
+* **MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fff5f0c5b6905a8c4b361a625b450e9ab417fa854%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/epfLLM/meditron?color=yellow&style=social)](https://github.com/epfLLM/meditron)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/epfl-llm/meditron-70b)
+
+* **BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8db921900955a447d389582143912eee3046fd3e%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/lamm-mit/BioinspiredLLM)
+
+* **ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Febc502a4d173f6550a8cd6384cb06f2c43c7c1a3%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/medicalai/ClinicalGPT-base-zh)
+
+* **MedAlpaca - An Open-Source Collection of Medical Conversational AI Models and Training Data**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F38a9609a5bd874534527df9b00f2897927e57be9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/kbressem/medAlpaca?color=yellow&style=social)](https://github.com/kbressem/medAlpaca)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/medalpaca)
+
+* **SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc6e162aedf6a5ab0135e3b991577d77ca06673f9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/THUDM/SciGLM?color=yellow&style=social)](https://github.com/THUDM/SciGLM)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zd21/SciGLM-6B)
+
+* **BioMedLM**
+  
+  [![](https://img.shields.io/badge/Report-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
+  [![Stars](https://img.shields.io/github/stars/stanford-crfm/BioMedLM?color=yellow&style=social)](https://github.com/stanford-crfm/BioMedLM)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/stanford-crfm/BioMedLM)
 
 
 ### Molecule-Text
