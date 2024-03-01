@@ -16,13 +16,16 @@ The repository for "A Survey of Cross Modeling for Biomolecule-Language", includ
 > If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.
 
 ## Table of Content
-- [Models](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling/tree/main/README.md#models)
+- [Models](#models)
   - [Biotext](#biotext)
   - [Text + Molecule](#text--molecule)
   - [Text + Protein](#text--protein)
   - [More Modalities](#more-modalities)
-
-
+- [Datasets & Benchmarks](datasets--benchmarks)
+- [Related Resources](#related-resources)
+  - [Related Surveys & Evaluations)(#related-surveys--evaluations) 
+  - [Repositories](#related-repositories)
+- [Acknowledgements](#acknowledgements)
 ---
 
 ## Models
@@ -568,7 +571,7 @@ The repository for "A Survey of Cross Modeling for Biomolecule-Language", includ
   [![Stars](https://img.shields.io/github/stars/QizhiPei/BioT5?color=yellow&style=social)](https://github.com/QizhiPei/BioT5)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/QizhiPei/BioT5)
 
-## Datasets
+## Datasets & Benchmarks
 | **Dataset**          | **Usage**         | **Modality**            | **Link**                                                             |
 |----------------------|-------------------|-------------------------|----------------------------------------------------------------------|
 | PubMed               | Pre-training      | Text                    | [https://pubmed.ncbi.nlm.nih.gov/download](https://pubmed.ncbi.nlm.nih.gov/download) |
@@ -634,9 +637,12 @@ The repository for "A Survey of Cross Modeling for Biomolecule-Language", includ
 * What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks [NeurIPS 2309](https://openreview.net/pdf?id=1ngbR3SZHW)
 * Do Large Language Models Understand Chemistry? A Conversation with ChatGPT [JCIM 2303](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
 
-### Related Repository
+### Related Repositories
 * [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery)
 * [SLM4Mol](https://github.com/AI-HPC-Research-Team/SLM4Mol)
 * [Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)
 * [Awesome-Molecule-Text](https://github.com/Namkyeong/awesome-molecule-text)
 * [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
+
+## Acknowledgements
+This repository is contributed and updated by [QizhiPei](https://qizhipei.github.io/) and [Lijun Wu](https://apeterswu.github.io/)
