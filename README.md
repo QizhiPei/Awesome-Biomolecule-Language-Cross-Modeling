@@ -11,7 +11,8 @@
 
 The following badges are used for according purpose: 
 
-![](https://img.shields.io/badge/paper-5291C8?style=flat&logo=Read.cv&labelColor=555555) ![](https://img.shields.io/badge/code-38C26D?style=flat&logo=GitHub&labelColor=555555&logocolor=555555) ![](https://img.shields.io/badge/website-AB9FF2?style=flat&logo=temporal&labelColor=555555&logocolor=555555)  ![](https://img.shields.io/badge/tag-FD6F6F?style=flat&logo=darkreader&labelColor=555555&logocolor=555555) 
+![](https://img.shields.io/badge/Paper-5291C8?style=flat&logo=Read.cv&labelColor=555555) ![](https://img.shields.io/badge/Code-181717?style=flat&logo=GitHub&labelColor=555555&logoColor=FFFFFF
+) ![](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555) 
 
 If you have a paper or resource you'd like to add, please submit a pull request or open an issue.
 
