@@ -9,9 +9,6 @@
   <img src="figs/model_evolution.png" width="960">
 </p>
 
-![](https://img.shields.io/badge/Paper-5291C8?style=flat&logo=Read.cv&labelColor=555555) ![](https://img.shields.io/badge/Code-181717?style=flat&logo=GitHub&labelColor=555555&logoColor=FFFFFF
-) ![](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555) 
-
 The repository for "A Survey of Cross Modeling for Biomolecule-Language", including related models, datasets/benchmarks, and other resource links.
 > If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.
 
@@ -23,7 +20,7 @@ The repository for "A Survey of Cross Modeling for Biomolecule-Language", includ
   - [More Modalities](#more-modalities)
 - [Datasets & Benchmarks](datasets--benchmarks)
 - [Related Resources](#related-resources)
-  - [Related Surveys & Evaluations)(#related-surveys--evaluations) 
+  - [Related Surveys & Evaluations](#related-surveys--evaluations) 
   - [Repositories](#related-repositories)
 - [Acknowledgements](#acknowledgements)
 ---
