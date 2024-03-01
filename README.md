@@ -16,11 +16,11 @@ The repository for "A Survey of Cross Modeling for Biomolecule-Language", includ
 > If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.
 
 ## Table of Content
-
-- [Biotext](#biotext)
-- [Text + Molecule](#text--molecule)
-- [Text + Protein](#text--protein)
-- [More Modalities Integration](#more-modalities)
+- [Models](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling/tree/main/README.md#models)
+  - [Biotext](#biotext)
+  - [Text + Molecule](#text--molecule)
+  - [Text + Protein](#text--protein)
+  - [More Modalities](#more-modalities)
 
 
 ---
