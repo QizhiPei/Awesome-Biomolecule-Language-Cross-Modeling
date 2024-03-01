@@ -570,7 +570,58 @@ If you have a paper or resource you'd like to add, please submit a pull request 
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/QizhiPei/BioT5)
 
 ## Datasets
+| **Dataset**          | **Usage**         | **Modality**            | **Link**                                                             |
+|----------------------|-------------------|-------------------------|----------------------------------------------------------------------|
+| PubMed               | Pre-training      | Text                    | [https://pubmed.ncbi.nlm.nih.gov/download](https://pubmed.ncbi.nlm.nih.gov/download) |
+| bioRxiv              | Pre-training      | Text                    | [https://huggingface.co/datasets/mteb/raw_biorxiv](https://huggingface.co/datasets/mteb/raw_biorxiv) |
+| S2ORC                | Pre-training      | Text                    | [https://github.com/allenai/s2orc](https://github.com/allenai/s2orc) |
+| MIMIC                | Pre-training      | Text                    | [https://physionet.org/content/mimiciii/1.4](https://physionet.org/content/mimiciii/1.4) |
+| UF Health            | Pre-training      | Text                    | [https://idr.ufhealth.org](https://idr.ufhealth.org)                 |
+| GAP-Replay           | Pre-training      | Text                    | -                                                                    |
+| ZINC                 | Pre-training      | Molecule                | [https://zinc15.docking.org](https://zinc15.docking.org), [https://zinc20.docking.org](https://zinc20.docking.org) |
+| UniProt              | Pre-training      | Protein                 | [https://www.uniprot.org](https://www.uniprot.org)                   |
+| ChEMBL               | Pre-training      | Molecule, Bioassay      | [https://www.ebi.ac.uk/chembl](https://www.ebi.ac.uk/chembl)         |
+| PubChem              | Pre-training      | Text, Molecule, IUPAC, etc | [https://ftp.ncbi.nlm.nih.gov/pubchem](https://ftp.ncbi.nlm.nih.gov/pubchem) |
+| BLURB                | Fine-tuning       | Text                    | [https://microsoft.github.io/BLURB](https://microsoft.github.io/BLURB) |
+| PubMedQA             | Fine-tuning       | Text                    | [https://github.com/pubmedqa/pubmedqa](https://github.com/pubmedqa/pubmedqa) |
+| SciQ                 | Fine-tuning       | Text                    | [https://huggingface.co/datasets/sciq](https://huggingface.co/datasets/sciq) |
+| BioASQ               | Fine-tuning       | Text                    | [http://participants-area.bioasq.org/datasets](http://participants-area.bioasq.org/datasets) |
+| MoleculeNet          | Fine-tuning       | Molecule                | [https://moleculenet.org/datasets-1](https://moleculenet.org/datasets-1) |
+| TDC                  | Fine-tuning       | Molecule                | [https://tdcommons.ai/](https://tdcommons.ai/)                        |
+| USPTO                | Fine-tuning       | Molecule                | [https://yzhang.hpc.nyu.edu/T5Chem](https://yzhang.hpc.nyu.edu/T5Chem) |
+| Graph2graph          | Fine-tuning       | Molecule                | [https://github.com/wengong-jin/iclr19-graph2graph/tree/master/data](https://github.com/wengong-jin/iclr19-graph2graph/tree/master/data) |
+| PEER                 | Fine-tuning       | Protein                 | [https://github.com/DeepGraphLearning/PEER_Benchmark](https://github.com/DeepGraphLearning/PEER_Benchmark) |
+| FLIP                 | Fine-tuning       | Protein                 | [https://benchmark.protein.properties](https://benchmark.protein.properties) |
+| TAPE                 | Fine-tuning       | Protein                 | [https://github.com/songlab-cal/tape](https://github.com/songlab-cal/tape) |
+| PubChemSTM           | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/chao1224/MoleculeSTM/tree/main](https://huggingface.co/datasets/chao1224/MoleculeSTM/tree/main) |
+| PseudoMD-1M          | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/SCIR-HI/PseudoMD-1M](https://huggingface.co/datasets/SCIR-HI/PseudoMD-1M) |
+| ChEBI-20             | Fine-tuning       | Text, Molecule          | [https://github.com/blender-nlp/MolT5](https://github.com/blender-nlp/MolT5)|
+| ChEBI-20-MM          | Fine-tuning       | Text, Molecule          | [https://github.com/AI-HPC-Research-Team/SLM4Mol](https://github.com/AI-HPC-Research-Team/SLM4Mol) |
+| ChEBL-dia            | Fine-tuning       | Text, Molecule          | [https://github.com/Ellenzzn/ChatMol/tree/main/data/ChEBI-dia](https://github.com/Ellenzzn/ChatMol/tree/main/data/ChEBI-dia) |
+| L+M-24               | Fine-tuning       | Text, Molecule          | [https://github.com/language-plus-molecules/LPM-24-Dataset](https://github.com/language-plus-molecules/LPM-24-Dataset) |
+| PCdes                | Fine-tuning       | Text, Molecule          | [https://github.com/thunlp/KV-PLM](https://github.com/thunlp/KV-PLM)|
+| MoMu                 | Fine-tuning       | Text, Molecule          | [https://github.com/yangzhao1230/GraphTextRetrieval](https://github.com/yangzhao1230/GraphTextRetrieval) |
+| PubChemQA            | Fine-tuning       | Text, Molecule          | [https://github.com/PharMolix/OpenBioMed](https://github.com/PharMolix/OpenBioMed) |
+| 3D-MolT              | Fine-tuning       | Text, Molecule          | [https://github.com/lsh0520/3D-MoLM](https://github.com/lsh0520/3D-MoLM) |
+| DrugBank             | Fine-tuning       | Text, Molecule, etc     | [https://github.com/SCIR-HI/ArtificiallyR2R](https://github.com/SCIR-HI/ArtificiallyR2R)|
+| SwissProt            | Fine-tuning       | Text, Protein           | [https://www.expasy.org/resources/uniprotkb-swiss-prot](https://www.expasy.org/resources/uniprotkb-swiss-prot)|
+| UniProtQA            | Fine-tuning       | Text, Protein           | [https://github.com/PharMolix/OpenBioMed](https://github.com/PharMolix/OpenBioMed) |
+| SciEval              | Instruction       | Text                    | [https://github.com/OpenDFM/SciEval](https://github.com/OpenDFM/SciEval) |
+| BioInfo-Bench        | Instruction       | Text                    | [https://github.com/cinnnna/bioinfo-bench](https://github.com/cinnnna/bioinfo-bench) |
+| MedC-I               | Instruction       | Text                    | [https://huggingface.co/datasets/axiong/pmc_llama_instructions](https://huggingface.co/datasets/axiong/pmc_llama_instructions) |
+| BioMedEval           | Instruction       | Text                    | [https://github.com/tahmedge/llm-eval-biomed](https://github.com/tahmedge/llm-eval-biomed) |
+| MolOpt-Instructions  | Instruction       | Text, Molecule          | [https://github.com/blazerye/DrugAssist](https://github.com/blazerye/DrugAssist) |
+| SMolInstruct         | Instruction       | Text, Molecule          | [https://github.com/OSU-NLP-Group/LLM4Chem](https://github.com/OSU-NLP-Group/LLM4Chem) |
+| ChemLLMBench         | Instruction       | Text, Molecule          | [https://github.com/ChemFoundationModels/ChemLLMBench](https://github.com/ChemFoundationModels/ChemLLMBench) |
+| AI4Chem              | Instruction       | Text, Molecule          | [https://github.com/andresilvapimentel/AI4Chem](https://github.com/andresilvapimentel/AI4Chem) |
+| GPTChem              | Instruction       | Text, Molecule          | [https://github.com/kjappelbaum/gptchem](https://github.com/kjappelbaum/gptchem)|
+| DARWIN               | Instruction       | Text, Molecule, etc     | [https://github.com/MasterAI-EAM/Darwin/tree/main/dataset](https://github.com/MasterAI-EAM/Darwin/tree/main/dataset) |
+| InstructProtein      | Instruction       | Text, Protein           | - |
+| Open Protein Instructions | Instruction | Text, Protein          | [https://github.com/baaihealth/opi](https://github.com/baaihealth/opi) |
+| Mol-Instructions     | Instruction       | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
+| CheF                 | -                 | Text, Molecule          | [https://github.com/kosonocky/CheF](https://github.com/kosonocky/CheF) |
+| ChemFOnt             | -                 | Text, Molecule, Protein, etc | [https://www.chemfont.ca](https://www.chemfont.ca)|
 
-## Benchmark Results
+
 
 ## Related Resources
