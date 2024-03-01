@@ -2,19 +2,18 @@
 🧬📝 Awesome Biomolecule-Language Cross Modeling
 </h1>
 <div align="center">
-  
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![Stars](https://img.shields.io/github/stars/QizhiPei/awesome-biomolecule-language-integration?color=yellow&labelColor=555555)  ![Forks](https://img.shields.io/github/forks/QizhiPei/awesome-biomolecule-language-integration?color=blue&label=Fork&labelColor=555555)
-</div>
-<!-- <p align="center">
-  <img src="resources/cover.png" width="400">
-</p> -->
 
-The following badges are used for according purpose: 
+[![](https://img.shields.io/badge/paper-arxiv2310.06763-red?style=plastic&logo=GitBook)](https://arxiv.org/abs/2310.06763) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=yellow&labelColor=555555) ![Forks](https://img.shields.io/github/forks/QizhiPei/awesome-biomolecule-language-integration?color=blue&label=Fork&labelColor=555555)
+</div>
+<p align="center">
+  <img src="figs/model_evolution.png" width="960">
+</p>
 
 ![](https://img.shields.io/badge/Paper-5291C8?style=flat&logo=Read.cv&labelColor=555555) ![](https://img.shields.io/badge/Code-181717?style=flat&logo=GitHub&labelColor=555555&logoColor=FFFFFF
 ) ![](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555) 
 
-If you have a paper or resource you'd like to add, please submit a pull request or open an issue.
+The repository for "A Survey of Cross Modeling for Biomolecule-Language", including related models, datasets/benchmarks, and other resource links.
+> If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.
 
 ## Table of Content
 
@@ -625,3 +624,19 @@ If you have a paper or resource you'd like to add, please submit a pull request 
 
 
 ## Related Resources
+### Related Surveys & Evaluations
+* From Words to Molecules: A Survey of Large Language Models in Chemistry [Arxiv 2402](https://arxiv.org/abs/2402.01439)
+* Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science [Arxiv 2402](https://arxiv.org/abs/2402.04119)
+* Scientific Large Language Models: A Survey on Biological & Chemical Domains [Arxiv 2401](https://arxiv.org/abs/2401.14656)
+* The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4 [Arxiv 2311](https://arxiv.org/abs/2311.07361)
+* Transformers and Large Language Models for Chemistry and Drug Discovery [Arxiv 2310](https://arxiv.org/abs/2310.06083)
+* Language models in molecular discovery [Arxiv 2309](https://arxiv.org/abs/2309.16235)
+* What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks [NeurIPS 2309](https://openreview.net/pdf?id=1ngbR3SZHW)
+* Do Large Language Models Understand Chemistry? A Conversation with ChatGPT [JCIM 2303](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
+
+### Related Repository
+* [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery)
+* [SLM4Mol](https://github.com/AI-HPC-Research-Team/SLM4Mol)
+* [Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)
+* [Awesome-Molecule-Text](https://github.com/Namkyeong/awesome-molecule-text)
+* [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
