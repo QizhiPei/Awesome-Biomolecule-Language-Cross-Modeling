@@ -642,4 +642,4 @@ The repository for "A Survey of Cross Modeling for Biomolecule-Language", includ
 * [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
 
 ## Acknowledgements
-This repository is contributed and updated by [QizhiPei](https://qizhipei.github.io/) and [Lijun Wu](https://apeterswu.github.io/)
+This repository is contributed and updated by [QizhiPei](https://qizhipei.github.io) and [Lijun Wu](https://apeterswu.github.io).
