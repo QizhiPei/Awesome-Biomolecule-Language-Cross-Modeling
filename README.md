@@ -640,6 +640,7 @@ The repository for "A Survey of Cross Modeling for Biomolecule-Language", includ
 * [Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)
 * [Awesome-Molecule-Text](https://github.com/Namkyeong/awesome-molecule-text)
 * [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
+* [Awesome-Docking](https://github.com/KyGao/awesome-docking)
 
 ## Acknowledgements
 This repository is contributed and updated by [QizhiPei](https://qizhipei.github.io) and [Lijun Wu](https://apeterswu.github.io).
