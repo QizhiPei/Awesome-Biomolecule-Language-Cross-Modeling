@@ -3,7 +3,8 @@
 </h1>
 <div align="center">
 
-[![](https://img.shields.io/badge/paper-arxiv2310.06763-red?style=plastic&logo=GitBook)](https://arxiv.org/abs/2310.06763) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://github.com/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=yellow&labelColor=555555) ![Forks](https://img.shields.io/github/forks/QizhiPei/awesome-biomolecule-language-integration?color=blue&label=Fork&labelColor=555555)
+[![](https://img.shields.io/badge/paper-arxiv24xx.xxxxx-red?style=plastic&logo=GitBook)](https://arxiv.org/abs/24xx.xxxxx)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=yellow&labelColor=555555)  ![Forks](https://img.shields.io/github/forks/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=blue&label=Fork&labelColor=555555)
 </div>
 <p align="center">
   <img src="figs/model_evolution.png" width="960">
