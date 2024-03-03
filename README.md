@@ -533,6 +533,12 @@ The repository for "Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://pan.baidu.com/share/init?surl=iAMBkuoZnNAylhopP5OgEg\&pwd=7a6b)
 
+* **(StructChem) Structured Chemistry Reasoning with Large Language Models**
+  
+  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.09656.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe56aa728aaa32c087c8f7bc56a7eb225675dd8ae%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/ozyyshr/StructChem?color=yellow&style=social)](https://github.com/ozyyshr/StructChem?tab=readme-ov-file)
+
 * **(BioTranslator) Multilingual translation for zero-shot biomedical classification using BioTranslator**
   
   [![](https://img.shields.io/badge/Nature_Communications_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36476-2.pdf)
@@ -627,6 +633,7 @@ The repository for "Leveraging Biomolecule and Natural Language through Multi-Mo
 | AI4Chem              | Instruction       | Text, Molecule          | [https://github.com/andresilvapimentel/AI4Chem](https://github.com/andresilvapimentel/AI4Chem) |
 | GPTChem              | Instruction       | Text, Molecule          | [https://github.com/kjappelbaum/gptchem](https://github.com/kjappelbaum/gptchem)|
 | DARWIN               | Instruction       | Text, Molecule, etc     | [https://github.com/MasterAI-EAM/Darwin/tree/main/dataset](https://github.com/MasterAI-EAM/Darwin/tree/main/dataset) |
+| StructChem           | Instruction       | Text, Molecule, etc     | [https://github.com/ozyyshr/StructChem](https://github.com/ozyyshr/StructChem) |
 | InstructProtein      | Instruction       | Text, Protein           | - |
 | Open Protein Instructions | Instruction | Text, Protein          | [https://github.com/baaihealth/opi](https://github.com/baaihealth/opi) |
 | Mol-Instructions     | Instruction       | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
@@ -645,6 +652,8 @@ The repository for "Leveraging Biomolecule and Natural Language through Multi-Mo
 * Language models in molecular discovery [Arxiv 2309](https://arxiv.org/abs/2309.16235)
 * What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks [NeurIPS 2309](https://openreview.net/pdf?id=1ngbR3SZHW)
 * Do Large Language Models Understand Chemistry? A Conversation with ChatGPT [JCIM 2303](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
+* A Systematic Survey of Chemical Pre-trained Models [IJCAI 2023](https://www.ijcai.org/proceedings/2023/0760.pdf)
+
 
 ### Related Repositories
 * [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery)
@@ -652,6 +661,7 @@ The repository for "Leveraging Biomolecule and Natural Language through Multi-Mo
 * [Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)
 * [Awesome-Molecule-Text](https://github.com/Namkyeong/awesome-molecule-text)
 * [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
+* [Awesome-Chemical-Pre-trained-Models](https://github.com/junxia97/awesome-pretrain-on-molecules)
 * [Awesome-Docking](https://github.com/KyGao/awesome-docking)
 
 ## Acknowledgements
