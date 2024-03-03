@@ -442,6 +442,13 @@ The repository for "Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/OpenReview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=FdUloEgBSE)
 
 ### Text + Protein
+* **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
+  
+  [![](https://img.shields.io/badge/ICLR_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=yfe1VMYAXa4)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F10be7d45b3736cb9eac13a0c07d00c7f8e4f84b4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/zjunlp/OntoProtein?color=yellow&style=social)](https://github.com/zjunlp/OntoProtein)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zjunlp/OntoProtein)
+
 * **ProTranslator: Zero-Shot Protein Function Prediction Using Textual Description**
   
   [![](https://img.shields.io/badge/RECOMB_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36720-9)
@@ -585,6 +592,7 @@ The repository for "Leveraging Biomolecule and Natural Language through Multi-Mo
 | UniProt              | Pre-training      | Protein                 | [https://www.uniprot.org](https://www.uniprot.org)                   |
 | ChEMBL               | Pre-training      | Molecule, Bioassay      | [https://www.ebi.ac.uk/chembl](https://www.ebi.ac.uk/chembl)         |
 | PubChem              | Pre-training      | Text, Molecule, IUPAC, etc | [https://ftp.ncbi.nlm.nih.gov/pubchem](https://ftp.ncbi.nlm.nih.gov/pubchem) |
+| STRING               | Pre-training      | Text, Protein, etc      | [https://string-db.org](https://string-db.org)                       |
 | BLURB                | Fine-tuning       | Text                    | [https://microsoft.github.io/BLURB](https://microsoft.github.io/BLURB) |
 | PubMedQA             | Fine-tuning       | Text                    | [https://github.com/pubmedqa/pubmedqa](https://github.com/pubmedqa/pubmedqa) |
 | SciQ                 | Fine-tuning       | Text                    | [https://huggingface.co/datasets/sciq](https://huggingface.co/datasets/sciq) |
