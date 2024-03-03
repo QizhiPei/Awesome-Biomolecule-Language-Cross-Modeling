@@ -6,12 +6,15 @@
 [![](https://img.shields.io/badge/paper-arxiv24xx.xxxxx-red?style=plastic&logo=GitBook)](https://arxiv.org/abs/24xx.xxxxx)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=yellow&labelColor=555555)  ![Forks](https://img.shields.io/github/forks/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=blue&label=Fork&labelColor=555555)
 </div>
+
+The repository for "Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey", including related models, datasets/benchmarks, and other resource links.
+
+🌟 **If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.**
+
 <p align="center">
   <img src="figs/model_evolution.png" width="960">
 </p>
 
-The repository for "A Survey of Cross Modeling for Biomolecule-Language", including related models, datasets/benchmarks, and other resource links.
-> If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.
 
 ## Table of Content
 - [Models](#models)
