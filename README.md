@@ -666,4 +666,4 @@ The repository for "Leveraging Biomolecule and Natural Language through Multi-Mo
 * [Awesome-Docking](https://github.com/KyGao/awesome-docking)
 
 ## Acknowledgements
-This repository is contributed and updated by [QizhiPei](https://qizhipei.github.io) and [Lijun Wu](https://apeterswu.github.io).
+This repository is contributed and updated by [QizhiPei](https://qizhipei.github.io) and [Lijun Wu](https://apeterswu.github.io). If you have questions, don't hesitate to open an issue or ask me via <qizhipei@ruc.edu.cn> or Lijun Wu via <lijuwu@microsoft.com>. We are happy to hear from you!
