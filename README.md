@@ -3,11 +3,11 @@
 </h1>
 <div align="center">
 
-[![](https://img.shields.io/badge/paper-arxiv24xx.xxxxx-red?style=plastic&logo=GitBook)](https://arxiv.org/abs/24xx.xxxxx)
+[![](https://img.shields.io/badge/paper-arxiv24xx.xxxxx-red?style=plastic&logo=GitBook)](https://arxiv.org/abs/2403.01528)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=yellow&labelColor=555555)  ![Forks](https://img.shields.io/github/forks/QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling?color=blue&label=Fork&labelColor=555555)
 </div>
 
-The repository for "Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey", including related models, datasets/benchmarks, and other resource links.
+The repository for [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528), including related models, datasets/benchmarks, and other resource links.
 
 🌟 **If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.**
 
