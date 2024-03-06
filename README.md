@@ -366,12 +366,6 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **MolTailor: Tailoring Chemical Molecular Representation to Specific Tasks via Text Prompts**
   
-  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)]()
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fec193ae36aa0d1e42f5b85e62036b71ef10e3659%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Stars](https://img.shields.io/github/stars/SCIR-HI/MolTailor?color=yellow&style=social)](https://github.com/SCIR-HI/MolTailor)
-
-* **MolTailor: Tailoring Chemical Molecular Representation to Specific Tasks via Text Prompts**
-  
   [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2401.11403.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fec193ae36aa0d1e42f5b85e62036b71ef10e3659%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/SCIR-HI/MolTailor?color=yellow&style=social)](https://github.com/SCIR-HI/MolTailor)
