@@ -666,6 +666,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery)
 * [SLM4Mol](https://github.com/AI-HPC-Research-Team/SLM4Mol)
 * [Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey)
+* [Awesome-Bio-Foundation-Models](https://github.com/apeterswu/Awesome-Bio-Foundation-Models)
 * [Awesome-Molecule-Text](https://github.com/Namkyeong/awesome-molecule-text)
 * [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
 * [Awesome-Chemical-Pre-trained-Models](https://github.com/junxia97/awesome-pretrain-on-molecules)
