@@ -602,6 +602,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | ZINC                 | Pre-training      | Molecule                | [https://zinc15.docking.org](https://zinc15.docking.org), [https://zinc20.docking.org](https://zinc20.docking.org) |
 | UniProt              | Pre-training      | Protein                 | [https://www.uniprot.org](https://www.uniprot.org)                   |
 | ChEMBL               | Pre-training      | Molecule, Bioassay      | [https://www.ebi.ac.uk/chembl](https://www.ebi.ac.uk/chembl)         |
+| GIMLET               | Pre-training      | Molecule, Bioassay      | [https://github.com/zhao-ht/GIMLET](https://github.com/zhao-ht/GIMLET), [https://huggingface.co/datasets/haitengzhao/molecule_property_instruction](https://huggingface.co/datasets/haitengzhao/molecule_property_instruction) |
 | PubChem              | Pre-training      | Text, Molecule, IUPAC, etc | [https://ftp.ncbi.nlm.nih.gov/pubchem](https://ftp.ncbi.nlm.nih.gov/pubchem) |
 | STRING               | Pre-training      | Text, Protein, etc      | [https://string-db.org](https://string-db.org)                       |
 | BLURB                | Fine-tuning       | Text                    | [https://microsoft.github.io/BLURB](https://microsoft.github.io/BLURB) |
