@@ -22,7 +22,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   - [Text + Molecule](#text--molecule)
   - [Text + Protein](#text--protein)
   - [More Modalities](#more-modalities)
-- [Datasets & Benchmarks](datasets--benchmarks)
+- [Datasets & Benchmarks](#datasets--benchmarks)
 - [Related Resources](#related-resources)
   - [Related Surveys & Evaluations](#related-surveys--evaluations) 
   - [Related Repositories](#related-repositories)
