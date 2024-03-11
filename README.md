@@ -444,6 +444,11 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.04197.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F6eb23df05166c772e4c2fbfb0113de0beabd1a43%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **Benchmarking Large Language Models for Molecule Prediction Tasks**
+
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.05075.pdf)
+  [![Stars](https://img.shields.io/github/stars/zhiqiangzhongddu/LLMaMol?color=yellow&style=social)](https://github.com/zhiqiangzhongddu/LLMaMol)
   
 
 ### Text + Protein
