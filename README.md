@@ -448,7 +448,13 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * **Benchmarking Large Language Models for Molecule Prediction Tasks**
 
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.05075.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2a1cd0bd878ab77742c2f120223f1a44accdd204%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/zhiqiangzhongddu/LLMaMol?color=yellow&style=social)](https://github.com/zhiqiangzhongddu/LLMaMol)
+
+* **DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs**
+
+  [![](https://img.shields.io/badge/ResearchGate_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.researchgate.net/profile/Jinzhe-Liu-2/publication/378683833_DRAK_Unlocking_Molecular_Insights_with_Domain-Specific_Retrieval-Augmented_Knowledge_in_LLMs/links/65e43d34adf2362b63683086/DRAK-Unlocking-Molecular-Insights-with-Domain-Specific-Retrieval-Augmented-Knowledge-in-LLMs.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7176288231dcc568daba50a35370d54e34ba3889%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   
 
 ### Text + Protein
