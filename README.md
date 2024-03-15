@@ -463,8 +463,8 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * **3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.07179.pdf)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fxxx%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
-  [![Stars](https://img.shields.io/github/stars/blazerye/DrugAssist?color=yellow&style=social)](https://github.com/huaishengzhu/3MDiffusion)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F004ff041d40a7912b31dbe98bbed0c2755655a5f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/huaishengzhu/3MDiffusion?color=yellow&style=social)](https://github.com/huaishengzhu/3MDiffusion)
 
 
 ### Text + Protein
@@ -505,7 +505,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers**
   
-  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2307.14367)
+  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2307.14367.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fde7e5fee8cf03bd485b1104d3e40e8ab45d76c0a%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/hadi-abdine/Prot2Text?color=yellow&style=social)](https://github.com/hadi-abdine/Prot2Text)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/hadi-abdine/Prot2Text)
@@ -523,10 +523,17 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2402.16445v1)
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.16445v1.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1296d51001f8a73c0a3356f78b136a691928985c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/Lyu6PosHao/ProLLaMA?color=yellow&style=social)](https://github.com/Lyu6PosHao/ProLLaMA)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GreatCaptainNemo/ProLLaMA)
+
+* **ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.07920.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F631066c55a852fac7b9c9129e166550a6310fa3c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/ProtLLM/ProtLLM?color=yellow&style=social)](https://github.com/ProtLLM/ProtLLM)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/datasets/ProtLLM/ProtLLM)
 
 
 ### More Modalities
@@ -611,6 +618,14 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/QizhiPei/BioT5?color=yellow&style=social)](https://github.com/QizhiPei/BioT5)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/QizhiPei/BioT5)
 
+* **MolBind: Multimodal Alignment of Language, Molecules, and Proteins**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.08167.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe9ef2567e4c8f8b47f1110a2a3959c20bd218c0d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/tengxiao1/MolBind?color=yellow&style=social)](https://github.com/tengxiao1/MolBind)
+
+
+
 ## Datasets & Benchmarks
 | **Dataset**          | **Usage**         | **Modality**            | **Link**                                                             |
 |----------------------|-------------------|-------------------------|----------------------------------------------------------------------|
@@ -625,6 +640,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | ChEMBL               | Pre-training      | Molecule, Bioassay      | [https://www.ebi.ac.uk/chembl](https://www.ebi.ac.uk/chembl)         |
 | GIMLET               | Pre-training      | Molecule, Bioassay      | [https://github.com/zhao-ht/GIMLET](https://github.com/zhao-ht/GIMLET), [https://huggingface.co/datasets/haitengzhao/molecule_property_instruction](https://huggingface.co/datasets/haitengzhao/molecule_property_instruction) |
 | PubChem              | Pre-training      | Text, Molecule, IUPAC, etc | [https://ftp.ncbi.nlm.nih.gov/pubchem](https://ftp.ncbi.nlm.nih.gov/pubchem) |
+| InterPT              | Pre-training      | Text, Protein           | [https://huggingface.co/datasets/ProtLLM/ProtLLM](https://huggingface.co/datasets/ProtLLM/ProtLLM) |
 | STRING               | Pre-training      | Text, Protein, etc      | [https://string-db.org](https://string-db.org)                       |
 | BLURB                | Fine-tuning       | Text                    | [https://microsoft.github.io/BLURB](https://microsoft.github.io/BLURB) |
 | PubMedQA             | Fine-tuning       | Text                    | [https://github.com/pubmedqa/pubmedqa](https://github.com/pubmedqa/pubmedqa) |
@@ -647,6 +663,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | MoMu                 | Fine-tuning       | Text, Molecule          | [https://github.com/yangzhao1230/GraphTextRetrieval](https://github.com/yangzhao1230/GraphTextRetrieval) |
 | PubChemQA            | Fine-tuning       | Text, Molecule          | [https://github.com/PharMolix/OpenBioMed](https://github.com/PharMolix/OpenBioMed) |
 | 3D-MolT              | Fine-tuning       | Text, Molecule          | [https://github.com/lsh0520/3D-MoLM](https://github.com/lsh0520/3D-MoLM) |
+| MoleculeQA           | Fine-tuning       | Text, Molecule          | [https://github.com/IDEA-XL/MoleculeQA](https://github.com/IDEA-XL/MoleculeQA) |
 | DrugBank             | Fine-tuning       | Text, Molecule, etc     | [https://github.com/SCIR-HI/ArtificiallyR2R](https://github.com/SCIR-HI/ArtificiallyR2R)|
 | SwissProt            | Fine-tuning       | Text, Protein           | [https://www.expasy.org/resources/uniprotkb-swiss-prot](https://www.expasy.org/resources/uniprotkb-swiss-prot)|
 | UniProtQA            | Fine-tuning       | Text, Protein           | [https://github.com/PharMolix/OpenBioMed](https://github.com/PharMolix/OpenBioMed) |
