@@ -624,6 +624,10 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe9ef2567e4c8f8b47f1110a2a3959c20bd218c0d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/tengxiao1/MolBind?color=yellow&style=social)](https://github.com/tengxiao1/MolBind)
 
+* **Uni-SMART: Universal Science Multimodal Analysis and Research Transformer**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.10301.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7130fe366c9bf8fe64e5d6dcabb292431f69fba9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 
 ## Datasets & Benchmarks
@@ -678,6 +682,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | GPTChem              | Instruction       | Text, Molecule          | [https://github.com/kjappelbaum/gptchem](https://github.com/kjappelbaum/gptchem)|
 | DARWIN               | Instruction       | Text, Molecule, etc     | [https://github.com/MasterAI-EAM/Darwin/tree/main/dataset](https://github.com/MasterAI-EAM/Darwin/tree/main/dataset) |
 | StructChem           | Instruction       | Text, Molecule, etc     | [https://github.com/ozyyshr/StructChem](https://github.com/ozyyshr/StructChem) |
+| SciAssess            | Instruction       | Text, Molecule, etc     | [https://sci-assess.github.io](https://sci-assess.github.io/), [https://github.com/sci-assess/SciAssess](https://github.com/sci-assess/SciAssess) |
 | InstructProtein      | Instruction       | Text, Protein           | - |
 | Open Protein Instructions | Instruction | Text, Protein          | [https://github.com/baaihealth/opi](https://github.com/baaihealth/opi) |
 | Mol-Instructions     | Instruction       | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
