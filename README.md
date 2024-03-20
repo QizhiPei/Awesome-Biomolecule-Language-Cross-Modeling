@@ -726,4 +726,14 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 ## Acknowledgements
 This repository is contributed and updated by [QizhiPei](https://qizhipei.github.io) and [Lijun Wu](https://apeterswu.github.io). If you have questions, don't hesitate to open an issue or ask me via <qizhipei@ruc.edu.cn> or Lijun Wu via <lijuwu@microsoft.com>. We are happy to hear from you!
 
+## Citations
+```
+@article{pei2024leveraging,
+  title={Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey},
+  author={Pei, Qizhi and Wu, Lijun and Gao, Kaiyuan and Zhu, Jinhua and Wang, Yue and Wang, Zun and Qin, Tao and Yan, Rui},
+  journal={arXiv preprint arXiv:2403.01528},
+  year={2024}
+}
+```
+
 ![Star History Chart](https://api.star-history.com/svg?repos=QizhiPei/Awesome-Biomolecule-Language-Cross-Modeling&type=Date)
