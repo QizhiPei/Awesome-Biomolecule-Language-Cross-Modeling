@@ -634,10 +634,15 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | **Dataset**          | **Usage**         | **Modality**            | **Link**                                                             |
 |----------------------|-------------------|-------------------------|----------------------------------------------------------------------|
 | PubMed               | Pre-training      | Text                    | [https://pubmed.ncbi.nlm.nih.gov/download](https://pubmed.ncbi.nlm.nih.gov/download) |
-| bioRxiv              | Pre-training      | Text                    | [https://huggingface.co/datasets/mteb/raw_biorxiv](https://huggingface.co/datasets/mteb/raw_biorxiv) |
+| bioRxiv              | Pre-training      | Text                    | [https://huggingface.co/datasets/mteb/raw_biorxiv](https://huggingface.co/datasets/mteb/raw_biorxiv),[https://www.biorxiv.org/tdm](https://www.biorxiv.org/tdm) |
+| MedRxiv              | Pre-training      | Text                    | [https://www.medrxiv.org/tdm](https://www.medrxiv.org/tdm)           |
 | S2ORC                | Pre-training      | Text                    | [https://github.com/allenai/s2orc](https://github.com/allenai/s2orc) |
 | MIMIC                | Pre-training      | Text                    | [https://physionet.org/content/mimiciii/1.4](https://physionet.org/content/mimiciii/1.4) |
 | UF Health            | Pre-training      | Text                    | [https://idr.ufhealth.org](https://idr.ufhealth.org)                 |
+| Elsevier Corpus      | Pre-training      | Text                    | [https://elsevier.digitalcommonsdata.com/datasets/zm33cdndxs/3](https://elsevier.digitalcommonsdata.com/datasets/zm33cdndxs/3) |
+| Eurpoe PMC           | Pre-training      | Text                    | [https://europepmc.org/downloads](https://europepmc.org/downloads)   |
+| LibreText            | Pre-training      | Text                    | [https://chem.libretexts.org](https://chem.libretexts.org/)          |
+| NLM literature archive | Pre-training    | Text                    | [https://ftp.ncbi.nlm.nih.gov/pub/litarch/](https://ftp.ncbi.nlm.nih.gov/pub/litarch/) |
 | GAP-Replay           | Pre-training      | Text                    | -                                                                    |
 | ZINC                 | Pre-training      | Molecule                | [https://zinc15.docking.org](https://zinc15.docking.org), [https://zinc20.docking.org](https://zinc20.docking.org) |
 | UniProt              | Pre-training      | Protein                 | [https://www.uniprot.org](https://www.uniprot.org)                   |
@@ -651,6 +656,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | SciQ                 | Fine-tuning       | Text                    | [https://huggingface.co/datasets/sciq](https://huggingface.co/datasets/sciq) |
 | BioASQ               | Fine-tuning       | Text                    | [http://participants-area.bioasq.org/datasets](http://participants-area.bioasq.org/datasets) |
 | MoleculeNet          | Fine-tuning       | Molecule                | [https://moleculenet.org/datasets-1](https://moleculenet.org/datasets-1) |
+| MoleculeACE          | Fine-tuning       | Molecule                | [https://github.com/molML/MoleculeACE](https://github.com/molML/MoleculeACE) |
 | TDC                  | Fine-tuning       | Molecule                | [https://tdcommons.ai/](https://tdcommons.ai/)                        |
 | USPTO                | Fine-tuning       | Molecule                | [https://yzhang.hpc.nyu.edu/T5Chem](https://yzhang.hpc.nyu.edu/T5Chem) |
 | Graph2graph          | Fine-tuning       | Molecule                | [https://github.com/wengong-jin/iclr19-graph2graph/tree/master/data](https://github.com/wengong-jin/iclr19-graph2graph/tree/master/data) |
@@ -687,6 +693,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | Open Protein Instructions | Instruction | Text, Protein          | [https://github.com/baaihealth/opi](https://github.com/baaihealth/opi) |
 | Mol-Instructions     | Instruction       | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
 | CheF                 | -                 | Text, Molecule          | [https://github.com/kosonocky/CheF](https://github.com/kosonocky/CheF) |
+| IUPAC Gold Book      | -                 | Text, Molecule          | [https://goldbook.iupac.org](https://goldbook.iupac.org/) |
 | ChemNLP              | -                 | Text, Molecule, etc     | [https://github.com/OpenBioML/chemnlp](https://github.com/OpenBioML/chemnlp) |
 | ChemFOnt             | -                 | Text, Molecule, Protein, etc | [https://www.chemfont.ca](https://www.chemfont.ca)|
 
@@ -713,6 +720,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * [Awesome-Molecule-Text](https://github.com/Namkyeong/awesome-molecule-text)
 * [LLM4Mol](https://github.com/HHW-zhou/LLM4Mol)
 * [Awesome-Chemical-Pre-trained-Models](https://github.com/junxia97/awesome-pretrain-on-molecules)
+* [Awesome-Chemistry-Datasets](https://github.com/kjappelbaum/awesome-chemistry-datasets)
 * [Awesome-Docking](https://github.com/KyGao/awesome-docking)
 
 ## Acknowledgements
