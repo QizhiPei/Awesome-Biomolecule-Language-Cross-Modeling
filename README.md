@@ -191,13 +191,18 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/THUDM/SciGLM?color=yellow&style=social)](https://github.com/THUDM/SciGLM)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zd21/SciGLM-6B)
 
-* **BioMedLM**
+* **BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.18421v1.pdf)
-  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc6e162aedf6a5ab0135e3b991577d77ca06673f9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fxxx%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/stanford-crfm/BioMedLM?color=yellow&style=social)](https://github.com/stanford-crfm/BioMedLM)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/stanford-crfm/BioMedLM)
 
+* **BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains**
+
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.10373.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F13b8934468665ecb586f491d7f9f6c460cb095e5%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/BioMistral)
 
 ### Text + Molecule
 * **Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries**
@@ -719,8 +724,10 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 ## Related Resources
 ### Related Surveys & Evaluations
 * Bridging Text and Molecule: A Survey on Multimodal Frameworks for Molecule [Arxiv 2403](https://arxiv.org/abs/2403.13830)
+* Bioinformatics and Biomedical Informatics with ChatGPT: Year One Review [Arxiv 2403](https://arxiv.org/abs/2403.15274)
 * From Words to Molecules: A Survey of Large Language Models in Chemistry [Arxiv 2402](https://arxiv.org/abs/2402.01439)
 * Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science [Arxiv 2402](https://arxiv.org/abs/2402.04119)
+* Progress and Opportunities of Foundation Models in Bioinformatics [Arxiv 2402](https://arxiv.org/abs/2402.04286)
 * Scientific Large Language Models: A Survey on Biological & Chemical Domains [Arxiv 2401](https://arxiv.org/abs/2401.14656)
 * The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4 [Arxiv 2311](https://arxiv.org/abs/2311.07361)
 * Transformers and Large Language Models for Chemistry and Drug Discovery [Arxiv 2310](https://arxiv.org/abs/2310.06083)
