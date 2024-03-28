@@ -193,7 +193,8 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **BioMedLM**
   
-  [![](https://img.shields.io/badge/Report-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://crfm.stanford.edu/2022/12/15/biomedlm.html)
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.18421v1.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fc6e162aedf6a5ab0135e3b991577d77ca06673f9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/stanford-crfm/BioMedLM?color=yellow&style=social)](https://github.com/stanford-crfm/BioMedLM)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/stanford-crfm/BioMedLM)
 
