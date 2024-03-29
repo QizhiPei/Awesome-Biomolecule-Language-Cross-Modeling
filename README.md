@@ -615,6 +615,13 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2305.01523.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F4810273202207675ef9b3efcbda95b271709ea71%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+* **（Otter Knowledge) Knowledge Enhanced Representation Learning for Drug Discovery**
+  
+  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ojs.aaai.org/index.php/AAAI/article/view/28924)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7ba985b1d3bd5d2bc4aedd77bd74edc87741042c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/IBM/otter-knowledge?color=yellow&style=social)](https://github.com/IBM/otter-knowledge)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ibm)
+
 * **ChatCell: Facilitating Single-Cell Analysis with Natural Language**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.08303v2.pdf)
