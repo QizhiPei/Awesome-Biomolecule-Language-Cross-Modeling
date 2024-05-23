@@ -514,6 +514,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2302.04611.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd55b69a533dea69c8b2673cde8de90c6626ee789%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/chao1224/ProteinDT?color=yellow&style=social)](https://github.com/chao1224/ProteinDT)
 
 * **ProteinChat: Towards Achieving ChatGPT-Like Functionalities on Protein 3D Structures**
   
