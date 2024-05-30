@@ -495,6 +495,12 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F37e679adb49e227b55219c02c66f1bb9d7a82b75%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/syr-cn/ReactXT?color=yellow&style=social)](https://github.com/syr-cn/ReactXT)
 
+* **LDMol: Text-Conditioned Molecule Diffusion Model Leveraging Chemically Informative Latent Space**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.17829)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faf86442332a8310f22a318c79db644d4c0e9c3d9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  
+
 ### Text + Protein
 * **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
   
