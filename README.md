@@ -465,7 +465,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs**
 
-  [![](https://img.shields.io/badge/ResearchGate_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.researchgate.net/profile/Jinzhe-Liu-2/publication/378683833_DRAK_Unlocking_Molecular_Insights_with_Domain-Specific_Retrieval-Augmented_Knowledge_in_LLMs/links/65e43d34adf2362b63683086/DRAK-Unlocking-Molecular-Insights-with-Domain-Specific-Retrieval-Augmented-Knowledge-in-LLMs.pdf)
+  [![](https://img.shields.io/badge/ResearchGate_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.18535)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7176288231dcc568daba50a35370d54e34ba3889%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
 * **3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs**
@@ -499,7 +499,24 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.17829)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faf86442332a8310f22a318c79db644d4c0e9c3d9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **(MV-Mol) Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**
   
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.09841)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa92400ee7d0328fb8373959a6b3e8cae9b18f941%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
+
+* **HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.14021)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F92a59e96dc7ebfb600356274d2025762252daba0%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.13193v1)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5928bc20378279e5b609af50e3f7a35d36a24f17%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/IDEA-XL/PRESTO?color=yellow&style=social)](https://github.com/IDEA-XL/PRESTO)
+
 
 ### Text + Protein
 * **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
@@ -566,7 +583,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.07920.pdf)
+  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.07920.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F631066c55a852fac7b9c9129e166550a6310fa3c%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/ProtLLM/ProtLLM?color=yellow&style=social)](https://github.com/ProtLLM/ProtLLM)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/datasets/ProtLLM/ProtLLM)
@@ -582,6 +599,12 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1.full.pdf)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff4db19d3d9d3f7d4682ea3029c1ca06fb1aa336d%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/wukevin/proteinclip?color=yellow&style=social)](https://github.com/wukevin/proteinclip)
+
+* **ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.06649)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa9086398e27327e5cc664cbabf8a7bbb25c2c50f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/MingyuJ666/ProLLM?color=yellow&style=social)](https://github.com/MingyuJ666/ProLLM)
 
 
 ### More Modalities
