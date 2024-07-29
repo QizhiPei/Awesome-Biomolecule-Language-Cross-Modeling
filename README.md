@@ -541,6 +541,12 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F91762ddd7bbdf38a89b33c6204c5123814a8a0c4%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/Namkyeong/AMOLE?color=yellow&style=social)](https://github.com/Namkyeong/AMOLE)
 
+* **Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task**
+  
+  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=JoO6mtCLHD)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7f57231e0be744cbaec948e7155513fda8b05ed2%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/ChemistryLLMs/SMILES-probing?color=yellow&style=social)](https://github.com/ChemistryLLMs/SMILES-probing)
+
 ### Text + Protein
 * **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
   
