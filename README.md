@@ -11,7 +11,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 🔥 **We will keep this repository updated**.
 
-🌟 **If you have a paper or resource you'd like to add, feel free to submit a pull request or open an issue.**
+🌟 **If you have a paper or resource you'd like to add, feel free to submit a pull request, open an issue, or email the author at <qizhipei@ruc.edu.cn>.**
 
 <p align="center">
   <img src="figs/model_evolution.png" width="960">
@@ -640,6 +640,12 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.16866)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fe4b149e8d7c211edabf4004eab90c2c57ff185cb%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
 
+* **(Pinal) Toward De Novo Protein Design from Natural Language**
+  
+  [![](https://img.shields.io/badge/bioRrxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v1.full.pdf)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faa2728836e242391b79c7329b3cfb35d9b4afccc%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
 
 ### More Modalities
 
@@ -848,6 +854,8 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * Do Large Language Models Understand Chemistry? A Conversation with ChatGPT [JCIM 2303](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
 * A Systematic Survey of Chemical Pre-trained Models [IJCAI 2023](https://www.ijcai.org/proceedings/2023/0760.pdf)
 
+### Related Workshop
+* [Language + Molecules @ ACL 2024 Workshop](https://language-plus-molecules.github.io/)
 
 ### Related Repositories
 * [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery)
