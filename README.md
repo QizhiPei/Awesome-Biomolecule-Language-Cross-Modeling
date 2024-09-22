@@ -547,6 +547,18 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7f57231e0be744cbaec948e7155513fda8b05ed2%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/ChemistryLLMs/SMILES-probing?color=yellow&style=social)](https://github.com/ChemistryLLMs/SMILES-probing)
 
+* **MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.06777)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F2994311ae61eba8fa75033562312d8deec1da462%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+* **UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2408.00863)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F03b0e16a5cb30f0e350e8b5d5bc153e7fb2db037%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+
+
+
 ### Text + Protein
 * **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
   
