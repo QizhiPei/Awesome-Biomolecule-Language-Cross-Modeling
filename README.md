@@ -669,6 +669,13 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/tsynbio/TourSynbio?color=yellow&style=social)](https://github.com/tsynbio/TourSynbio)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/tsynbio/Toursynbio)
 
+* **Decoding the Molecular Language of Proteins with Evolla**
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1101/2025.01.05.630192)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fd05a874742134ecde3f1ca6cc7b710c776e0135b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/westlake-repl/Evolla?color=yellow&style=social)](https://github.com/westlake-repl/Evolla)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/Evolla-10B)
+
+
 
 ### More Modalities
 
