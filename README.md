@@ -585,6 +585,13 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)](https://github.com/DeepGraphLearning/ProtST)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/DeepGraphLearning/ProtST)
 
+* **(ProGen) Large language models generate functional protein sequences across diverse families**
+  
+  [![](https://img.shields.io/badge/Nature_Biotechnology_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41587-022-01618-2)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F835c305e52769a8433f8383e91d33ba6c66ad55b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/salesforce/progen?color=yellow&style=social)](https://github.com/salesforce/progen)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/salesforce/progen)
+  
 * **InstructProtein: Aligning Human and Protein Language via Knowledge Instruction**
   
   [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2310.03269.pdf)
@@ -680,6 +687,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2412.04069)
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1fc064d589849dfefce0d28fe64b9b83600a0cb6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/GXY0116/ProtDAT?color=yellow&style=social)](https://github.com/GXY0116/ProtDAT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/GXY0116/ProtDAT)
 
 * **(Evolla) Decoding the Molecular Language of Proteins with Evolla**
   
@@ -688,9 +696,23 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/westlake-repl/Evolla?color=yellow&style=social)](https://github.com/westlake-repl/Evolla)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/Evolla-10B)
 
+* **ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding**
+  
+  [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=qWlqfjGVWX)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ff05460ba97be8bae46851322fb6c81341d3b4d40%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/OviaLabs/ProteinGPT?color=yellow&style=social)](https://github.com/OviaLabs/ProteinGPT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/OviaLabs/ProteinGPT)
+
 * **(MP4) A generalized protein design ML model enables generation of functional de novo proteins**
   
   [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=H7KaafflRG)
+
+* **Protclip: Function-informed protein multi-modal learning**
+  
+  [![](https://img.shields.io/badge/AAAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ojs.aaai.org/index.php/AAAI/article/view/34456)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F04fe16204c0f04fe2e18622dc336f4c4b1f4e328%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/diaoshaoyou/ProtCLIP?color=yellow&style=social)](https://github.com/diaoshaoyou/ProtCLIP)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/diaoshaoyou/ProtCLIP)
 
 * **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
   
