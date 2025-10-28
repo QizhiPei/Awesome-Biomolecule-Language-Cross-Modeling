@@ -669,6 +669,12 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/tsynbio/TourSynbio?color=yellow&style=social)](https://github.com/tsynbio/TourSynbio)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/tsynbio/Toursynbio)
 
+* **(BioM3) Natural Language Prompts Guide the Design of Novel Functional Protein Sequences**
+  
+  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=L1MyyRCAjX)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F965179f9c3560fd0f3e10ca5935954038e5c66c7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/niksapraljak1/BioM3)
+
 * **ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2412.04069)
@@ -681,6 +687,10 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F41350ce555e79d9631e9a6a33015db872644596f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/westlake-repl/Evolla?color=yellow&style=social)](https://github.com/westlake-repl/Evolla)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/Evolla-10B)
+
+* **(MP4) A generalized protein design ML model enables generation of functional de novo proteins**
+  
+  [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=H7KaafflRG)
 
 * **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
   
