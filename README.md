@@ -783,6 +783,26 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/mzc2113391/ProtTeX?color=yellow&style=social)](https://github.com/mzc2113391/ProtTeX)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/mzc2113391/ProtTeX)
 
+* **Protein2Text: Resampling Mechanism to Translate Protein Sequences into Human-Interpretable Text**
+  
+  [![](https://img.shields.io/badge/NAACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.naacl-industry.68/)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Faafe3b71658d89f95a252579de1c43b6709951d9%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/alaaj27/Protein2Text?color=yellow&style=social)](https://github.com/alaaj27/Protein2Text)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/tumorailab/protein2text-llama3.1-8B-instruct-esm2-650M)
+
+* **Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.11194)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fb6a74f0782b87c02460450a978eb0a73e4f8de0f%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/colinfx/prot2text-v2?color=yellow&style=social)](https://github.com/colinfx/prot2text-v2)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/colinfx/prot2text-v2)
+
+* **(ProDVa) Protein Design with Dynamic Protein Vocabulary**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.18966)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F8728223d2918f4e45f06bd0cf1a67c9b506e1a0b%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/sornkL/ProDVa?color=yellow&style=social)](https://github.com/sornkL/ProDVa)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/nwliu/prodva)
 
 * **(CLASP) Multi-Modal Protein Representation Learning with CLASP**
   
@@ -790,6 +810,13 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa74138324fe52e5e69917dc9d9475f1af503d504%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/Emad-COMBINE-lab/clasp?color=yellow&style=social)](https://github.com/Emad-COMBINE-lab/clasp)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/Emad-COMBINE-lab/clasp)
+
+* **Prot2Chat: protein large language model with early fusion of text, sequence, and structure**
+  
+  [![](https://img.shields.io/badge/Bioinformatics_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/41/8/btaf396/8215464)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F754dfd6585f1c685b5f39d9064ddddadb76ab516%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/wangzc1233/Prot2Chat?color=yellow&style=social)](https://github.com/wangzc1233/Prot2Chat)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zcw51699/prot2chat/tree/main/zcw51699/prot2chat)
 
 * **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
   
