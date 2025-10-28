@@ -689,6 +689,12 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F965179f9c3560fd0f3e10ca5935954038e5c66c7%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/niksapraljak1/BioM3)
 
+* **Language Models for Text-guided Protein Evolution**
+  
+  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=CNla8z0V2p)
+  [![Stars](https://img.shields.io/github/stars/ZhanghanNi/LLM4ProteinEvolution?color=yellow&style=social)](https://github.com/ZhanghanNi/LLM4ProteinEvolution)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/ZhanghanNi/LLM4ProteinEvolution)
+
 * **MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins**
   
   [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://neurips.cc/virtual/2024/poster/94780)
@@ -702,6 +708,14 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1fc064d589849dfefce0d28fe64b9b83600a0cb6%3Ffields%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
   [![Stars](https://img.shields.io/github/stars/GXY0116/ProtDAT?color=yellow&style=social)](https://github.com/GXY0116/ProtDAT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/GXY0116/ProtDAT)
+
+* **EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2412.11618)
+  ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3dc52a6a0cfa3b8310867a107f53ccd1693c7c64%3DcitationCount&query=%24.citationCount&label=citation&style=social&labelColor=555555&color=ED8936)
+  [![Stars](https://img.shields.io/github/stars/sornkL/EvoLlama?color=yellow&style=social)](https://github.com/sornkL/EvoLlama)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/nwliu/EvoLlama)
+
 
 * **(Evolla) Decoding the Molecular Language of Proteins with Evolla**
   
