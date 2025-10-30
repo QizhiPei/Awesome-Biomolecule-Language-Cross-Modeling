@@ -483,6 +483,38 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/gitter-lab/ChemLML?color=yellow&style=social)](https://github.com/gitter-lab/ChemLML)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://doi.org/10.5281/zenodo.11661517)
 
+* **(Llamole) Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**
+  
+  [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=rQ7fz9NO7f)
+  [![Stars](https://img.shields.io/github/stars/liugangcode/Llamole?color=yellow&style=social)](https://github.com/liugangcode/Llamole)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/liuganghuggingface/llamole-collection)
+
+* **(MPPReasoner) Reasoning-Enhanced Large Language Models for Molecular Property Prediction**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2510.10248)
+  [![Stars](https://img.shields.io/github/stars/Jesse-zjx/MPPReasoner?color=yellow&style=social)](https://github.com/Jesse-zjx/MPPReasoner)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://anonymous.4open.science/r/MPPReasoner-12687/README.md)
+
+* **(MECo) Coder as Editor: Code-Driven Interpretable Molecule Optimization**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2510.14455)
+
+* **Chem-R: Learning to Reason as a Chemist**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2510.16880)
+  [![Stars](https://img.shields.io/github/stars/davidweidawang/Chem-R?color=yellow&style=social)](https://github.com/davidweidawang/Chem-R)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/davidweidawang/Chem-R)
+
+* **KnowMol: Advancing Molecular Large Language Models with Multi-Level Chemical Knowledge**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2510.19484)
+  [![Stars](https://img.shields.io/github/stars/yzf-code/KnowMol?color=yellow&style=social)](https://github.com/yzf-code/KnowMol)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://hf.co/datasets/yzf1102/KnowMol-100K)
+
+* **DeepMolTex: Deep Alignment of Molecular Graphs with Large Language Models via Mixture of Modality Experts**
+  
+  [![](https://img.shields.io/badge/MM_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3746027.3755875)
+
 
 ### Text + Protein
 * **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
