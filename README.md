@@ -392,6 +392,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * **(ICMA) Large Language Models are In-Context Molecule Learners**
 
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.04197.pdf)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/phenixace)
 
 * **Benchmarking Large Language Models for Molecule Prediction Tasks**
 
@@ -447,6 +448,8 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * **3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.05797)
+  [![Stars](https://img.shields.io/github/stars/QizhiPei/3D-MolT5?color=yellow&style=social)](https://github.com/QizhiPei/3D-MolT5)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/QizhiPei/3D-MolT5)
 
 * **MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**
   
@@ -483,11 +486,19 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/gitter-lab/ChemLML?color=yellow&style=social)](https://github.com/gitter-lab/ChemLML)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://doi.org/10.5281/zenodo.11661517)
 
-* **(Llamole) Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning**
+* **MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=rQ7fz9NO7f)
+
+* **(Llamole) Multimodal Large Language3D-MOLT5 Models for Inverse Molecular Design with Retrosynthetic Planning**
   
   [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=rQ7fz9NO7f)
   [![Stars](https://img.shields.io/github/stars/liugangcode/Llamole?color=yellow&style=social)](https://github.com/liugangcode/Llamole)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/liuganghuggingface/llamole-collection)
+
+* **Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2508.08401)
 
 * **(MPPReasoner) Reasoning-Enhanced Large Language Models for Molecular Property Prediction**
   
