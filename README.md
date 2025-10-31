@@ -486,15 +486,33 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/gitter-lab/ChemLML?color=yellow&style=social)](https://github.com/gitter-lab/ChemLML)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://doi.org/10.5281/zenodo.11661517)
 
+* **Small Molecule Optimization with Large Language Models**
+  
+  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=nJCYKdRZXb)
+
 * **MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=rQ7fz9NO7f)
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2411.14721)
 
 * **(Llamole) Multimodal Large Language3D-MOLT5 Models for Inverse Molecular Design with Retrosynthetic Planning**
   
   [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=rQ7fz9NO7f)
   [![Stars](https://img.shields.io/github/stars/liugangcode/Llamole?color=yellow&style=social)](https://github.com/liugangcode/Llamole)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/liuganghuggingface/llamole-collection)
+  
+* **XMolCap: Advancing Molecular Captioning through Multimodal Fusion and Explainable Graph Neural Networks**
+  
+  [![](https://img.shields.io/badge/JBHI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/11012653)
+  [![Stars](https://img.shields.io/github/stars/cbbl-skku-org/XMolCap?color=yellow&style=social)](https://github.com/cbbl-skku-org/XMolCap)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/cbbl-skku-org/XMolCap)
+
+* **ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2507.21990v2)
+
+* **Dual Learning Between Molecules and Natural Language**
+  
+  [![](https://img.shields.io/badge/PAKDD_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_31)
 
 * **Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery**
   
