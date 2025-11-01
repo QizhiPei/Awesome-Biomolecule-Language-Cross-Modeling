@@ -480,6 +480,10 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2408.00863)
 
+* **Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.03138)
+
 * **Chemical Language Model Linker: blending text and molecules with modular adapters**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2410.20182)
@@ -499,12 +503,28 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=rQ7fz9NO7f)
   [![Stars](https://img.shields.io/github/stars/liugangcode/Llamole?color=yellow&style=social)](https://github.com/liugangcode/Llamole)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/liuganghuggingface/llamole-collection)
+
+* **OCSU: Optical Chemical Structure Understanding for Molecule-centric Scientific Discovery**
   
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2501.15415)
+  [![Stars](https://img.shields.io/github/stars/PharMolix/OCSU?color=yellow&style=social)](https://github.com/PharMolix/OCSU)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/Mol-VL-7B)
+
+* **Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.02810)
+
 * **XMolCap: Advancing Molecular Captioning through Multimodal Fusion and Explainable Graph Neural Networks**
   
   [![](https://img.shields.io/badge/JBHI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/11012653)
   [![Stars](https://img.shields.io/github/stars/cbbl-skku-org/XMolCap?color=yellow&style=social)](https://github.com/cbbl-skku-org/XMolCap)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/cbbl-skku-org/XMolCap)
+
+* **ChemDual: Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning**
+  
+  [![](https://img.shields.io/badge/ICJAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.02639)
+  [![Stars](https://img.shields.io/github/stars/JacklinGroup/ChemDual?color=yellow&style=social)](https://github.com/JacklinGroup/ChemDual)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/JacklinGroup/ChemDual)
 
 * **ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge**
   
@@ -514,9 +534,19 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/PAKDD_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_31)
 
+* **CROP: Integrating Topological and Spatial Structures via Cross-View Prefixes for Molecular LLMs**
+  
+  [![](https://img.shields.io/badge/MM_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2508.06917)
+
 * **Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery**
   
   [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2508.08401)
+
+* **(CAMT5) Training Text-to-Molecule Models with Context-Aware Tokenization**
+  
+  [![](https://img.shields.io/badge/ENMLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2509.04476)
+  [![Stars](https://img.shields.io/github/stars/Songhyeontae/CAMT5?color=yellow&style=social)](https://github.com/Songhyeontae/CAMT5)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/Songhyeontae/CAMT5)
 
 * **(MPPReasoner) Reasoning-Enhanced Large Language Models for Molecular Property Prediction**
   
