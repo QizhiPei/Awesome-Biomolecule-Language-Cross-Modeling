@@ -399,10 +399,6 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.05075.pdf)
   [![Stars](https://img.shields.io/github/stars/zhiqiangzhongddu/LLMaMol?color=yellow&style=social)](https://github.com/zhiqiangzhongddu/LLMaMol)
 
-* **DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs**
-
-  [![](https://img.shields.io/badge/ResearchGate_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.18535)
-
 * **3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.07179.pdf)
@@ -437,10 +433,24 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.17829)
   [![Stars](https://img.shields.io/github/stars/jinhojsk515/LDMol?color=yellow&style=social)](https://github.com/jinhojsk515/LDMol)
 
+* **DrugLLM: Open Large Language Model for Few-shot Molecule Generation**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.06690)
+
+* **(HI-Mol) Data-Efficient Molecular Generation with Hierarchical Textual Inversion**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2405.02845)
+  [![Stars](https://img.shields.io/github/stars/Seojin-Kim/HI-Mol?color=yellow&style=social)](https://github.com/Seojin-Kim/HI-Mol)
+
 * **(MV-Mol) Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.09841)
-  [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
+  [![Stars](https://img.shields.io/github/stars/icycookies/MV-Mol?color=yellow&style=social)](https://github.com/icycookies/MV-Mol)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1cd1EZTuyNOCLRt2Vr0JgXh3kWm9f2qwU)
+
+* **DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs**
+
+  [![](https://img.shields.io/badge/ResearchGate_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.18535)
 
 * **HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**
   
@@ -463,14 +473,9 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/NYUSHCS/MolecularGPT?color=yellow&style=social)](https://github.com/NYUSHCS/MolecularGPT)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/YuyanLiu/MolecularGPT)
 
-* **DrugLLM: Open Large Language Model for Few-shot Molecule Generation**
+* **MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.06690)
-
-* **(HI-Mol) Data-Efficient Molecular Generation with Hierarchical Textual Inversion**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2405.02845)
-  [![Stars](https://img.shields.io/github/stars/Seojin-Kim/HI-Mol?color=yellow&style=social)](https://github.com/Seojin-Kim/HI-Mol)
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.06777)
 
 * **(AMOLE) Vision Language Model is NOT All You Need: Augmentation Strategies for Molecule Language Models**
   
@@ -485,10 +490,6 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=JoO6mtCLHD)
   [![Stars](https://img.shields.io/github/stars/ChemistryLLMs/SMILES-probing?color=yellow&style=social)](https://github.com/ChemistryLLMs/SMILES-probing)
-
-* **MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.06777)
 
 * **UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation**
   
@@ -535,14 +536,14 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.05610)
   [![Stars](https://img.shields.io/github/stars/yunhuijang/MSR?color=yellow&style=social)](https://github.com/yunhuijang/MSR)
 
+* **(TransDLM) Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model**
+  
+  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.13597)
+  [![Stars](https://img.shields.io/github/stars/Cello2195/TransDLM?color=yellow&style=social)](https://github.com/Cello2195/TransDLM)
+
 * **Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.03138)
-
-* **(AMOLE) Vision Language Model is NOT All You Need: Augmentation Strategies for Molecule Language Models**
-  
-  [![](https://img.shields.io/badge/CIKM_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3627673.3679607)
-  [![Stars](https://img.shields.io/github/stars/Namkyeong/AMOLE?color=yellow&style=social)](https://github.com/Namkyeong/AMOLE)
 
 * **Chemical Language Model Linker: blending text and molecules with modular adapters**
   
@@ -918,11 +919,6 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.03553)
   [![Stars](https://img.shields.io/github/stars/U-rara/SEPIT?color=yellow&style=social)](https://github.com/U-rara/SEPIT)
-
-* **(TransDLM) Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.13597)
-  [![Stars](https://img.shields.io/github/stars/Cello2195/TransDLM?color=yellow&style=social)](https://github.com/Cello2195/TransDLM)
 
 * **(BioM3) Natural Language Prompts Guide the Design of Novel Functional Protein Sequences**
   
