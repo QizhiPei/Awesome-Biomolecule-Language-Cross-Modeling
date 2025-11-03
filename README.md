@@ -416,7 +416,8 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **Atomas: Hierarchical Alignment on Molecule-Text for Unified Molecule Understanding and Generation**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.16880.pdf)
+  [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.16880.pdf)
+  [![Stars](https://img.shields.io/github/stars/yikunpku/Atomas?color=yellow&style=social)](https://github.com/yikunpku/Atomas)
 
 * **ReactXT: Understanding Molecular"Reaction-ship"via Reaction-Contextualized Molecule-Text Pretraining**
   
@@ -459,7 +460,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.13193v1)
+  [![](https://img.shields.io/badge/EMNLP_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.13193v1)
   [![Stars](https://img.shields.io/github/stars/IDEA-XL/PRESTO?color=yellow&style=social)](https://github.com/IDEA-XL/PRESTO)
 
 * **3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization**
@@ -545,15 +546,16 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.03138)
 
-* **Chemical Language Model Linker: blending text and molecules with modular adapters**
+* **(ChemLML) Chemical Language Model Linker: blending text and molecules with modular adapters**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2410.20182)
+  [![](https://img.shields.io/badge/JCIM_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2410.20182)
   [![Stars](https://img.shields.io/github/stars/gitter-lab/ChemLML?color=yellow&style=social)](https://github.com/gitter-lab/ChemLML)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://doi.org/10.5281/zenodo.11661517)
 
 * **Small Molecule Optimization with Large Language Models**
   
   [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=nJCYKdRZXb)
+  [![Stars](https://img.shields.io/github/stars/yerevann/chemlactica?color=yellow&style=social)](https://github.com/yerevann/chemlactica)
 
 * **Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks**
   
@@ -722,6 +724,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * **mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model**
   
   [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.12565)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/language-plus-molecules/mclm)
 
 * **ChemMLLM: Chemical Multimodal Large Language Model**
   
