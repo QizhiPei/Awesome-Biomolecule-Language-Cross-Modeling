@@ -1225,6 +1225,8 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | UniProt              | Pre-training      | Protein                 | [https://www.uniprot.org](https://www.uniprot.org)                   |
 | ChEMBL               | Pre-training      | Molecule, Bioassay      | [https://www.ebi.ac.uk/chembl](https://www.ebi.ac.uk/chembl)         |
 | GIMLET               | Pre-training      | Molecule, Bioassay      | [https://github.com/zhao-ht/GIMLET](https://github.com/zhao-ht/GIMLET), [https://huggingface.co/datasets/haitengzhao/molecule_property_instruction](https://huggingface.co/datasets/haitengzhao/molecule_property_instruction) |
+| mCLM              | Pre-training      | Text, Molecule | [https://huggingface.co/datasets/language-plus-molecules/mCLM_Pretrain_All](https://huggingface.co/datasets/language-plus-molecules/mCLM_Pretrain_All) |
+| PEIT-GEN              | Pre-training      | Text, Molecule | [https://pan.baidu.com/s/1VcFvrVHmjBZpL2L_QWt9TQ?pwd=vvts](https://pan.baidu.com/s/1VcFvrVHmjBZpL2L_QWt9TQ?pwd=vvts) |
 | PubChem              | Pre-training      | Text, Molecule, IUPAC, etc | [https://ftp.ncbi.nlm.nih.gov/pubchem](https://ftp.ncbi.nlm.nih.gov/pubchem) |
 | InterPT              | Pre-training      | Text, Protein           | [https://huggingface.co/datasets/ProtLLM/ProtLLM](https://huggingface.co/datasets/ProtLLM/ProtLLM) |
 | STRING               | Pre-training      | Text, Protein, etc      | [https://string-db.org](https://string-db.org)                       |
