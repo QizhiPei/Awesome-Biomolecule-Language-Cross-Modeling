@@ -822,6 +822,10 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.755/) 
   [![Stars](https://img.shields.io/github/stars/AcaciaSin/MolRAG?color=yellow&style=social)](https://github.com/AcaciaSin/MolRAG)  
 
+* **(MolBridge) Bridging the Gap Between Molecule and Textual Descriptions via Substructure-aware Alignment**
+
+  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.1197/) 
+  [![Stars](https://img.shields.io/github/stars/Park-ing-lot/MolBridge?color=yellow&style=social)](https://github.com/Park-ing-lot/MolBridge)  
 
 ### Text + Protein
 * **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
