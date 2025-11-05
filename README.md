@@ -1237,6 +1237,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | STRING               | Pre-training      | Text, Protein, etc      | [https://string-db.org](https://string-db.org)                       |
 | MolTextNet               | Pre-training      | Text, Molecule    | [https://huggingface.co/datasets/liuganghuggingface/moltextnet](https://huggingface.co/datasets/liuganghuggingface/moltextnet)                       |
 | ProtAnnotation               | Pre-training      | Text, Protein    | [https://huggingface.co/datasets/ychaohao/ProtAnnotation](https://huggingface.co/datasets/ychaohao/ProtAnnotation)                       |
+| ProteinKG25               | Pre-training      | Text, Protein    | [https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730](https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730)                       |
 | BLURB                | Fine-tuning       | Text                    | [https://microsoft.github.io/BLURB](https://microsoft.github.io/BLURB) |
 | PubMedQA             | Fine-tuning       | Text                    | [https://github.com/pubmedqa/pubmedqa](https://github.com/pubmedqa/pubmedqa) |
 | SciQ                 | Fine-tuning       | Text                    | [https://huggingface.co/datasets/sciq](https://huggingface.co/datasets/sciq) |
@@ -1287,6 +1288,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | Open Protein Instructions | Fine-tuning  | Text, Protein          | [https://github.com/baaihealth/opi](https://github.com/baaihealth/opi) |
 | ProteinLMDataset             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMDataset](https://huggingface.co/datasets/tsynbio/ProteinLMDataset)|
 | ProLLaMA Instruction Dataset             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/GreatCaptainNemo/instruction_dataset](https://huggingface.co/datasets/GreatCaptainNemo/instruction_dataset)|
+| PDB-QA             | Fine-tuning                 | Text, Protein | [https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730](https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730)|
 | Mol-Instructions     | Fine-tuning        | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
 | Biology-Instructions             | Fine-tuning                 | Text, Molecule, Protein | [https://github.com/hhnqqq/BiologyInstructions](https://github.com/hhnqqq/BiologyInstructions)|
 | SciEval              | -       | Text                    | [https://github.com/OpenDFM/SciEval](https://github.com/OpenDFM/SciEval) |
