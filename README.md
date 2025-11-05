@@ -890,6 +890,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.12564)
   [![Stars](https://img.shields.io/github/stars/acharkq/ProtT3?color=yellow&style=social)](https://github.com/acharkq/ProtT3)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://osf.io/23azs/overview?view_only=185575515e714f4798499bf06513a730)
 
 * **ProteinCLIP: enhancing protein language models with natural language**
   
@@ -901,9 +902,11 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.06649)
   [![Stars](https://img.shields.io/github/stars/MingyuJ666/ProLLM?color=yellow&style=social)](https://github.com/MingyuJ666/ProLLM)
 
-* **(PAAG) Functional Protein Design with Local Domain Alignment**
+* **(PAAG) Annotation-guided Protein Design with Multi-Level Domain Alignment**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.16866)
+  [![](https://img.shields.io/badge/KDD_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.16866)
+  [![Stars](https://img.shields.io/github/stars/chaohaoyuan/PAAG?color=yellow&style=social)](https://github.com/chaohaoyuan/PAAG)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ychaohao/PAAG)
 
 * **(Pinal) Toward De Novo Protein Design from Natural Language**
   
@@ -1233,6 +1236,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | InterPT              | Pre-training      | Text, Protein           | [https://huggingface.co/datasets/ProtLLM/ProtLLM](https://huggingface.co/datasets/ProtLLM/ProtLLM) |
 | STRING               | Pre-training      | Text, Protein, etc      | [https://string-db.org](https://string-db.org)                       |
 | MolTextNet               | Pre-training      | Text, Molecule    | [https://huggingface.co/datasets/liuganghuggingface/moltextnet](https://huggingface.co/datasets/liuganghuggingface/moltextnet)                       |
+| ProtAnnotation               | Pre-training      | Text, Protein    | [https://huggingface.co/datasets/ychaohao/ProtAnnotation](https://huggingface.co/datasets/ychaohao/ProtAnnotation)                       |
 | BLURB                | Fine-tuning       | Text                    | [https://microsoft.github.io/BLURB](https://microsoft.github.io/BLURB) |
 | PubMedQA             | Fine-tuning       | Text                    | [https://github.com/pubmedqa/pubmedqa](https://github.com/pubmedqa/pubmedqa) |
 | SciQ                 | Fine-tuning       | Text                    | [https://huggingface.co/datasets/sciq](https://huggingface.co/datasets/sciq) |
@@ -1282,6 +1286,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | InstructProtein      | Fine-tuning        | Text, Protein           | - |
 | Open Protein Instructions | Fine-tuning  | Text, Protein          | [https://github.com/baaihealth/opi](https://github.com/baaihealth/opi) |
 | ProteinLMDataset             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMDataset](https://huggingface.co/datasets/tsynbio/ProteinLMDataset)|
+| ProLLaMA Instruction Dataset             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/GreatCaptainNemo/instruction_dataset](https://huggingface.co/datasets/GreatCaptainNemo/instruction_dataset)|
 | Mol-Instructions     | Fine-tuning        | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
 | Biology-Instructions             | Fine-tuning                 | Text, Molecule, Protein | [https://github.com/hhnqqq/BiologyInstructions](https://github.com/hhnqqq/BiologyInstructions)|
 | SciEval              | -       | Text                    | [https://github.com/OpenDFM/SciEval](https://github.com/OpenDFM/SciEval) |
