@@ -177,7 +177,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains**
 
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.10373.pdf)
+  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.10373.pdf)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/BioMistral)
 
 ### Text + Molecule
@@ -222,10 +222,6 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=Tt6DrRCgJV)
   [![Stars](https://img.shields.io/github/stars/zhao-ht/GIMLET?color=yellow&style=social)](https://github.com/zhao-ht/GIMLET)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/haitengzhao/gimlet)
-
-* **(HI-Mol) Data-Efficient Molecular Generation with Hierarchical Textual Inversion**
-  
-  [![](https://img.shields.io/badge/AI4D3@NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=wwotGBxtC3)
 
 * **MoleculeGPT: Instruction Following Large Language Models for Molecular Property Prediction**
   
@@ -387,14 +383,14 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **(3DToMolo) Sculpting Molecules in 3D: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization**
 
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.03425.pdf)
+  [![](https://img.shields.io/badge/Bioinformatics_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.03425.pdf)
 
 * **(ICMA) Large Language Models are In-Context Molecule Learners**
 
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.04197.pdf)
+  [![](https://img.shields.io/badge/IEEE_TKDE‌_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.04197.pdf)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/phenixace)
 
-* **Benchmarking Large Language Models for Molecule Prediction Tasks**
+* **(LLMaMol) Benchmarking Large Language Models for Molecule Prediction Tasks**
 
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.05075.pdf)
   [![Stars](https://img.shields.io/github/stars/zhiqiangzhongddu/LLMaMol?color=yellow&style=social)](https://github.com/zhiqiangzhongddu/LLMaMol)
@@ -406,12 +402,12 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **(TSMMG) Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model**
 
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.13244.pdf)
+  [![](https://img.shields.io/badge/Biology_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.13244.pdf)
   [![Stars](https://img.shields.io/github/stars/HHW-zhou/TSMMG?color=yellow&style=social)](https://github.com/HHW-zhou/TSMMG)
 
 * **(SLM4CRP) A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.09606.pdf)
+  [![](https://img.shields.io/badge/Eng_Appl_Artif_Intell-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.09606.pdf)
   [![Stars](https://img.shields.io/github/stars/AI-HPC-Research-Team/SLM4CRP?color=yellow&style=social)](https://github.com/AI-HPC-Research-Team/SLM4CRP)
 
 * **Atomas: Hierarchical Alignment on Molecule-Text for Unified Molecule Understanding and Generation**
@@ -424,9 +420,9 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.14225)
   [![Stars](https://img.shields.io/github/stars/syr-cn/ReactXT?color=yellow&style=social)](https://github.com/syr-cn/ReactXT)
 
-* **(ALMol) Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation**  
+* **ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation**  
 
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.langmol-1.3/)
+  [![](https://img.shields.io/badge/L+M_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.langmol-1.3/)
   [![Stars](https://img.shields.io/github/stars/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery?color=yellow&style=social)](https://github.com/REAL-Lab-NUgithub.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery)
 
 * **LDMol: Text-Conditioned Molecule Diffusion Model Leveraging Chemically Informative Latent Space**
@@ -445,13 +441,13 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **(MV-Mol) Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.09841)
+  [![](https://img.shields.io/badge/KDD_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.09841)
   [![Stars](https://img.shields.io/github/stars/icycookies/MV-Mol?color=yellow&style=social)](https://github.com/icycookies/MV-Mol)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1cd1EZTuyNOCLRt2Vr0JgXh3kWm9f2qwU)
 
 * **DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs**
 
-  [![](https://img.shields.io/badge/ResearchGate_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.18535)
+  [![](https://img.shields.io/badge/NLPCC_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.18535)
 
 * **HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**
   
@@ -487,7 +483,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2407.15141)
 
-* **Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task**
+* **(SMILES-probing) Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task**
   
   [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=JoO6mtCLHD)
   [![Stars](https://img.shields.io/github/stars/ChemistryLLMs/SMILES-probing?color=yellow&style=social)](https://github.com/ChemistryLLMs/SMILES-probing)
@@ -513,7 +509,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.langmol-1.15/)
   [![Stars](https://img.shields.io/github/stars/nhattruongpham/mol-lang-bridge?color=yellow&style=social)](https://github.com/nhattruongpham/mol-lang-bridge/tree/lang2mol/)
 
-* **Enhancing Cross Text-Molecule Learning by Self-Augmentation**  
+* **(Self-Augmentation) Enhancing Cross Text-Molecule Learning by Self-Augmentation**  
 
   [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.findings-acl.569/)
 
@@ -534,7 +530,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **(MSR) Structural Reasoning Improves Molecular Understanding of LLM**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.05610)
+  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.05610)
   [![Stars](https://img.shields.io/github/stars/yunhuijang/MSR?color=yellow&style=social)](https://github.com/yunhuijang/MSR)
 
 * **(TransDLM) Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model**
@@ -552,7 +548,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/gitter-lab/ChemLML?color=yellow&style=social)](https://github.com/gitter-lab/ChemLML)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://doi.org/10.5281/zenodo.11661517)
 
-* **Small Molecule Optimization with Large Language Models**
+* **(Chemlactica) Small Molecule Optimization with Large Language Models**
   
   [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=nJCYKdRZXb)
   [![Stars](https://img.shields.io/github/stars/yerevann/chemlactica?color=yellow&style=social)](https://github.com/yerevann/chemlactica)
@@ -807,7 +803,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **(Mol-LLM) Incorporating Molecular Knowledge in Large Language Models via Multimodal Modeling**
   
-  [![](https://img.shields.io/badge/TCSS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/10838383)
+  [![](https://img.shields.io/badge/IEEE_Trans_Comput_Soc_Syst_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/10838383)
 
 * **DeepMolTex: Deep Alignment of Molecular Graphs with Large Language Models via Mixture of Modality Experts**
   
@@ -880,7 +876,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.16445v1.pdf)
+  [![](https://img.shields.io/badge/TAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/10979347)
   [![Stars](https://img.shields.io/github/stars/Lyu6PosHao/ProLLaMA?color=yellow&style=social)](https://github.com/Lyu6PosHao/ProLLaMA)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GreatCaptainNemo/ProLLaMA)
 
@@ -929,7 +925,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=L1MyyRCAjX)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/niksapraljak1/BioM3)
 
-* **Language Models for Text-guided Protein Evolution**
+* **(LLM4ProteinEvolution) Language Models for Text-guided Protein Evolution**
   
   [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=CNla8z0V2p)
   [![Stars](https://img.shields.io/github/stars/ZhanghanNi/LLM4ProteinEvolution?color=yellow&style=social)](https://github.com/ZhanghanNi/LLM4ProteinEvolution)
@@ -1008,7 +1004,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment**
   
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.11194)
+  [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.11194)
   [![Stars](https://img.shields.io/github/stars/colinfx/prot2text-v2?color=yellow&style=social)](https://github.com/colinfx/prot2text-v2)
 
 * **(ProDVa) Protein Design with Dynamic Protein Vocabulary**
@@ -1124,7 +1120,9 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **LangCell: Language-Cell Pre-training for Cell Identity Understanding**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.06708v2)
+  [![](https://img.shields.io/badge/ICML_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.06708v2)
+  [![Stars](https://img.shields.io/github/stars/PharMolix/LangCell?color=yellow&style=social)](https://github.com/PharMolix/LangCell)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1cuhVG9v0YoAnjW-t_WMpQQguajumCBTp)
 
 * **BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning**
   
@@ -1143,7 +1141,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.05140.pdf)
+  [![](https://img.shields.io/badge/ICML_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.05140.pdf)
   [![Stars](https://img.shields.io/github/stars/sjunhongshen/Tag-LLM?color=yellow&style=social)](https://github.com/sjunhongshen/Tag-LLM)
 
 * **An Evaluation of Large Language Models in Bioinformatics Research**
@@ -1182,9 +1180,9 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/Information_Fusion_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003008?via%3Dihub)
   [![Stars](https://img.shields.io/github/stars/1zzt/KFPPIMI?color=yellow&style=social)](https://github.com/1zzt/KFPPIMI)
 
-* **(CAFT) Improving Large Language Models with  Concept-Aware Fine-Tuning**
+* **(CAFT) Improving Large Language Models with Concept-Aware Fine-Tuning**
   
-  [![](https://img.shields.io/badge/Information_Fusion_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2506.07833)
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2506.07833)
   [![Stars](https://img.shields.io/github/stars/michaelchen-lab/caft-llm?color=yellow&style=social)](https://github.com/michaelchen-lab/caft-llm)
 
 * **(InstructBioMol) Advancing biomolecular understanding and design following human instructions**
@@ -1239,11 +1237,13 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | PubMedQA             | Fine-tuning       | Text                    | [https://github.com/pubmedqa/pubmedqa](https://github.com/pubmedqa/pubmedqa) |
 | SciQ                 | Fine-tuning       | Text                    | [https://huggingface.co/datasets/sciq](https://huggingface.co/datasets/sciq) |
 | BioASQ               | Fine-tuning       | Text                    | [http://participants-area.bioasq.org/datasets](http://participants-area.bioasq.org/datasets) |
+| MedC-I               | Fine-tuning       | Text                    | [https://huggingface.co/datasets/axiong/pmc_llama_instructions](https://huggingface.co/datasets/axiong/pmc_llama_instructions) |
 | MoleculeNet          | Fine-tuning       | Molecule                | [https://moleculenet.org/datasets-1](https://moleculenet.org/datasets-1) |
 | MoleculeACE          | Fine-tuning       | Molecule                | [https://github.com/molML/MoleculeACE](https://github.com/molML/MoleculeACE) |
 | TDC                  | Fine-tuning       | Molecule                | [https://tdcommons.ai/](https://tdcommons.ai/)                        |
 | USPTO                | Fine-tuning       | Molecule                | [https://yzhang.hpc.nyu.edu/T5Chem](https://yzhang.hpc.nyu.edu/T5Chem) |
 | Graph2graph          | Fine-tuning       | Molecule                | [https://github.com/wengong-jin/iclr19-graph2graph/tree/master/data](https://github.com/wengong-jin/iclr19-graph2graph/tree/master/data) |
+| PubChem Molecule Optimization          | Fine-tuning       | Molecule                | [https://huggingface.co/datasets/yerevann/PubChemForLM](https://huggingface.co/datasets/yerevann/PubChemForLM) |
 | PEER                 | Fine-tuning       | Protein                 | [https://github.com/DeepGraphLearning/PEER_Benchmark](https://github.com/DeepGraphLearning/PEER_Benchmark) |
 | FLIP                 | Fine-tuning       | Protein                 | [https://benchmark.protein.properties](https://benchmark.protein.properties) |
 | TAPE                 | Fine-tuning       | Protein                 | [https://github.com/songlab-cal/tape](https://github.com/songlab-cal/tape) |
@@ -1260,37 +1260,43 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | ChemCoTDataset           | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/OpenMol/ChemCoTDataset](https://huggingface.co/datasets/OpenMol/ChemCoTDataset) |
 | MoleculeQA           | Fine-tuning       | Text, Molecule          | [https://github.com/IDEA-XL/MoleculeQA](https://github.com/IDEA-XL/MoleculeQA) |
 | MolTextQA           | Fine-tuning       | Text, Molecule          | [https://github.com/siddharthal/MolTextQA](https://github.com/siddharthal/MolTextQA) |
+| MolOpt-Instructions  | Fine-tuning       | Text, Molecule          | [https://github.com/blazerye/DrugAssist](https://github.com/blazerye/DrugAssist) |
+| SMolInstruct         | Fine-tuning       | Text, Molecule          | [https://github.com/OSU-NLP-Group/LLM4Chem](https://github.com/OSU-NLP-Group/LLM4Chem) |
+| PubChem324k           | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/acharkq/PubChem324kV2](https://huggingface.co/datasets/acharkq/PubChem324kV2) |
+| KnowMol-100K           | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/yzf1102/KnowMol-100K](https://huggingface.co/datasets/yzf1102/KnowMol-100K) |
+| MolQA           | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/liuganghuggingface/Llamole-MolQA](https://huggingface.co/datasets/liuganghuggingface/Llamole-MolQA) |
+| MolTC           | Fine-tuning       | Text, Molecule          | [https://huggingface.co/chang04/ddi](https://huggingface.co/chang04/ddi) |
+| Mol-LLaMA-Instruct          | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/DongkiKim/Mol-LLaMA-Instruct](https://huggingface.co/datasets/DongkiKim/Mol-LLaMA-Instruct) |
+| PEIT-LLM          | Fine-tuning       | Text, Molecule          | [https://pan.baidu.com/s/1VcFvrVHmjBZpL2L_QWt9TQ?pwd=vvts](https://pan.baidu.com/s/1VcFvrVHmjBZpL2L_QWt9TQ?pwd=vvts) |
+| SmileyLlama          | Fine-tuning       | Text, Molecule          | [https://anonymous.4open.science/r/SmileyLlama-gh-D038](https://anonymous.4open.science/r/SmileyLlama-gh-D038) |
+| MuMOInstruct          | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/NingLab/MuMOInstruct](https://huggingface.co/datasets/NingLab/MuMOInstruct) |
+| HiPubChem          | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/lfhase/HIGHT](https://huggingface.co/datasets/lfhase/HIGHT) |
+| ExDDI          | Fine-tuning       | Text, Molecule          | [https://drive.google.com/drive/folders/1o2UgoPvMw6hunoewChw0ErumxXWJ4aTX?usp=sharing](https://drive.google.com/drive/folders/1o2UgoPvMw6hunoewChw0ErumxXWJ4aTX?usp=sharing) |
+| MMP          | Fine-tuning       | Text, Molecule          | [https://github.com/Cello2195/TransDLM/tree/main/datasets/mmp](https://github.com/Cello2195/TransDLM/tree/main/datasets/mmp) |
+| SLM4CRP_with_RTs     | Fine-tuning       | Text, Molecule          | [https://huggingface.co/datasets/liupf/SLM4CRP_with_RTs](https://huggingface.co/datasets/liupf/SLM4CRP_with_RTs) |
+| SciAssess            | Fine-tuning        | Text, Molecule, etc     | [https://sci-assess.github.io](https://sci-assess.github.io/), [https://github.com/sci-assess/SciAssess](https://github.com/sci-assess/SciAssess) |
 | DrugBank             | Fine-tuning       | Text, Molecule, etc     | [https://github.com/SCIR-HI/ArtificiallyR2R](https://github.com/SCIR-HI/ArtificiallyR2R)|
+| DARWIN               | Fine-tuning       | Text, Molecule, etc     | [https://github.com/MasterAI-EAM/Darwin/tree/main/dataset](https://github.com/MasterAI-EAM/Darwin/tree/main/dataset) |
 | SwissProt            | Fine-tuning       | Text, Protein           | [https://www.expasy.org/resources/uniprotkb-swiss-prot](https://www.expasy.org/resources/uniprotkb-swiss-prot)|
 | UniProtQA            | Fine-tuning       | Text, Protein           | [https://github.com/PharMolix/OpenBioMed](https://github.com/PharMolix/OpenBioMed) |
-| SciEval              | Instruction       | Text                    | [https://github.com/OpenDFM/SciEval](https://github.com/OpenDFM/SciEval) |
-| BioInfo-Bench        | Instruction       | Text                    | [https://github.com/cinnnna/bioinfo-bench](https://github.com/cinnnna/bioinfo-bench) |
-| MedC-I               | Instruction       | Text                    | [https://huggingface.co/datasets/axiong/pmc_llama_instructions](https://huggingface.co/datasets/axiong/pmc_llama_instructions) |
-| BioMedEval           | Instruction       | Text                    | [https://github.com/tahmedge/llm-eval-biomed](https://github.com/tahmedge/llm-eval-biomed) |
-| MolOpt-Instructions  | Instruction       | Text, Molecule          | [https://github.com/blazerye/DrugAssist](https://github.com/blazerye/DrugAssist) |
-| SMolInstruct         | Instruction       | Text, Molecule          | [https://github.com/OSU-NLP-Group/LLM4Chem](https://github.com/OSU-NLP-Group/LLM4Chem) |
-| ChemLLMBench         | Instruction       | Text, Molecule          | [https://github.com/ChemFoundationModels/ChemLLMBench](https://github.com/ChemFoundationModels/ChemLLMBench) |
-| AI4Chem              | Instruction       | Text, Molecule          | [https://github.com/andresilvapimentel/AI4Chem](https://github.com/andresilvapimentel/AI4Chem) |
-| GPTChem              | Instruction       | Text, Molecule          | [https://github.com/kjappelbaum/gptchem](https://github.com/kjappelbaum/gptchem)|
-| OpenMolIns     | Instruction       | Text, Molecule          | [https://huggingface.co/datasets/Duke-de-Artois/TOMG-Bench](https://huggingface.co/datasets/Duke-de-Artois/TOMG-Bench) |
-| SLM4CRP_with_RTs     | Instruction       | Text, Molecule          | [https://huggingface.co/datasets/liupf/SLM4CRP_with_RTs](https://huggingface.co/datasets/liupf/SLM4CRP_with_RTs) |
-| DARWIN               | Instruction       | Text, Molecule, etc     | [https://github.com/MasterAI-EAM/Darwin/tree/main/dataset](https://github.com/MasterAI-EAM/Darwin/tree/main/dataset) |
-| StructChem           | Instruction       | Text, Molecule, etc     | [https://github.com/ozyyshr/StructChem](https://github.com/ozyyshr/StructChem) |
-| SciAssess            | Instruction       | Text, Molecule, etc     | [https://sci-assess.github.io](https://sci-assess.github.io/), [https://github.com/sci-assess/SciAssess](https://github.com/sci-assess/SciAssess) |
-| InstructProtein      | Instruction       | Text, Protein           | - |
-| Open Protein Instructions | Instruction | Text, Protein          | [https://github.com/baaihealth/opi](https://github.com/baaihealth/opi) |
-| ProteinLMDataset             | Instruction                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMDataset](https://huggingface.co/datasets/tsynbio/ProteinLMDataset)|
-| OPI             | Instruction                 | Text, Protein | [https://github.com/baaihealth/opi](https://github.com/baaihealth/opi)|
-| Mol-Instructions     | Instruction       | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
-| Biology-Instructions             | Instruction                 | Text, Molecule, Protein, etc | [https://github.com/hhnqqq/BiologyInstructions](https://github.com/hhnqqq/BiologyInstructions)|
-| CheF                 | -                 | Text, Molecule          | [https://github.com/kosonocky/CheF](https://github.com/kosonocky/CheF) |
-| ChemCoTBench                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/OpenMol/ChemCoTDataset](https://huggingface.co/datasets/OpenMol/ChemCoTDataset) |
+| InstructProtein      | Fine-tuning        | Text, Protein           | - |
+| Open Protein Instructions | Fine-tuning  | Text, Protein          | [https://github.com/baaihealth/opi](https://github.com/baaihealth/opi) |
+| ProteinLMDataset             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMDataset](https://huggingface.co/datasets/tsynbio/ProteinLMDataset)|
+| Mol-Instructions     | Fine-tuning        | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
+| Biology-Instructions             | Fine-tuning                 | Text, Molecule, Protein | [https://github.com/hhnqqq/BiologyInstructions](https://github.com/hhnqqq/BiologyInstructions)|
+| SciEval              | -       | Text                    | [https://github.com/OpenDFM/SciEval](https://github.com/OpenDFM/SciEval) |
+| BioInfo-Bench        | -       | Text                    | [https://github.com/cinnnna/bioinfo-bench](https://github.com/cinnnna/bioinfo-bench) |
+| BioMedEval           | -       | Text                    | [https://github.com/tahmedge/llm-eval-biomed](https://github.com/tahmedge/llm-eval-biomed) |
+| ChemLLMBench         | -       | Text, Molecule          | [https://github.com/ChemFoundationModels/ChemLLMBench](https://github.com/ChemFoundationModels/ChemLLMBench) |
+| AI4Chem              | -       | Text, Molecule          | [https://github.com/andresilvapimentel/AI4Chem](https://github.com/andresilvapimentel/AI4Chem) |
+| GPTChem              | -       | Text, Molecule          | [https://github.com/kjappelbaum/gptchem](https://github.com/kjappelbaum/gptchem)|
+| StructChem           | -       | Text, Molecule, etc     | [https://github.com/ozyyshr/StructChem](https://github.com/ozyyshr/StructChem) |
+| S²-Bench     | -       | Text, Molecule          | [https://huggingface.co/datasets/Duke-de-Artois/TOMG-Bench](https://huggingface.co/datasets/Duke-de-Artois/TOMG-Bench) |
+| MotifHallu     | -       | Text, Molecule          | [https://huggingface.co/datasets/lfhase/HIGHT](https://huggingface.co/datasets/lfhase/HIGHT) |
 | MolCap-Arena                 | -                 | Text, Molecule          | [https://github.com/Genentech/molcap-arena](https://github.com/Genentech/molcap-arena) |
-| MolErr2Fix                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/YoungerWu/MolErr2Fix](https://huggingface.co/datasets/YoungerWu/MolErr2Fix) |
+| ChemCoTBench                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/OpenMol/ChemCoTBench](https://huggingface.co/datasets/OpenMol/ChemCoTBench) |
 | MolLangBench                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/ChemFM/MolLangBench](https://huggingface.co/datasets/ChemFM/MolLangBench) |
-| IUPAC Gold Book      | -                 | Text, Molecule          | [https://goldbook.iupac.org](https://goldbook.iupac.org/) |
-| ChemNLP              | -                 | Text, Molecule, etc     | [https://github.com/OpenBioML/chemnlp](https://github.com/OpenBioML/chemnlp) |
-| ChemFOnt             | -                 | Text, Molecule, Protein, etc | [https://www.chemfont.ca](https://www.chemfont.ca)|
+| MolErr2Fix                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/YoungerWu/MolErr2Fix](https://huggingface.co/datasets/YoungerWu/MolErr2Fix) |
 | ProteinLMBench             | -                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMBench](https://huggingface.co/datasets/tsynbio/ProteinLMBench)|
 
 
