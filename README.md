@@ -948,6 +948,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.03553)
   [![Stars](https://img.shields.io/github/stars/U-rara/SEPIT?color=yellow&style=social)](https://github.com/U-rara/SEPIT)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/U-rara/SEPIT)
 
 * **(BioM3) Natural Language Prompts Guide the Design of Novel Functional Protein Sequences**
   
