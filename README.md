@@ -562,6 +562,11 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2024/file/ee46288ab2aaf5c6e53aebebe719712c-Paper-Conference.pdf)
   [![Stars](https://img.shields.io/github/stars/mlvlab/LLaMo?color=yellow&style=social)](https://github.com/mlvlab/LLaMo)
 
+* **(MolPuzzle) Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation**
+  
+  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f2b9e8e7a36d43ddfd3d55113d56b1e0-Abstract-Datasets_and_Benchmarks_Track.html)
+  [![Stars](https://img.shields.io/github/stars/KehanGuo2/MolPuzzle?color=yellow&style=social)](https://github.com/KehanGuo2/MolPuzzle)
+
 * **(M³LLM) Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs**
   
   [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2411.04708)
@@ -818,10 +823,30 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.755/) 
   [![Stars](https://img.shields.io/github/stars/AcaciaSin/MolRAG?color=yellow&style=social)](https://github.com/AcaciaSin/MolRAG)  
 
+* **Boosting LLM's Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning**
+
+  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.1100/) 
+  [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/K-MSE?color=yellow&style=social)](https://github.com/HICAI-ZJU/K-MSE)
+
 * **(MolBridge) Bridging the Gap Between Molecule and Textual Descriptions via Substructure-aware Alignment**
 
   [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.1197/) 
   [![Stars](https://img.shields.io/github/stars/Park-ing-lot/MolBridge?color=yellow&style=social)](https://github.com/Park-ing-lot/MolBridge)  
+
+* **GAMIC: Graph-Aligned Molecular In-context Learning for Molecule Analysis via LLMs**
+
+  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.findings-emnlp.996/) 
+  [![Stars](https://img.shields.io/github/stars/aliwister/mol-icl?color=yellow&style=social)](https://github.com/aliwister/mol-icl)  
+
+* **How to Make Large Language Models Generate 100% Valid Molecules?**
+
+  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.1350/) 
+  [![Stars](https://img.shields.io/github/stars/wentao228/SmiSelf?color=yellow&style=social)](https://github.com/wentao228/SmiSelf)
+
+* **Molecular String Representation Preferences in Pretrained LLMs: A Comparative Study in Zero- & Few-Shot Molecular Property Prediction**
+
+  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.56/) 
+  [![Stars](https://img.shields.io/github/stars/Spongeorge/llm-mpp?color=yellow&style=social)](https://github.com/Spongeorge/llm-mpp)
 
 ### Text + Protein
 * **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
@@ -1050,12 +1075,12 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * **Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization**
   
   [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.616/)
-  [![Stars](https://img.shields.io/github/stars/mzc2113391/ProtTeX?color=yellow&style=social)](https://github.com/HICAI-ZJU/KPO)
+  [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/KPO?color=yellow&style=social)](https://github.com/HICAI-ZJU/KPO)
 
 * **(LLaPA) Large Language and Protein Assistant for Protein-Protein Interactions Prediction**
   
   [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.554/)
-  [![Stars](https://img.shields.io/github/stars/mzc2113391/ProtTeX?color=yellow&style=social)](https://github.com/HHW-zhou/LLAPA)
+  [![Stars](https://img.shields.io/github/stars/HHW-zhou/LLAPA?color=yellow&style=social)](https://github.com/HHW-zhou/LLAPA)
 
 * **Caduceus: MoE-enhanced Foundation Models Unifying Biological and Natural Language**
   
