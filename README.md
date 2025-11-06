@@ -890,9 +890,10 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2307.14367.pdf)
   [![Stars](https://img.shields.io/github/stars/hadi-abdine/Prot2Text?color=yellow&style=social)](https://github.com/hadi-abdine/Prot2Text)
   
-* **ProtChatGPT: Towards Understanding Proteins with Large Language Models**
+* **ProtChatGPT: Towards Understanding Proteins with Hybrid Representation and Large Language Models**
   
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.09649.pdf)
+  [![](https://img.shields.io/badge/SIGIR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.09649)
+  [![Stars](https://img.shields.io/github/stars/xy21hb/proteinchat?color=yellow&style=social)](https://github.com/xy21hb/proteinchat)
 
 * **ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning**
   
