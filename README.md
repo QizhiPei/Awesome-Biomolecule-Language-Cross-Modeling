@@ -618,9 +618,9 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/PharMolix/OCSU?color=yellow&style=social)](https://github.com/PharMolix/OCSU)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/Mol-VL-7B)
 
-* **Omni-Mol: Exploring Universal Convergent Space for Omni-Molecular Tasks**  
+* **Omni-Mol: Multitask Molecular Model for Any-to-any Modalities**  
 
-  [![](https://img.shields.io/badge/TCSS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.01074)
+  [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.01074)
   [![Stars](https://img.shields.io/github/stars/1789336421/Omni-Mol?color=yellow&style=social)](https://github.com/1789336421/Omni-Mol)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/datasets/CodeMagic/Omni-Mol-Dataset)
 
