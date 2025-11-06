@@ -1304,6 +1304,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | ChemCoTBench                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/OpenMol/ChemCoTBench](https://huggingface.co/datasets/OpenMol/ChemCoTBench) |
 | MolLangBench                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/ChemFM/MolLangBench](https://huggingface.co/datasets/ChemFM/MolLangBench) |
 | MolErr2Fix                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/YoungerWu/MolErr2Fix](https://huggingface.co/datasets/YoungerWu/MolErr2Fix) |
+| MolPuzzle                  | -                 | Text, Molecule          | [https://huggingface.co/datasets/kguo2/MolPuzzle_data](https://huggingface.co/datasets/kguo2/MolPuzzle_data) |
 | ProteinLMBench             | -                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMBench](https://huggingface.co/datasets/tsynbio/ProteinLMBench)|
 
 
