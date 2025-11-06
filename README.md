@@ -1009,6 +1009,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/AAAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ojs.aaai.org/index.php/AAAI/article/view/34456)
   [![Stars](https://img.shields.io/github/stars/diaoshaoyou/ProtCLIP?color=yellow&style=social)](https://github.com/diaoshaoyou/ProtCLIP)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/15245588)
 
 * **(CtrlProt) Controllable Protein Sequence Generation with LLM Preference Optimization Authors**
   
