@@ -650,7 +650,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Model**
   
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2503.04780)
+  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.findings-emnlp.1174/)
   [![Stars](https://img.shields.io/github/stars/sumin124/mv-clam?color=yellow&style=social)](https://github.com/sumin124/mv-clam)
 
 * **GraphT5: Unified Molecular Graph-Language Modeling via Multi-Modal Cross-Token Attention**
@@ -705,7 +705,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **(GeLLMO-C) Large Language Models for Controllable Multi-property Multi-objective Molecule Optimization**  
 
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.23987)
+  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.findings-emnlp.1145/)
   [![Stars](https://img.shields.io/github/stars/ninglab/GeLLMO-C?color=yellow&style=social)](https://github.com/ninglab/GeLLMO-C)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/NingLab/controllable-gellmo)
 
@@ -768,7 +768,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **(CAMT5) Training Text-to-Molecule Models with Context-Aware Tokenization**
   
-  [![](https://img.shields.io/badge/ENMLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2509.04476)
+  [![](https://img.shields.io/badge/ENMLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.findings-emnlp.1221/)
   [![Stars](https://img.shields.io/github/stars/Songhyeontae/CAMT5?color=yellow&style=social)](https://github.com/Songhyeontae/CAMT5)
 
 * **Enhancing Molecular Property Prediction with Knowledge from Large Language Models**
