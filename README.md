@@ -1047,6 +1047,16 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2510.11188)
 
+* **Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization**
+  
+  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.616/)
+  [![Stars](https://img.shields.io/github/stars/mzc2113391/ProtTeX?color=yellow&style=social)](https://github.com/HICAI-ZJU/KPO)
+
+* **(LLaPA) Large Language and Protein Assistant for Protein-Protein Interactions Prediction**
+  
+  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.554/)
+  [![Stars](https://img.shields.io/github/stars/mzc2113391/ProtTeX?color=yellow&style=social)](https://github.com/HHW-zhou/LLAPA)
+
 * **Caduceus: MoE-enhanced Foundation Models Unifying Biological and Natural Language**
   
   [![](https://img.shields.io/badge/ICLR_Submission_2026-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=NNRQW01Xuh)
