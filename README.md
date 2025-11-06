@@ -1291,21 +1291,21 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | PDB-QA             | Fine-tuning                 | Text, Protein | [https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730](https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730)|
 | Mol-Instructions     | Fine-tuning        | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
 | Biology-Instructions             | Fine-tuning                 | Text, Molecule, Protein | [https://github.com/hhnqqq/BiologyInstructions](https://github.com/hhnqqq/BiologyInstructions)|
-| SciEval              | -       | Text                    | [https://github.com/OpenDFM/SciEval](https://github.com/OpenDFM/SciEval) |
-| BioInfo-Bench        | -       | Text                    | [https://github.com/cinnnna/bioinfo-bench](https://github.com/cinnnna/bioinfo-bench) |
-| BioMedEval           | -       | Text                    | [https://github.com/tahmedge/llm-eval-biomed](https://github.com/tahmedge/llm-eval-biomed) |
-| ChemLLMBench         | -       | Text, Molecule          | [https://github.com/ChemFoundationModels/ChemLLMBench](https://github.com/ChemFoundationModels/ChemLLMBench) |
-| AI4Chem              | -       | Text, Molecule          | [https://github.com/andresilvapimentel/AI4Chem](https://github.com/andresilvapimentel/AI4Chem) |
-| GPTChem              | -       | Text, Molecule          | [https://github.com/kjappelbaum/gptchem](https://github.com/kjappelbaum/gptchem)|
-| StructChem           | -       | Text, Molecule, etc     | [https://github.com/ozyyshr/StructChem](https://github.com/ozyyshr/StructChem) |
-| S²-Bench     | -       | Text, Molecule          | [https://huggingface.co/datasets/Duke-de-Artois/TOMG-Bench](https://huggingface.co/datasets/Duke-de-Artois/TOMG-Bench) |
-| MotifHallu     | -       | Text, Molecule          | [https://huggingface.co/datasets/lfhase/HIGHT](https://huggingface.co/datasets/lfhase/HIGHT) |
-| MolCap-Arena                 | -                 | Text, Molecule          | [https://github.com/Genentech/molcap-arena](https://github.com/Genentech/molcap-arena) |
-| ChemCoTBench                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/OpenMol/ChemCoTBench](https://huggingface.co/datasets/OpenMol/ChemCoTBench) |
-| MolLangBench                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/ChemFM/MolLangBench](https://huggingface.co/datasets/ChemFM/MolLangBench) |
-| MolErr2Fix                 | -                 | Text, Molecule          | [https://huggingface.co/datasets/YoungerWu/MolErr2Fix](https://huggingface.co/datasets/YoungerWu/MolErr2Fix) |
-| MolPuzzle                  | -                 | Text, Molecule          | [https://huggingface.co/datasets/kguo2/MolPuzzle_data](https://huggingface.co/datasets/kguo2/MolPuzzle_data) |
-| ProteinLMBench             | -                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMBench](https://huggingface.co/datasets/tsynbio/ProteinLMBench)|
+| SciEval              | Benchmark       | Text                    | [https://github.com/OpenDFM/SciEval](https://github.com/OpenDFM/SciEval) |
+| BioInfo-Bench        | Benchmark       | Text                    | [https://github.com/cinnnna/bioinfo-bench](https://github.com/cinnnna/bioinfo-bench) |
+| BioMedEval           | Benchmark       | Text                    | [https://github.com/tahmedge/llm-eval-biomed](https://github.com/tahmedge/llm-eval-biomed) |
+| ChemLLMBench         | Benchmark       | Text, Molecule          | [https://github.com/ChemFoundationModels/ChemLLMBench](https://github.com/ChemFoundationModels/ChemLLMBench) |
+| AI4Chem              | Benchmark       | Text, Molecule          | [https://github.com/andresilvapimentel/AI4Chem](https://github.com/andresilvapimentel/AI4Chem) |
+| GPTChem              | Benchmark       | Text, Molecule          | [https://github.com/kjappelbaum/gptchem](https://github.com/kjappelbaum/gptchem)|
+| StructChem           | Benchmark       | Text, Molecule, etc     | [https://github.com/ozyyshr/StructChem](https://github.com/ozyyshr/StructChem) |
+| S²-Bench     | Benchmark       | Text, Molecule          | [https://huggingface.co/datasets/Duke-de-Artois/TOMG-Bench](https://huggingface.co/datasets/Duke-de-Artois/TOMG-Bench) |
+| MotifHallu     | Benchmark       | Text, Molecule          | [https://huggingface.co/datasets/lfhase/HIGHT](https://huggingface.co/datasets/lfhase/HIGHT) |
+| MolCap-Arena                 | Benchmark                 | Text, Molecule          | [https://github.com/Genentech/molcap-arena](https://github.com/Genentech/molcap-arena) |
+| ChemCoTBench                 | Benchmark                 | Text, Molecule          | [https://huggingface.co/datasets/OpenMol/ChemCoTBench](https://huggingface.co/datasets/OpenMol/ChemCoTBench) |
+| MolLangBench                 | Benchmark                 | Text, Molecule          | [https://huggingface.co/datasets/ChemFM/MolLangBench](https://huggingface.co/datasets/ChemFM/MolLangBench) |
+| MolErr2Fix                 | Benchmark                 | Text, Molecule          | [https://huggingface.co/datasets/YoungerWu/MolErr2Fix](https://huggingface.co/datasets/YoungerWu/MolErr2Fix) |
+| MolPuzzle                  | Benchmark                 | Text, Molecule          | [https://huggingface.co/datasets/kguo2/MolPuzzle_data](https://huggingface.co/datasets/kguo2/MolPuzzle_data) |
+| ProteinLMBench             | Benchmark                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMBench](https://huggingface.co/datasets/tsynbio/ProteinLMBench)|
 
 
 ## Related Resources
