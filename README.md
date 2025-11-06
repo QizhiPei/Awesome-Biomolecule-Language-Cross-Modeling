@@ -1002,7 +1002,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **(RAPM): Rethinking Text-based Protein Understanding: Retrieval or LLM?**
   
-  [![](https://img.shields.io/badge/bioRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.20354)
+  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.1211/)
   [![Stars](https://img.shields.io/github/stars/IDEA-XL/RAPM?color=yellow&style=social)](https://github.com/IDEA-XL/RAPM)
 
 * **Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment**
