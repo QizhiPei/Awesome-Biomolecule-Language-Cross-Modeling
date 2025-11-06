@@ -1349,6 +1349,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 ### Related Surveys & Evaluations
 * A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers [Arxiv_2508](https://arxiv.org/abs/2508.21148)
 * From Generalist to Specialist: A Survey of Large Language Models for Chemistry [Arxiv_2412](https://arxiv.org/abs/2412.19994)
+* A Review of Large Language Models and Autonomous Agents in Chemistry [Arxiv_2407](https://arxiv.org/abs/2407.01603)
 * A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery [Arxiv 2406](https://arxiv.org/abs/2406.10833)
 * Bridging Text and Molecule: A Survey on Multimodal Frameworks for Molecule [Arxiv 2403](https://arxiv.org/abs/2403.13830)
 * Bioinformatics and Biomedical Informatics with ChatGPT: Year One Review [Arxiv 2403](https://arxiv.org/abs/2403.15274)
@@ -1369,6 +1370,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 ### Related Repositories
 * [Awesome-Scientific-Datasets-and-LLMs](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)
 * [LLM4Chemistry](https://github.com/OpenDFM/LLM4Chemistry)
+* [LLMs-in-science](https://github.com/ur-whitelab/LLMs-in-science)
 * [Awesome-LLM-Centric-Molecular-Discovery](https://github.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery)
 * [LLM4ScientificDiscovery](https://github.com/microsoft/LLM4ScientificDiscovery)
 * [SLM4Mol](https://github.com/AI-HPC-Research-Team/SLM4Mol)
