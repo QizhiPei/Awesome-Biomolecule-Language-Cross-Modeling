@@ -639,7 +639,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 * **Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model**
   
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.13449)
+  [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.13449)
   [![Stars](https://img.shields.io/github/stars/DongkiKim95/Mol-LLaMA?color=yellow&style=social)](https://github.com/DongkiKim95/Mol-LLaMA)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/DongkiKim/Mol-Llama-2-7b-chat)
 
