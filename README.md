@@ -1037,10 +1037,6 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![Stars](https://img.shields.io/github/stars/alaaj27/Protein2Text?color=yellow&style=social)](https://github.com/alaaj27/Protein2Text)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/tumorailab/protein2text-llama3.1-8B-instruct-esm2-650M)
 
-* **InstructPro: Natural Language Guided Ligand-Binding Protein Design**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2506.09332)
-
 * **(RAPM): Rethinking Text-based Protein Understanding: Retrieval or LLM?**
   
   [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.1211/)
@@ -1240,6 +1236,10 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2506.07833)
   [![Stars](https://img.shields.io/github/stars/michaelchen-lab/caft-llm?color=yellow&style=social)](https://github.com/michaelchen-lab/caft-llm)
+
+* **InstructPro: Natural Language Guided Ligand-Binding Protein Design**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2506.09332)
 
 * **(InstructBioMol) Advancing biomolecular understanding and design following human instructions**
   
