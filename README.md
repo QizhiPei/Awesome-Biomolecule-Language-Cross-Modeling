@@ -885,6 +885,12 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/TechRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23120606.v1)
   [![Stars](https://img.shields.io/github/stars/UCSD-AI4H/proteinchat?color=yellow&style=social)](https://github.com/UCSD-AI4H/proteinchat)
 
+* **(ProteinChat v2) Multi-Modal Large Language Model Enables Protein Function Prediction**
+  
+  [![](https://img.shields.io/badge/ICML_2025_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.08.19.608729v1.abstract)
+  [![Stars](https://img.shields.io/github/stars/mignonjia/ProteinChat?color=yellow&style=social)](https://github.com/mignonjia/ProteinChat)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/file/d/1H-POt4e5Q5fYF59ZwfSdAJyuQiJ2rtJl/view)
+
 * **Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers**
   
   [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2307.14367.pdf)
@@ -1042,10 +1048,11 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.11194)
   [![Stars](https://img.shields.io/github/stars/colinfx/prot2text-v2?color=yellow&style=social)](https://github.com/colinfx/prot2text-v2)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/xiao-fei/Prot2Text-V2-11B-Instruct-hf)
 
 * **(ProDVa) Protein Design with Dynamic Protein Vocabulary**
   
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.18966)
+  [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.18966)
   [![Stars](https://img.shields.io/github/stars/sornkL/ProDVa?color=yellow&style=social)](https://github.com/sornkL/ProDVa)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/nwliu/prodva)
 
