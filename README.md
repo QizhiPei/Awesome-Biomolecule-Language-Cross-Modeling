@@ -23,7 +23,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   - [Biotext](#biotext)
   - [Text + Molecule](#text--molecule)
   - [Text + Protein](#text--protein)
-  - [More Modalities](#more-modalities)
+  - [Text + BioMulti](#text-biomulti)
 - [Datasets & Benchmarks](#datasets--benchmarks)
 - [Related Resources](#related-resources)
   - [Related Surveys & Evaluations](#related-surveys--evaluations) 
@@ -1089,7 +1089,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/ICLR_Submission_2026-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=NNRQW01Xuh)
 
-### More Modalities
+### Text + BioMulti
 
 * **Galactica: A Large Language Model for Science**
   
@@ -1249,6 +1249,10 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2509.21320)
   [![Stars](https://img.shields.io/github/stars/open-sciencelab/SciReason?color=yellow&style=social)](https://github.com/open-sciencelab/SciReason)
+
+* **MolChord: Structure-Sequence Alignment for Protein-Guided Drug Design**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2510.27671)
 
 ## Datasets & Benchmarks
 | **Dataset**          | **Usage**         | **Modality**            | **Link**                                                             |
