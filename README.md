@@ -961,6 +961,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * **(BioM3) Natural Language Prompts Guide the Design of Novel Functional Protein Sequences**
   
   [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=L1MyyRCAjX)
+  [![Stars](https://img.shields.io/github/stars/PraljakReps/BioM3?color=yellow&style=social)](https://github.com/PraljakReps/BioM3)
   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/niksapraljak1/BioM3)
 
 * **(LLM4ProteinEvolution) Language Models for Text-guided Protein Evolution**
@@ -1002,6 +1003,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.12.10.627665v1)
   [![Stars](https://img.shields.io/github/stars/mims-harvard/ProCyon?color=yellow&style=social)](https://github.com/mims-harvard/ProCyon)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/mims-harvard/ProCyon-Full)
 
 * **(Evolla) Decoding the Molecular Language of Proteins with Evolla**
   
