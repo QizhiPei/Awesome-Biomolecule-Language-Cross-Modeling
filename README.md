@@ -937,6 +937,8 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * **(Pinal) Toward De Novo Protein Design from Natural Language**
   
   [![](https://img.shields.io/badge/bioRrxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v1.full.pdf)
+  [![Stars](https://img.shields.io/github/stars/westlake-repl/Denovo-Pinal?color=yellow&style=social)](https://github.com/westlake-repl/Denovo-Pinal)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/Pinal)
 
 * **TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering**
   
