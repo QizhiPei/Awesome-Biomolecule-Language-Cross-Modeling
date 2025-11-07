@@ -964,6 +964,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://neurips.cc/virtual/2024/poster/94780)
   [![Stars](https://img.shields.io/github/stars/Gift-OYS/MMSite?color=yellow&style=social)](https://github.com/Gift-OYS/MMSite)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/14599105)
 
 * **MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering**
   
