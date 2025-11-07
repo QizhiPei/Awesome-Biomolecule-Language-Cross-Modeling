@@ -972,6 +972,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   
   [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://neurips.cc/virtual/2024/poster/92987)
   [![Stars](https://img.shields.io/github/stars/PharMolix/MutaPLM?color=yellow&style=social)](https://github.com/PharMolix/MutaPLM)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/MutaPLM)
 
 * **ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description**
   
