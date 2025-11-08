@@ -1368,6 +1368,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 ## Related Resources
 ### Related Surveys & Evaluations
 * A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers [Arxiv_2508](https://arxiv.org/abs/2508.21148)
+* A Survey of Large Language Models for Text-Guided Molecular Discovery: from Molecule Generation to Optimization [Arxiv_2505](https://arxiv.org/abs/2505.16094)
 * From Generalist to Specialist: A Survey of Large Language Models for Chemistry [Arxiv_2412](https://arxiv.org/abs/2412.19994)
 * A Review of Large Language Models and Autonomous Agents in Chemistry [Arxiv_2407](https://arxiv.org/abs/2407.01603)
 * A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery [Arxiv 2406](https://arxiv.org/abs/2406.10833)
