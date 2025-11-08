@@ -1295,6 +1295,16 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | MolTextNet               | Pre-training      | Text, Molecule    | [https://huggingface.co/datasets/liuganghuggingface/moltextnet](https://huggingface.co/datasets/liuganghuggingface/moltextnet)                       |
 | ProtAnnotation               | Pre-training      | Text, Protein    | [https://huggingface.co/datasets/ychaohao/ProtAnnotation](https://huggingface.co/datasets/ychaohao/ProtAnnotation)                       |
 | ProteinKG25               | Pre-training      | Text, Protein    | [https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730](https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730)                       |
+| ContrastiveDataset               | Pre-training      | Text, Protein    | [https://zenodo.org/records/11506091](https://zenodo.org/records/11506091)   |
+| ProtAnno               | Pre-training      | Text, Protein    | [https://zenodo.org/records/15245588](https://zenodo.org/records/15245588)   |
+| ProtDescribe               | Pre-training      | Text, Protein    | [https://drive.google.com/file/d/1iMgPyiIzpvXdKiNsXnRKn2YpmP92Xyub/view](https://drive.google.com/file/d/1iMgPyiIzpvXdKiNsXnRKn2YpmP92Xyub/view)   |
+| Proteinaligner pretrain data               | Pre-training      | Text, Protein    | [https://drive.google.com/file/d/1Ff28ajdyUDQl9JtSNQcUz-6Nbz7FXdEA/view](https://drive.google.com/file/d/1Ff28ajdyUDQl9JtSNQcUz-6Nbz7FXdEA/view)   |
+| ProTAD               | Pre-training      | Text, Protein    | [https://drive.google.com/file/d/1oyl9JVfEvDk72HdtFaPrRKgUDmI_AFHb/view](https://drive.google.com/file/d/1oyl9JVfEvDk72HdtFaPrRKgUDmI_AFHb/view)   |
+| PinalDataset               | Pre-training      | Text, Protein    | -   |
+| ProDataset               | Pre-training      | Text, Protein    | [https://huggingface.co/datasets/ProtLLM/ProtLLM](https://huggingface.co/datasets/ProtLLM/ProtLLM)   |
+| Molinst-SwissProtCLAP               | Pre-training      | Text, Protein    | [https://huggingface.co/datasets/nwliu/Molinst-SwissProtCLAP](https://huggingface.co/datasets/nwliu/Molinst-SwissProtCLAP)   |
+| BioM3Dataset               | Pre-training      | Text, Protein    | -   |
+| ProTrekDataset               | Pre-training      | Text, Protein    | [https://huggingface.co/datasets/westlake-repl/faiss_index](https://huggingface.co/datasets/westlake-repl/faiss_index)   |
 | BLURB                | Fine-tuning       | Text                    | [https://microsoft.github.io/BLURB](https://microsoft.github.io/BLURB) |
 | PubMedQA             | Fine-tuning       | Text                    | [https://github.com/pubmedqa/pubmedqa](https://github.com/pubmedqa/pubmedqa) |
 | SciQ                 | Fine-tuning       | Text                    | [https://huggingface.co/datasets/sciq](https://huggingface.co/datasets/sciq) |
@@ -1346,6 +1356,13 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | ProteinLMDataset             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMDataset](https://huggingface.co/datasets/tsynbio/ProteinLMDataset)|
 | ProLLaMA Instruction Dataset             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/GreatCaptainNemo/instruction_dataset](https://huggingface.co/datasets/GreatCaptainNemo/instruction_dataset)|
 | PDB-QA             | Fine-tuning                 | Text, Protein | [https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730](https://osf.io/23azs/files?view_only=185575515e714f4798499bf06513a730)|
+| ProteinQA             | Fine-tuning                 | Text, Protein | [https://drive.google.com/file/d/1xdiBP-FPMfwpMGBUPAKd0FyRrqQtxAEK/view](https://drive.google.com/file/d/1xdiBP-FPMfwpMGBUPAKd0FyRrqQtxAEK/view)|
+| SEPITDataset             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/U-rara/SEPIT-Data](https://huggingface.co/datasets/U-rara/SEPIT-Data)|
+| ProtTeXdDataset             | Fine-tuning                 | Text, Protein | [https://zenodo.org/records/15038965](https://zenodo.org/records/15038965)|
+| Protein2Text-QA             | Fine-tuning                 | Text, Protein | - |
+| CAMEO             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/nwliu/CAMEO](https://huggingface.co/datasets/nwliu/CAMEO)|
+| Swiss-Prot Curated Triplets             | Fine-tuning                 | Text, Protein | [https://drive.google.com/file/d/1n5Ant3S5QE0Yx-DznRa3lannFanc1WB7/view](https://drive.google.com/file/d/1n5Ant3S5QE0Yx-DznRa3lannFanc1WB7/view)|
+| ProCyon-Instruct             | Fine-tuning                 | Text, Protein | [https://huggingface.co/datasets/mims-harvard/ProCyon-Instruct](https://huggingface.co/datasets/mims-harvard/ProCyon-Instruct)|
 | Mol-Instructions     | Fine-tuning        | Text, Molecule, Protein | [https://huggingface.co/datasets/zjunlp/Mol-Instructions](https://huggingface.co/datasets/zjunlp/Mol-Instructions) |
 | Biology-Instructions             | Fine-tuning                 | Text, Molecule, Protein | [https://github.com/hhnqqq/BiologyInstructions](https://github.com/hhnqqq/BiologyInstructions)|
 | SciEval              | Benchmark       | Text                    | [https://github.com/OpenDFM/SciEval](https://github.com/OpenDFM/SciEval) |
@@ -1363,6 +1380,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 | MolErr2Fix                 | Benchmark                 | Text, Molecule          | [https://huggingface.co/datasets/YoungerWu/MolErr2Fix](https://huggingface.co/datasets/YoungerWu/MolErr2Fix) |
 | MolPuzzle                  | Benchmark                 | Text, Molecule          | [https://huggingface.co/datasets/kguo2/MolPuzzle_data](https://huggingface.co/datasets/kguo2/MolPuzzle_data) |
 | ProteinLMBench             | Benchmark                 | Text, Protein | [https://huggingface.co/datasets/tsynbio/ProteinLMBench](https://huggingface.co/datasets/tsynbio/ProteinLMBench)|
+| Prot-Inst-OOD              | Benchmark                 | Text, Protein | [https://huggingface.co/datasets/TimeRune/Prot-Inst-OOD](https://huggingface.co/datasets/TimeRune/Prot-Inst-OOD)|
 
 
 ## Related Resources
