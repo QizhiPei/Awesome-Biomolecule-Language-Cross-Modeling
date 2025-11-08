@@ -1377,7 +1377,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * From Words to Molecules: A Survey of Large Language Models in Chemistry [Arxiv 2402](https://arxiv.org/abs/2402.01439)
 * Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science [Arxiv 2402](https://arxiv.org/abs/2402.04119)
 * Progress and Opportunities of Foundation Models in Bioinformatics [Arxiv 2402](https://arxiv.org/abs/2402.04286)
-* Scientific Large Language Models: A Survey on Biological & Chemical Domains [Arxiv 2401](https://arxiv.org/abs/2401.14656)
+* Scientific Large Language Models: A Survey on Biological & Chemical Domains [ACM Computing Surveys](https://arxiv.org/abs/2401.14656)
 * The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4 [Arxiv 2311](https://arxiv.org/abs/2311.07361)
 * Transformers and Large Language Models for Chemistry and Drug Discovery [Arxiv 2310](https://arxiv.org/abs/2310.06083)
 * Language models in molecular discovery [Arxiv 2309](https://arxiv.org/abs/2309.16235)
