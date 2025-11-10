@@ -14,7 +14,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 🌟 **If you have a paper or resource you'd like to add, feel free to submit a pull request, open an issue, or email the author at <qizhipei@ruc.edu.cn>.**
 
 <p align="center">
-  <img src="figs/model_evolution_new.jpg" width="960">
+  <img src="figs/model_evolution_v1.png" width="960">
 </p>
 
 
