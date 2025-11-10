@@ -1232,6 +1232,11 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
   [![](https://img.shields.io/badge/Information_Fusion_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003008?via%3Dihub)
   [![Stars](https://img.shields.io/github/stars/1zzt/KFPPIMI?color=yellow&style=social)](https://github.com/1zzt/KFPPIMI)
 
+* **STELLA: Towards Protein Function Prediction with Multimodal LLMs Integrating Sequence-Structure Representations**
+  
+  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2506.03800)
+  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://anonymous.4open.science/r/STELLA-DF00/README.md)
+
 * **(CAFT) Improving Large Language Models with Concept-Aware Fine-Tuning**
   
   [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2506.07833)
