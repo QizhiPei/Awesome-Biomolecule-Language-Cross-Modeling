@@ -32,1247 +32,242 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 ---
 
 ## Models
-### Biotext
-* **BioBERT: a pre-trained biomedical language representation model for biomedical text mining**
-  
-  [![](https://img.shields.io/badge/Bioinformatics_2019-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506)
-  [![Stars](https://img.shields.io/github/stars/dmis-lab/biobert?color=yellow&style=social)](https://github.com/dmis-lab/biobert)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/dmis-lab)
-
-* **SciBERT: A Pretrained Language Model for Scientific Text**
-  
-  [![](https://img.shields.io/badge/EMNLP_IJCNLP_2019-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/D19-1371.pdf)
-  [![Stars](https://img.shields.io/github/stars/allenai/scibert?color=yellow&style=social)](https://github.com/allenai/scibert)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/allenai/scibert)
-
-* **(BlueBERT) Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets**
-  
-  [![](https://img.shields.io/badge/BioNLP@ACL_2019-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/W19-5006.pdf)
-  [![Stars](https://img.shields.io/github/stars/ncbi-nlp/bluebert?color=yellow&style=social)](https://github.com/ncbi-nlp/bluebert)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/bionlp)
-
-* **Bio-Megatron: Larger Biomedical Domain Language Model**
-  
-  [![](https://img.shields.io/badge/EMNLP_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2020.emnlp-main.379.pdf)
-  [![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo?color=yellow&style=social)](https://github.com/NVIDIA/NeMo)
-
-* **ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission**
-  
-  [![](https://img.shields.io/badge/BioNLP@CHIL_2020-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/1904.05342.pdf)
-  [![Stars](https://img.shields.io/github/stars/kexinhuang12345/clinicalBERT?color=yellow&style=social)](https://github.com/kexinhuang12345/clinicalBERT)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/lindvalllab/clinicalXLNet)
-
-* **BioM-Transformers: Building Large Biomedical Language Models with BERT, ALBERT and ELECTRA**
-  
-  [![](https://img.shields.io/badge/BioNLP@ACL_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2021.bionlp-1.24.pdf)
-  [![Stars](https://img.shields.io/github/stars/salrowili/BioM-Transformers?color=yellow&style=social)](https://github.com/salrowili/BioM-Transformers)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/sultan)
-
-* **(PubMedBERT) Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing**
-  
-  [![](https://img.shields.io/badge/HEALTH_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/10.1145/3458754)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext)
-
-* **SciFive: a text-to-text transformer model for biomedical literature**
-  
-  [![](https://img.shields.io/badge/Arxiv_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2106.03598.pdf)
-  [![Stars](https://img.shields.io/github/stars/justinphan3110/SciFive?color=yellow&style=social)](https://github.com/justinphan3110/SciFive)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/razent)
-
-* **(DRAGON) Deep Bidirectional Language-Knowledge Graph Pretraining**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2210.09338.pdf)
-  [![Stars](https://img.shields.io/github/stars/michiyasunaga/dragon?color=yellow&style=social)](https://github.com/michiyasunaga/dragon)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/michiyasunaga/dragon)
-
-* **LinkBERT: Pretraining Language Models with Document Links**
-  
-  [![](https://img.shields.io/badge/ACL_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2022.acl-long.551.pdf)
-  [![Stars](https://img.shields.io/github/stars/michiyasunaga/LinkBERT?color=yellow&style=social)](https://github.com/michiyasunaga/LinkBERT)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/michiyasunaga)
-
-* **BioBART: Pretraining and Evaluation of A Biomedical Generative Language Model**
-  
-  [![](https://img.shields.io/badge/BioNLP@ACL_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2022.bionlp-1.9.pdf)
-  [![Stars](https://img.shields.io/github/stars/GanjinZero/BioBART?color=yellow&style=social)](https://github.com/GanjinZero/BioBART)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GanjinZero)
-
-* **BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining**
-  
-  [![](https://img.shields.io/badge/Bioinformatics_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1093/bib/bbac409)
-  [![Stars](https://img.shields.io/github/stars/microsoft/BioGPT?color=yellow&style=social)](https://github.com/microsoft/BioGPT)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/microsoft/biogpt)
-
-* **GatorTron: A Large Clinical Language Model to Unlock Patient Information from Unstructured Electronic Health Records**
-  
-  [![](https://img.shields.io/badge/Arxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2203.03540.pdf)
-  [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?color=yellow&style=social)](https://github.com/NVIDIA/Megatron-LM)
-
-* **Large language models encode clinical knowledge**
-  
-  [![](https://img.shields.io/badge/Nature_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41586-023-06291-2.pdf)
-
-* **(ScholarBERT) The Diminishing Returns of Masked Language Models to Science**
-  
-  [![](https://img.shields.io/badge/ACL_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2023.findings-acl.82.pdf)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/globuslabs/ScholarBERT)
-
-* **PMC-LLaMA: Further Finetuning LLaMA on Medical Papers**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2304.14454.pdf)
-  [![Stars](https://img.shields.io/github/stars/chaoyi-wu/PMC-LLaMA?color=yellow&style=social)](https://github.com/chaoyi-wu/PMC-LLaMA)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/chaoyi-wu/PMC-LLaMA)
-
-
-* **BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2308.09442v2.pdf)
-  [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/BioMedGPT-LM-7B)
-
-* **(GatortronGPT) A study of generative large language model for medical research and healthcare**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2305.13523.pdf)
-  [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?color=yellow&style=social)](https://github.com/NVIDIA/Megatron-LM)
-
-* **Clinical Camel: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2305.12031.pdf)
-  [![Stars](https://img.shields.io/github/stars/bowang-lab/clinical-camel?color=yellow&style=social)](https://github.com/bowang-lab/clinical-camel)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/wanglab/ClinicalCamel-70B)
-
-* **MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.16079.pdf)
-  [![Stars](https://img.shields.io/github/stars/epfLLM/meditron?color=yellow&style=social)](https://github.com/epfLLM/meditron)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/epfl-llm/meditron-70b)
-
-* **BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2309.08788.pdf)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/lamm-mit/BioinspiredLLM)
-
-* **ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2306.09968.pdf)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/medicalai/ClinicalGPT-base-zh)
-
-* **MedAlpaca - An Open-Source Collection of Medical Conversational AI Models and Training Data**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2304.08247.pdf)
-  [![Stars](https://img.shields.io/github/stars/kbressem/medAlpaca?color=yellow&style=social)](https://github.com/kbressem/medAlpaca)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/medalpaca)
-
-* **SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2401.07950.pdf)
-  [![Stars](https://img.shields.io/github/stars/THUDM/SciGLM?color=yellow&style=social)](https://github.com/THUDM/SciGLM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zd21/SciGLM-6B)
-
-* **BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.18421v1.pdf)
-  [![Stars](https://img.shields.io/github/stars/stanford-crfm/BioMedLM?color=yellow&style=social)](https://github.com/stanford-crfm/BioMedLM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/stanford-crfm/BioMedLM)
-
-* **BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains**
-
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.10373.pdf)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/BioMistral)
-
-### Text + Molecule
-* **Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries**
-  
-  [![](https://img.shields.io/badge/EMNLP_2021-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2021.emnlp-main.47.pdf)
-  [![Stars](https://img.shields.io/github/stars/cnedwards/text2mol?color=yellow&style=social)](https://github.com/cnedwards/text2mol)
-  
-
-* **(MolT5) Translation between Molecules and Natural Language**  
-  
-  [![](https://img.shields.io/badge/EMNLP_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2022.emnlp-main.26.pdf)
-  [![Stars](https://img.shields.io/github/stars/blender-nlp/MolT5?color=yellow&style=social)](https://github.com/blender-nlp/MolT5)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/laituan245)
-
-* **(KV-PLM) A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals**
-  
-  [![](https://img.shields.io/badge/Nature_Communications_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-022-28494-3.pdf)
-  [![Stars](https://img.shields.io/github/stars/thunlp/KV-PLM?color=yellow&style=social)](https://github.com/thunlp/KV-PLM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX)
-
-* **(MoMu) A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language**
-  
-  [![](https://img.shields.io/badge/Arxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2209.05481.pdf)
-  [![Stars](https://img.shields.io/github/stars/BingSu12/MoMu?color=yellow&style=social)](https://github.com/BingSu12/MoMu)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/BingSu12/MoMu)
-
-* **(Text+Chem T5) Unifying Molecular and Textual Representations via Multi-task Language Modelling**
-  
-  [![](https://img.shields.io/badge/ICML_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.mlr.press/v202/christofidellis23a/christofidellis23a.pdf)
-  [![Stars](https://img.shields.io/github/stars/GT4SD/multitask_text_and_chemistry_t5?color=yellow&style=social)](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GT4SD)
-
-* **(CLAMP) Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language**
-  
-  [![](https://img.shields.io/badge/ICML_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.mlr.press/v202/seidl23a/seidl23a.pdf)
-  [![Stars](https://img.shields.io/github/stars/ml-jku/clamp?color=yellow&style=social)](https://github.com/ml-jku/clamp)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/ml-jku/clamp)
-
-* **GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=Tt6DrRCgJV)
-  [![Stars](https://img.shields.io/github/stars/zhao-ht/GIMLET?color=yellow&style=social)](https://github.com/zhao-ht/GIMLET)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/haitengzhao/gimlet)
-
-* **MoleculeGPT: Instruction Following Large Language Models for Molecular Property Prediction**
-  
-  [![](https://img.shields.io/badge/AI4D3@NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ai4d3.github.io/papers/34.pdf)
-
-* **(ChemLLMBench) What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks**
-  
-  [![](https://img.shields.io/badge/Datasets&Benchmarks@NeurIPS_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=1ngbR3SZHW)
-  [![Stars](https://img.shields.io/github/stars/ChemFoundationModels/ChemLLMBench?color=yellow&style=social)](https://github.com/ChemFoundationModels/ChemLLMBench)
-
-* **MolXPT: Wrapping Molecules with Text for Generative Pre-training**
-  
-  [![](https://img.shields.io/badge/ACL_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2023.acl-short.138.pdf)
-
-* **(TextReact) Predictive Chemistry Augmented with Text Retrieval**
-  
-  [![](https://img.shields.io/badge/EMNLP_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2023.emnlp-main.784.pdf)
-  [![Stars](https://img.shields.io/github/stars/thomas0809/textreact?color=yellow&style=social)](https://github.com/thomas0809/textreact)
-
-* **MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter**
-  
-  [![](https://img.shields.io/badge/EMNLP_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2023.emnlp-main.966v2.pdf)
-  [![Stars](https://img.shields.io/github/stars/eltociear/MolCA?color=yellow&style=social)](https://github.com/eltociear/MolCA)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://ufile.io/6vffm5bg)
-
-* **ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction**
-  
-  [![](https://img.shields.io/badge/EMNLP_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2023.findings-emnlp.366.pdf)
-  [![Stars](https://img.shields.io/github/stars/syr-cn/ReLM?color=yellow&style=social)](https://github.com/syr-cn/ReLM)
-
-* **(MoleculeSTM) Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing**
-  
-  [![](https://img.shields.io/badge/Nature_Machine_Intelligence_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-023-00759-6.pdf)
-  [![Stars](https://img.shields.io/github/stars/chao1224/MoleculeSTM?color=yellow&style=social)](https://github.com/chao1224/MoleculeSTM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/chao1224/MoleculeSTM)
-
-* **(AMAN) Adversarial Modality Alignment Network for Cross-Modal Molecule Retrieval**
-  
-  [![](https://img.shields.io/badge/IEEE_TAI_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/document/10063974)
-  [![Stars](https://img.shields.io/github/stars/NicoleBonnie/AMAN?color=yellow&style=social)](https://github.com/NicoleBonnie/AMAN)
-
-* **MolLM: A Unified Language Model for Integrating Biomedical Text with 2D and 3D Molecular Representations**
-  
-  [![](https://img.shields.io/badge/BioRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2023.11.25.568656v2.full.pdf)
-  [![Stars](https://img.shields.io/github/stars/gersteinlab/MolLM?color=yellow&style=social)](https://github.com/gersteinlab/MolLM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/17XhqdsDOxiT8PEDLHdsLPKf62PXPmbms)
-
-* **(MolReGPT) Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2306.06615.pdf)
-  [![Stars](https://img.shields.io/github/stars/phenixace/MolReGPT?color=yellow&style=social)](https://github.com/phenixace/MolReGPT)
-
-* **(CaR) Can Large Language Models Empower Molecular Property Prediction?**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2307.07443.pdf)
-  [![Stars](https://img.shields.io/github/stars/ChnQ/LLM4Mol?color=yellow&style=social)](https://github.com/ChnQ/LLM4Mol)
-
-* **MolFM: A Multimodal Molecular Foundation Model**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2307.09484.pdf)
-  [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://pan.baidu.com/share/init?surl=iAMBkuoZnNAylhopP5OgEg\&pwd=7a6b)
-
-* **(ChatMol) Interactive Molecular Discovery with Natural Language**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2306.11976.pdf)
-  [![Stars](https://img.shields.io/github/stars/Ellenzzn/ChatMol?color=yellow&style=social)](https://github.com/Ellenzzn/ChatMol)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1I-LcBE0emj8p1W6WFCbEYajTADGN1RuC)
-
-* **InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.16208.pdf)
-  [![Stars](https://img.shields.io/github/stars/IDEA-XL/InstructMol?color=yellow&style=social)](https://github.com/IDEA-XL/InstructMol)
-
-* **ChemCrow: Augmenting large-language models with chemistry tools**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2304.05376.pdf)
-  [![Stars](https://img.shields.io/github/stars/ur-whitelab/chemcrow-public?color=yellow&style=social)](https://github.com/ur-whitelab/chemcrow-public)
-
-* **GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2310.03030.pdf)
-  [![Stars](https://img.shields.io/github/stars/Suryanarayanan-Balaji/GPT-MolBERTa?color=yellow&style=social)](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
-
-* **nach0: Multimodal Natural and Chemical Languages Foundation Model**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.12410.pdf)
-
-* **DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2309.03907.pdf)
-  [![Stars](https://img.shields.io/github/stars/UCSD-AI4H/drugchat?color=yellow&style=social)](https://github.com/UCSD-AI4H/drugchat)
-
-* **(Ada/Aug-T5) From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery**
-  
-  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2309.05203.pdf)
-  [![Stars](https://img.shields.io/github/stars/SCIR-HI/ArtificiallyR2R?color=yellow&style=social)](https://github.com/SCIR-HI/ArtificiallyR2R)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/SCIR-HI)
-
-* **MolTailor: Tailoring Chemical Molecular Representation to Specific Tasks via Text Prompts**
-  
-  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2401.11403.pdf)
-  [![Stars](https://img.shields.io/github/stars/SCIR-HI/MolTailor?color=yellow&style=social)](https://github.com/SCIR-HI/MolTailor)
-
-* **(TGM-DLM) Text-Guided Molecule Generation with Diffusion Language Model**
-  
-  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.13040.pdf)
-  [![Stars](https://img.shields.io/github/stars/Deno-V/tgm-dlm?color=yellow&style=social)](https://github.com/Deno-V/tgm-dlm)
-
-* **GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text**
-  
-  [![](https://img.shields.io/badge/Computers_in_Biology_and_Medicine_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1016/j.compbiomed.2024.108073)
-  [![Stars](https://img.shields.io/github/stars/ai-hpc-research-team/git-mol?color=yellow&style=social)](https://github.com/ai-hpc-research-team/git-mol)
-
-* **PolyNC: a natural and chemical language model for the prediction of unified polymer properties**
-  
-  [![](https://img.shields.io/badge/Chemical_Science_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc05079c)
-  [![Stars](https://img.shields.io/github/stars/HKQiu/Unified_ML4Polymers?color=yellow&style=social)](https://github.com/HKQiu/Unified_ML4Polymers)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/hkqiu/PolyNC)
-
-* **MolTC: Towards Molecular Relational Modeling In Language Models**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.03781.pdf)
-  [![Stars](https://img.shields.io/github/stars/MangoKiller/MolTC?color=yellow&style=social)](https://github.com/MangoKiller/MolTC)
-
-* **T-Rex: Text-assisted Retrosynthesis Prediction**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2401.14637.pdf)
-  [![Stars](https://img.shields.io/github/stars/lauyikfung/T-Rex?color=yellow&style=social)](https://github.com/lauyikfung/T-Rex)
-
-* **LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.09391.pdf)
-  [![Stars](https://img.shields.io/github/stars/OSU-NLP-Group/LLM4Chem?color=yellow&style=social)](https://github.com/OSU-NLP-Group/LLM4Chem)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/osunlp/LLM4Chem)
-
-* **(Drug-to-indication) Emerging Opportunities of Using Large Language Models for Translation Between Drug Molecules and Indications**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.09588.pdf)
-  [![Stars](https://img.shields.io/github/stars/PittNAIL/drug-to-indication?color=yellow&style=social)](https://github.com/PittNAIL/drug-to-indication)
-
-* **ChemDFM: Dialogue Foundation Model for Chemistry**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2401.14818.pdf)
-
-* **DrugAssist: A Large Language Model for Molecule Optimization**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2401.10334.pdf)
-  [![Stars](https://img.shields.io/github/stars/blazerye/DrugAssist?color=yellow&style=social)](https://github.com/blazerye/DrugAssist)
-
-* **ChemLLM: A Chemical Large Language Model**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.06852.pdf)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)
-
-* **(TEDMol) Text-guided Diffusion Model for 3D Molecule Generation**
-  
-  [![](https://img.shields.io/badge/OpenReview-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=FdUloEgBSE)
-
-* **(3DToMolo) Sculpting Molecules in 3D: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization**
-
-  [![](https://img.shields.io/badge/Bioinformatics_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.03425.pdf)
-
-* **(ICMA) Large Language Models are In-Context Molecule Learners**
-
-  [![](https://img.shields.io/badge/IEEE_TKDE‌_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.04197.pdf)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/phenixace)
-
-* **(LLMaMol) Benchmarking Large Language Models for Molecule Prediction Tasks**
-
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.05075.pdf)
-  [![Stars](https://img.shields.io/github/stars/zhiqiangzhongddu/LLMaMol?color=yellow&style=social)](https://github.com/zhiqiangzhongddu/LLMaMol)
-
-* **3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.07179.pdf)
-  [![Stars](https://img.shields.io/github/stars/huaishengzhu/3MDiffusion?color=yellow&style=social)](https://github.com/huaishengzhu/3MDiffusion)
-
-* **(TSMMG) Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model**
-
-  [![](https://img.shields.io/badge/Biology_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.13244.pdf)
-  [![Stars](https://img.shields.io/github/stars/HHW-zhou/TSMMG?color=yellow&style=social)](https://github.com/HHW-zhou/TSMMG)
-
-* **(SLM4CRP) A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions**
-  
-  [![](https://img.shields.io/badge/Eng_Appl_Artif_Intell-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.09606.pdf)
-  [![Stars](https://img.shields.io/github/stars/AI-HPC-Research-Team/SLM4CRP?color=yellow&style=social)](https://github.com/AI-HPC-Research-Team/SLM4CRP)
-
-* **Atomas: Hierarchical Alignment on Molecule-Text for Unified Molecule Understanding and Generation**
-  
-  [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.16880.pdf)
-  [![Stars](https://img.shields.io/github/stars/yikunpku/Atomas?color=yellow&style=social)](https://github.com/yikunpku/Atomas)
-
-* **ReactXT: Understanding Molecular"Reaction-ship"via Reaction-Contextualized Molecule-Text Pretraining**
-  
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.14225)
-  [![Stars](https://img.shields.io/github/stars/syr-cn/ReactXT?color=yellow&style=social)](https://github.com/syr-cn/ReactXT)
-
-* **ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation**  
-
-  [![](https://img.shields.io/badge/L+M_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.langmol-1.3/)
-  [![Stars](https://img.shields.io/github/stars/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery?color=yellow&style=social)](https://github.com/REAL-Lab-NUgithub.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery)
-
-* **LDMol: Text-Conditioned Molecule Diffusion Model Leveraging Chemically Informative Latent Space**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.17829)
-  [![Stars](https://img.shields.io/github/stars/jinhojsk515/LDMol?color=yellow&style=social)](https://github.com/jinhojsk515/LDMol)
-
-* **DrugLLM: Open Large Language Model for Few-shot Molecule Generation**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.06690)
-
-* **(HI-Mol) Data-Efficient Molecular Generation with Hierarchical Textual Inversion**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2405.02845)
-  [![Stars](https://img.shields.io/github/stars/Seojin-Kim/HI-Mol?color=yellow&style=social)](https://github.com/Seojin-Kim/HI-Mol)
-
-* **(MV-Mol) Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**
-  
-  [![](https://img.shields.io/badge/KDD_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.09841)
-  [![Stars](https://img.shields.io/github/stars/icycookies/MV-Mol?color=yellow&style=social)](https://github.com/icycookies/MV-Mol)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1cd1EZTuyNOCLRt2Vr0JgXh3kWm9f2qwU)
-
-* **DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs**
-
-  [![](https://img.shields.io/badge/NLPCC_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.18535)
-
-* **HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.14021)
-  [![Stars](https://img.shields.io/github/stars/LFhase/HIGHT?color=yellow&style=social)](https://github.com/LFhase/HIGHT)
-
-* **PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes**
-  
-  [![](https://img.shields.io/badge/EMNLP_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.13193v1)
-  [![Stars](https://img.shields.io/github/stars/IDEA-XL/PRESTO?color=yellow&style=social)](https://github.com/IDEA-XL/PRESTO)
-
-* **3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.05797)
-  [![Stars](https://img.shields.io/github/stars/QizhiPei/3D-MolT5?color=yellow&style=social)](https://github.com/QizhiPei/3D-MolT5)
-
-* **MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.12950)
-  [![Stars](https://img.shields.io/github/stars/NYUSHCS/MolecularGPT?color=yellow&style=social)](https://github.com/NYUSHCS/MolecularGPT)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/YuyanLiu/MolecularGPT)
-
-* **MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2406.06777)
-
-* **(AMOLE) Vision Language Model is NOT All You Need: Augmentation Strategies for Molecule Language Models**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2407.09043)
-  [![Stars](https://img.shields.io/github/stars/Namkyeong/AMOLE?color=yellow&style=social)](https://github.com/Namkyeong/AMOLE)
-
-* **(Chemma-RC) Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2407.15141)
-
-* **(SMILES-probing) Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task**
-  
-  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=JoO6mtCLHD)
-  [![Stars](https://img.shields.io/github/stars/ChemistryLLMs/SMILES-probing?color=yellow&style=social)](https://github.com/ChemistryLLMs/SMILES-probing)
-
-* **UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2408.00863)
-  [![Stars](https://img.shields.io/github/stars/Uni-MoT/uni-mot.github.io?color=yellow&style=social)](https://github.com/Uni-MoT/uni-mot.github.io)  
-
-* **(UTGDiff) Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model**  
-
-  [![](https://img.shields.io/badge/ECAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2408.09896) 
-  [![Stars](https://img.shields.io/github/stars/ran1812/UTGDiff?color=yellow&style=social)](https://github.com/ran1812/UTGDiff) 
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/18EqQ7MDHesmtiMiZz2o09PyeSwyf0hXb)  
-
-* **Mol2Lang-VLM: Vision- and Text-Guided Generative Pre-trained Language Models for Advancing Molecule Captioning through Multimodal Fusion**  
-
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.langmol-1.12/)
-  [![Stars](https://img.shields.io/github/stars/nhattruongpham/mol-lang-bridge?color=yellow&style=social)](https://github.com/nhattruongpham/mol-lang-bridge/tree/mol2lang/)
-
-* **Lang2Mol-Diff: A Diffusion-Based Generative Model for Language-to-Molecule Translation Leveraging SELFIES Representation**  
-
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.langmol-1.15/)
-  [![Stars](https://img.shields.io/github/stars/nhattruongpham/mol-lang-bridge?color=yellow&style=social)](https://github.com/nhattruongpham/mol-lang-bridge/tree/lang2mol/)
-
-* **(Self-Augmentation) Enhancing Cross Text-Molecule Learning by Self-Augmentation**  
-
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.findings-acl.569/)
-
-* **MTSwitch: A Web-based System for Translation between Molecules and Texts**  
-
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.inlg-demos.2.pdf)
-  [![Stars](https://img.shields.io/github/stars/hanninaa/MTSwitch?color=yellow&style=social)](https://github.com/hanninaa/MTSwitch)
-
-* **SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2409.02231)
-
-* **(MoleculeSTM) Geometry-text Multi-modal Foundation Model for Reactivity-oriented Molecule Editing**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=A9FlQMKxJ4)
-  [![Stars](https://img.shields.io/github/stars/chao1224/MoleculeSTM?color=yellow&style=social)](https://github.com/chao1224/MoleculeSTM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/chao1224/MoleculeSTM/tree/main)
-
-* **(MSR) Structural Reasoning Improves Molecular Understanding of LLM**
-  
-  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.05610)
-  [![Stars](https://img.shields.io/github/stars/yunhuijang/MSR?color=yellow&style=social)](https://github.com/yunhuijang/MSR)
-
-* **(TransDLM) Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.13597)
-  [![Stars](https://img.shields.io/github/stars/Cello2195/TransDLM?color=yellow&style=social)](https://github.com/Cello2195/TransDLM)
-
-* **Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.03138)
-
-* **(ChemLML) Chemical Language Model Linker: blending text and molecules with modular adapters**
-  
-  [![](https://img.shields.io/badge/JCIM_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2410.20182)
-  [![Stars](https://img.shields.io/github/stars/gitter-lab/ChemLML?color=yellow&style=social)](https://github.com/gitter-lab/ChemLML)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://doi.org/10.5281/zenodo.11661517)
-
-* **(Chemlactica) Small Molecule Optimization with Large Language Models**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=nJCYKdRZXb)
-  [![Stars](https://img.shields.io/github/stars/yerevann/chemlactica?color=yellow&style=social)](https://github.com/yerevann/chemlactica)
-
-* **Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://neurips.cc/media/neurips-2024/Slides/105558.pdf)
-
-* **(LLaMo) Large Language Model-based Molecular Graph Assistant**  
-
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2024/file/ee46288ab2aaf5c6e53aebebe719712c-Paper-Conference.pdf)
-  [![Stars](https://img.shields.io/github/stars/mlvlab/LLaMo?color=yellow&style=social)](https://github.com/mlvlab/LLaMo)
-
-* **(MolPuzzle) Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f2b9e8e7a36d43ddfd3d55113d56b1e0-Abstract-Datasets_and_Benchmarks_Track.html)
-  [![Stars](https://img.shields.io/github/stars/KehanGuo2/MolPuzzle?color=yellow&style=social)](https://github.com/KehanGuo2/MolPuzzle)
-
-* **(M³LLM) Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2411.04708)
-
-* **MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2411.14721)
-
-* **(AMORE) Lost in Translation: Chemical Language Models and the Misunderstanding of Molecule Structures**
-  
-  [![](https://img.shields.io/badge/ENMLP_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2024.findings-emnlp.760/)
-  [![Stars](https://img.shields.io/github/stars/ChemistryLLMs/AMORE?color=yellow&style=social)](https://github.com/ChemistryLLMs/AMORE)
-
-* **GeomCLIP: Contrastive Geometry-Text Pre-training for Molecules**
-  
-  [![](https://img.shields.io/badge/BIBM_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/10822346)
-  [![Stars](https://img.shields.io/github/stars/xiaocui3737/GeomCLIP?color=yellow&style=social)](https://github.com/xiaocui3737/GeomCLIP)
-
-* **(CMTMR) Towards Cross-Modal Text-Molecule Retrieval with Better Modality Alignment**
-  
-  [![](https://img.shields.io/badge/BIBM_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/10821722)
-  [![Stars](https://img.shields.io/github/stars/XMUDeepLIT/CMTMR?color=yellow&style=social)](https://github.com/XMUDeepLIT/CMTMR)
-
-* **(ORMA) Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval**
-  
-  [![](https://img.shields.io/badge/BIBM_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/10822800)
-  [![Stars](https://img.shields.io/github/stars/XMUDeepLIT/Orma?color=yellow&style=social)](https://github.com/XMUDeepLIT/Orma)
-
-* **PEIT: Property Enhanced Instruction Tuning for Multi-task Molecular Generation with LLMs**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2412.18084)
-  [![Stars](https://img.shields.io/github/stars/chenlong164/PEIT?color=yellow&style=social)](https://github.com/chenlong164/PEIT)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ccsalong/PEIT-LLM-LLaMa3.1-8B/tree/main)
-
-* **(HME) Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2412.20888)
-  [![Stars](https://img.shields.io/github/stars/Lyu6PosHao/HME?color=yellow&style=social)](https://github.com/Lyu6PosHao/HME)
-
-* **(Llamole) Multimodal Large Language3D-MOLT5 Models for Inverse Molecular Design with Retrosynthetic Planning**
-  
-  [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=rQ7fz9NO7f)
-  [![Stars](https://img.shields.io/github/stars/liugangcode/Llamole?color=yellow&style=social)](https://github.com/liugangcode/Llamole)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/liuganghuggingface/llamole-collection)
-
-* **RetroInText: A Multimodal Large Language Model Enhanced Framework for Retrosynthetic Planning via In-Context Representation Learning**
-  
-  [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=J6e4hurEKd)
-  [![Stars](https://img.shields.io/github/stars/Kin-CL/RetroInText?color=yellow&style=social)](https://github.com/Kin-CL/RetroInText)
-
-* **OCSU: Optical Chemical Structure Understanding for Molecule-centric Scientific Discovery**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2501.15415)
-  [![Stars](https://img.shields.io/github/stars/PharMolix/OCSU?color=yellow&style=social)](https://github.com/PharMolix/OCSU)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/Mol-VL-7B)
-
-* **Omni-Mol: Multitask Molecular Model for Any-to-any Modalities**  
-
-  [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.01074)
-  [![Stars](https://img.shields.io/github/stars/1789336421/Omni-Mol?color=yellow&style=social)](https://github.com/1789336421/Omni-Mol)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/datasets/CodeMagic/Omni-Mol-Dataset)
-
-* **Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.02810)
-
-* **(SLM4Mol) A Quantitative Analysis of Knowledge-Learning Preferences in Large Language Models in Molecular Science**
-  
-  [![](https://img.shields.io/badge/NMI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-024-00977-6)
-  [![Stars](https://img.shields.io/github/stars/AI-HPC-Research-Team/SLM4Mol?color=yellow&style=social)](https://github.com/AI-HPC-Research-Team/SLM4Mol)
-
-* **CLASS: Enhancing Cross-Modal Text-Molecule Retrieval Performance and Training Efficiency**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.11633)
-
-* **Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.13449)
-  [![Stars](https://img.shields.io/github/stars/DongkiKim95/Mol-LLaMA?color=yellow&style=social)](https://github.com/DongkiKim95/Mol-LLaMA)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/DongkiKim/Mol-Llama-2-7b-chat)
-
-* **ChatMol: A Versatile Molecule Designer Based on the Numerically Enhanced Large Language Model**
-  
-  [![](https://img.shields.io/badge/Bioinformatics_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.19794)
-  [![Stars](https://img.shields.io/github/stars/ChatMol/ChatMol?color=yellow&style=social)](https://github.com/ChatMol/ChatMol)
-
-* **MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Model**
-  
-  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.findings-emnlp.1174/)
-  [![Stars](https://img.shields.io/github/stars/sumin124/mv-clam?color=yellow&style=social)](https://github.com/sumin124/mv-clam)
-
-* **GraphT5: Unified Molecular Graph-Language Modeling via Multi-Modal Cross-Token Attention**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2503.07655)
-
-* **XMolCap: Advancing Molecular Captioning through Multimodal Fusion and Explainable Graph Neural Networks**
-  
-  [![](https://img.shields.io/badge/JBHI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/11012653)
-  [![Stars](https://img.shields.io/github/stars/cbbl-skku-org/XMolCap?color=yellow&style=social)](https://github.com/cbbl-skku-org/XMolCap)
-
-* **(ChatChemTS) Large language models open new way of AI-assisted molecule design for chemists**
-  
-  [![](https://img.shields.io/badge/JCIM_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/11012653)
-  [![Stars](https://img.shields.io/github/stars/molecule-generator-collection/ChatChemTS?color=yellow&style=social)](https://github.com/molecule-generator-collection/ChatChemTS)
-
-* **(LLM-MPP) Effective and Explainable Molecular Property Prediction by Chain-of-Thought Enabled Large Language Models and Multi-Modal Molecular Information Fusion**
-  
-  [![](https://img.shields.io/badge/JCIM_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c00577)
-  [![Stars](https://img.shields.io/github/stars/jinchang1223/LLM-MPP?color=yellow&style=social)](https://github.com/jinchang1223/LLM-MPP)
-
-* **Graph2Token: Make LLMs Understand Molecule Graphs**  
-
-  [![](https://img.shields.io/badge/AAAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1609/aaai.v39i20.35422)
-  [![Stars](https://img.shields.io/github/stars/ZeLeBron/Graph2Token?color=yellow&style=social)](https://github.com/ZeLeBron/Graph2Token)  
-
-* **ExDDI: Explaining Drug-Drug Interaction Predictions with Natural Language**  
-
-  [![](https://img.shields.io/badge/AAAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ojs.aaai.org/index.php/AAAI/article/view/34709)
-  [![Stars](https://img.shields.io/github/stars/ZhaoyueSun/ExDDI?color=yellow&style=social)](https://github.com/ZhaoyueSun/ExDDI)
-
-* **ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area**  
-
-  [![](https://img.shields.io/badge/AAAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ojs.aaai.org/index.php/AAAI/article/view/32020)
-  [![Stars](https://img.shields.io/github/stars/lijunxian111/ChemVlm?color=yellow&style=social)](https://github.com/lijunxian111/ChemVlm)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/AI4Chem/ChemVLM-26B-1-2)
-
-* **ChemDual: Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning**
-  
-  [![](https://img.shields.io/badge/ICJAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.02639)
-  [![Stars](https://img.shields.io/github/stars/JacklinGroup/ChemDual?color=yellow&style=social)](https://github.com/JacklinGroup/ChemDual)
-
-* **GeLLM³O: Generalizing Large Language Models for Multi-property Molecule Optimization**  
-
-  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2025.acl-long.1225.pdf)
-  [![Stars](https://img.shields.io/github/stars/ninglab/GeLLMO?color=yellow&style=social)](https://github.com/ninglab/GeLLMO)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/NingLab/GeLLMO-P6-Mistral)
-
-* **Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption Generation and Fine-Grained NLI Evaluation**  
-
-  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.144/)
-
-* **(GeLLMO-C) Large Language Models for Controllable Multi-property Multi-objective Molecule Optimization**  
-
-  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.findings-emnlp.1145/)
-  [![Stars](https://img.shields.io/github/stars/ninglab/GeLLMO-C?color=yellow&style=social)](https://github.com/ninglab/GeLLMO-C)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/NingLab/controllable-gellmo)
-
-* **ReactGPT: Understanding of Chemical Reactions via In-Context Tuning**  
-
-  [![](https://img.shields.io/badge/AAAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ojs.aaai.org/index.php/AAAI/article/view/31983)
-
-* **nach0-pc: Multi-task Language Model with Molecular Point Cloud Encoder**  
-
-  [![](https://img.shields.io/badge/AAAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1609/aaai.v39i23.34613)
-
-* **mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.12565)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/language-plus-molecules/mclm)
-
-* **ChemMLLM: Chemical Multimodal Large Language Model**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.16326)
-  [![Stars](https://img.shields.io/github/stars/bbsbz/ChemMLLM?color=yellow&style=social)](https://github.com/bbsbz/ChemMLLM)
-
-* **(CLEANMOL) Improving Chemical Understanding of LLMs via SMILES Parsing**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.16340)
-
-* **ModuLM: Enabling Modular and Multimodal Molecular Relational Learning with Large Language Models**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/html/2506.00880v1)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://anonymous.4open.science/r/ModuLM/README.md)
-
-* **(ToDi) TextOmics-Guided Diffusion for Hit-like Molecular Generation**  
-
-  [![](https://img.shields.io/badge/arXiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2507.09982)
-
-* **ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2507.21990v2)
-
-* **Dual Learning Between Molecules and Natural Language**
-  
-  [![](https://img.shields.io/badge/PAKDD_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_31)
-
-* **CROP: Integrating Topological and Spatial Structures via Cross-View Prefixes for Molecular LLMs**
-  
-  [![](https://img.shields.io/badge/MM_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2508.06917)
-
-* **Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2508.08401)
-
-* **AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2508.04748)
-  [![Stars](https://img.shields.io/github/stars/szu-tera/AttriLens-Mol?color=yellow&style=social)](https://github.com/szu-tera/AttriLens-Mol)
-
-* **MolPrompt: improving multi-modal molecular pre-training with knowledge prompts**
-  
-  [![](https://img.shields.io/badge/Bioinformatics_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/41/9/btaf466/8240326?login=false)
-  [![Stars](https://img.shields.io/github/stars/catly/MolPrompt?color=yellow&style=social)](https://github.com/catly/MolPrompt)
-
-* **(CAMT5) Training Text-to-Molecule Models with Context-Aware Tokenization**
-  
-  [![](https://img.shields.io/badge/ENMLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.findings-emnlp.1221/)
-  [![Stars](https://img.shields.io/github/stars/Songhyeontae/CAMT5?color=yellow&style=social)](https://github.com/Songhyeontae/CAMT5)
-
-* **Enhancing Molecular Property Prediction with Knowledge from Large Language Models**
-
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=arxiv&labelColor=555555)](https://arxiv.org/abs/2509.20664)
-
-* **(MolFinePrompt) Fine-grained multimodal molecular pretraining via prompt learning**
-  
-  [![](https://img.shields.io/badge/Knosys_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://doi.org/10.1016/j.knosys.2025.114381) 
-  [![Stars](https://img.shields.io/github/stars/yzf-code/KnowMol?color=yellow&style=social)](https://github.com/catly/MolFinePrompt)
-
-* **(MPPReasoner) Reasoning-Enhanced Large Language Models for Molecular Property Prediction**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2510.10248)
-  [![Stars](https://img.shields.io/github/stars/Jesse-zjx/MPPReasoner?color=yellow&style=social)](https://github.com/Jesse-zjx/MPPReasoner)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://anonymous.4open.science/r/MPPReasoner-12687/README.md)
-
-* **(MECo) Coder as Editor: Code-Driven Interpretable Molecule Optimization**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2510.14455)
-
-* **Chem-R: Learning to Reason as a Chemist**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2510.16880)
-  [![Stars](https://img.shields.io/github/stars/davidweidawang/Chem-R?color=yellow&style=social)](https://github.com/davidweidawang/Chem-R)
-
-* **KnowMol: Advancing Molecular Large Language Models with Multi-Level Chemical Knowledge**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2510.19484)
-  [![Stars](https://img.shields.io/github/stars/yzf-code/KnowMol?color=yellow&style=social)](https://github.com/yzf-code/KnowMol)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://hf.co/datasets/yzf1102/KnowMol-100K)
-
-* **(Mol-LLM) Incorporating Molecular Knowledge in Large Language Models via Multimodal Modeling**
-  
-  [![](https://img.shields.io/badge/IEEE_Trans_Comput_Soc_Syst_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/10838383)
-
-* **DeepMolTex: Deep Alignment of Molecular Graphs with Large Language Models via Mixture of Modality Experts**
-  
-  [![](https://img.shields.io/badge/MM_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://dl.acm.org/doi/abs/10.1145/3746027.3755875)
-
-* **Mol-L2: Transferring text knowledge with frozen language models for molecular representation learning**
-  
-  [![](https://img.shields.io/badge/Neurocomputing_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015097)
-
-* **(MolRAG) Unlocking the Power of LLMs for Molecular Property Prediction**  
-
-  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.755/) 
-  [![Stars](https://img.shields.io/github/stars/AcaciaSin/MolRAG?color=yellow&style=social)](https://github.com/AcaciaSin/MolRAG)  
-
-* **Boosting LLM's Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning**
-
-  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.1100/) 
-  [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/K-MSE?color=yellow&style=social)](https://github.com/HICAI-ZJU/K-MSE)
-
-* **(MolBridge) Bridging the Gap Between Molecule and Textual Descriptions via Substructure-aware Alignment**
-
-  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.1197/) 
-  [![Stars](https://img.shields.io/github/stars/Park-ing-lot/MolBridge?color=yellow&style=social)](https://github.com/Park-ing-lot/MolBridge)  
-
-* **GAMIC: Graph-Aligned Molecular In-context Learning for Molecule Analysis via LLMs**
-
-  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.findings-emnlp.996/) 
-  [![Stars](https://img.shields.io/github/stars/aliwister/mol-icl?color=yellow&style=social)](https://github.com/aliwister/mol-icl)  
-
-* **How to Make Large Language Models Generate 100% Valid Molecules?**
-
-  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.1350/) 
-  [![Stars](https://img.shields.io/github/stars/wentao228/SmiSelf?color=yellow&style=social)](https://github.com/wentao228/SmiSelf)
-
-* **Molecular String Representation Preferences in Pretrained LLMs: A Comparative Study in Zero- & Few-Shot Molecular Property Prediction**
-
-  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.56/) 
-  [![Stars](https://img.shields.io/github/stars/Spongeorge/llm-mpp?color=yellow&style=social)](https://github.com/Spongeorge/llm-mpp)
-
-### Text + Protein
-* **OntoProtein: Protein Pretraining With Gene Ontology Embedding**
-  
-  [![](https://img.shields.io/badge/ICLR_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=yfe1VMYAXa4)
-  [![Stars](https://img.shields.io/github/stars/zjunlp/OntoProtein?color=yellow&style=social)](https://github.com/zjunlp/OntoProtein)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zjunlp/OntoProtein)
-
-* **ProTranslator: Zero-Shot Protein Function Prediction Using Textual Description**
-  
-  [![](https://img.shields.io/badge/RECOMB_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2204.10286)
-  [![Stars](https://img.shields.io/github/stars/HanwenXuTHU/ProTranslator?color=yellow&style=social)](https://github.com/HanwenXuTHU/ProTranslator)
-
-* **ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts**
-  
-  [![](https://img.shields.io/badge/ICML_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://proceedings.mlr.press/v202/xu23t/xu23t.pdf)
-  [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)](https://github.com/DeepGraphLearning/ProtST)
-
-* **(ProGen) Large language models generate functional protein sequences across diverse families**
-  
-  [![](https://img.shields.io/badge/Nature_Biotechnology_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41587-022-01618-2)
-  [![Stars](https://img.shields.io/github/stars/salesforce/progen?color=yellow&style=social)](https://github.com/salesforce/progen)
-  
-* **InstructProtein: Aligning Human and Protein Language via Knowledge Instruction**
-  
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2310.03269.pdf)
-  [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)](https://github.com/HICAI-ZJU/InstructProtein)
-
-* **(ProteinDT) A Text-guided Protein Design Framework**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2302.04611.pdf)
-  [![Stars](https://img.shields.io/github/stars/chao1224/ProteinDT?color=yellow&style=social)](https://github.com/chao1224/ProteinDT)
-
-* **ProteinChat: Towards Achieving ChatGPT-Like Functionalities on Protein 3D Structures**
-  
-  [![](https://img.shields.io/badge/TechRxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23120606.v1)
-  [![Stars](https://img.shields.io/github/stars/UCSD-AI4H/proteinchat?color=yellow&style=social)](https://github.com/UCSD-AI4H/proteinchat)
-
-* **(ProteinChat v2) Multi-Modal Large Language Model Enables Protein Function Prediction**
-  
-  [![](https://img.shields.io/badge/ICML_2025_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.08.19.608729v1.abstract)
-  [![Stars](https://img.shields.io/github/stars/mignonjia/ProteinChat?color=yellow&style=social)](https://github.com/mignonjia/ProteinChat)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/file/d/1H-POt4e5Q5fYF59ZwfSdAJyuQiJ2rtJl/view)
-
-* **Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers**
-  
-  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2307.14367.pdf)
-  [![Stars](https://img.shields.io/github/stars/hadi-abdine/Prot2Text?color=yellow&style=social)](https://github.com/hadi-abdine/Prot2Text)
-  
-* **ProtChatGPT: Towards Understanding Proteins with Hybrid Representation and Large Language Models**
-  
-  [![](https://img.shields.io/badge/SIGIR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.09649)
-  [![Stars](https://img.shields.io/github/stars/xy21hb/proteinchat?color=yellow&style=social)](https://github.com/xy21hb/proteinchat)
-
-* **ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.04268.pdf)
-  [![Stars](https://img.shields.io/github/stars/lamm-mit/ProtAgents?color=yellow&style=social)](https://github.com/lamm-mit/ProtAgents)
-
-* **ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**
-  
-  [![](https://img.shields.io/badge/TAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ieeexplore.ieee.org/abstract/document/10979347)
-  [![Stars](https://img.shields.io/github/stars/Lyu6PosHao/ProLLaMA?color=yellow&style=social)](https://github.com/Lyu6PosHao/ProLLaMA)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GreatCaptainNemo/ProLLaMA)
-
-* **ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training**
-  
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.07920.pdf)
-  [![Stars](https://img.shields.io/github/stars/ProtLLM/ProtLLM?color=yellow&style=social)](https://github.com/ProtLLM/ProtLLM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/datasets/ProtLLM/ProtLLM)
-
-* **ProtT3: Protein-to-Text Generation for Text-based Protein Understanding**
-  
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.12564)
-  [![Stars](https://img.shields.io/github/stars/acharkq/ProtT3?color=yellow&style=social)](https://github.com/acharkq/ProtT3)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://osf.io/23azs/overview?view_only=185575515e714f4798499bf06513a730)
-
-* **ProteinCLIP: enhancing protein language models with natural language**
-  
-  [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1.full.pdf)
-  [![Stars](https://img.shields.io/github/stars/wukevin/proteinclip?color=yellow&style=social)](https://github.com/wukevin/proteinclip)
-
-* **ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.06649)
-  [![Stars](https://img.shields.io/github/stars/MingyuJ666/ProLLM?color=yellow&style=social)](https://github.com/MingyuJ666/ProLLM)
-
-* **(PAAG) Annotation-guided Protein Design with Multi-Level Domain Alignment**
-  
-  [![](https://img.shields.io/badge/KDD_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2404.16866)
-  [![Stars](https://img.shields.io/github/stars/chaohaoyuan/PAAG?color=yellow&style=social)](https://github.com/chaohaoyuan/PAAG)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ychaohao/PAAG)
-
-* **(Pinal) Toward De Novo Protein Design from Natural Language**
-  
-  [![](https://img.shields.io/badge/bioRrxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v1.full.pdf)
-  [![Stars](https://img.shields.io/github/stars/westlake-repl/Denovo-Pinal?color=yellow&style=social)](https://github.com/westlake-repl/Denovo-Pinal)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/Pinal)
-
-* **TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.arxiv.org/pdf/2408.15299)
-  [![Stars](https://img.shields.io/github/stars/tsynbio/TourSynbio?color=yellow&style=social)](https://github.com/tsynbio/TourSynbio)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/tsynbio/Toursynbio)
-
-* **(SEPIT) Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding with LLMs**
-  
-  [![](https://img.shields.io/badge/KDD_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2410.03553)
-  [![Stars](https://img.shields.io/github/stars/U-rara/SEPIT?color=yellow&style=social)](https://github.com/U-rara/SEPIT)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/U-rara/SEPIT)
-
-* **(BioM3) Natural Language Prompts Guide the Design of Novel Functional Protein Sequences**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=L1MyyRCAjX)
-  [![Stars](https://img.shields.io/github/stars/PraljakReps/BioM3?color=yellow&style=social)](https://github.com/PraljakReps/BioM3)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/niksapraljak1/BioM3)
-
-* **(LLM4ProteinEvolution) Language Models for Text-guided Protein Evolution**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=CNla8z0V2p)
-  [![Stars](https://img.shields.io/github/stars/ZhanghanNi/LLM4ProteinEvolution?color=yellow&style=social)](https://github.com/ZhanghanNi/LLM4ProteinEvolution)
-
-* **MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://neurips.cc/virtual/2024/poster/94780)
-  [![Stars](https://img.shields.io/github/stars/Gift-OYS/MMSite?color=yellow&style=social)](https://github.com/Gift-OYS/MMSite)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/14599105)
-
-* **MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://neurips.cc/virtual/2024/poster/92987)
-  [![Stars](https://img.shields.io/github/stars/PharMolix/MutaPLM?color=yellow&style=social)](https://github.com/PharMolix/MutaPLM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/MutaPLM)
-
-* **ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2412.04069)
-  [![Stars](https://img.shields.io/github/stars/GXY0116/ProtDAT?color=yellow&style=social)](https://github.com/GXY0116/ProtDAT)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/14264096)
-
-* **EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2412.11618)
-  [![Stars](https://img.shields.io/github/stars/sornkL/EvoLlama?color=yellow&style=social)](https://github.com/sornkL/EvoLlama)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/nwliu/EvoLlama)
-
-* **FAPM: functional annotation of proteins using multimodal models beyond structural modeling**
-  
-  [![](https://img.shields.io/badge/Bioinformatics_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/40/12/btae680/7900294)
-  [![Stars](https://img.shields.io/github/stars/xiangwenkai/FAPM?color=yellow&style=social)](https://github.com/xiangwenkai/FAPM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/wenkai/FAPM/tree/main/model)
-
-* **ProCyon: A multimodel foundation model for protein phenotypes**
-  
-  [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.12.10.627665v1)
-  [![Stars](https://img.shields.io/github/stars/mims-harvard/ProCyon?color=yellow&style=social)](https://github.com/mims-harvard/ProCyon)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/mims-harvard/ProCyon-Full)
-
-* **(Evolla) Decoding the Molecular Language of Proteins with Evolla**
-  
-  [![](https://img.shields.io/badge/bioRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1)
-  [![Stars](https://img.shields.io/github/stars/westlake-repl/Evolla?color=yellow&style=social)](https://github.com/westlake-repl/Evolla)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/Evolla-10B)
-
-* **ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding**
-  
-  [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=qWlqfjGVWX)
-  [![Stars](https://img.shields.io/github/stars/OviaLabs/ProteinGPT?color=yellow&style=social)](https://github.com/OviaLabs/ProteinGPT)
-
-* **(MP4) A generalized protein design ML model enables generation of functional de novo proteins**
-  
-  [![](https://img.shields.io/badge/ICLR_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=H7KaafflRG)
-
-* **Protclip: Function-informed protein multi-modal learning**
-  
-  [![](https://img.shields.io/badge/AAAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ojs.aaai.org/index.php/AAAI/article/view/34456)
-  [![Stars](https://img.shields.io/github/stars/diaoshaoyou/ProtCLIP?color=yellow&style=social)](https://github.com/diaoshaoyou/ProtCLIP)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/15245588)
-
-* **(CtrlProt) Controllable Protein Sequence Generation with LLM Preference Optimization Authors**
-  
-  [![](https://img.shields.io/badge/AAAI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ojs.aaai.org/index.php/AAAI/article/view/32030)
-  [![Stars](https://img.shields.io/github/stars/nju-websoft/CtrlProt?color=yellow&style=social)](https://github.com/nju-websoft/CtrlProt)
-
-* **Protein2Text: Resampling Mechanism to Translate Protein Sequences into Human-Interpretable Text**
-  
-  [![](https://img.shields.io/badge/NAACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.naacl-industry.68/)
-  [![Stars](https://img.shields.io/github/stars/alaaj27/Protein2Text?color=yellow&style=social)](https://github.com/alaaj27/Protein2Text)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/tumorailab/protein2text-llama3.1-8B-instruct-esm2-650M)
-
-* **(RAPM): Rethinking Text-based Protein Understanding: Retrieval or LLM?**
-  
-  [![](https://img.shields.io/badge/EMNLP_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.emnlp-main.1211/)
-  [![Stars](https://img.shields.io/github/stars/IDEA-XL/RAPM?color=yellow&style=social)](https://github.com/IDEA-XL/RAPM)
-
-* **Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.11194)
-  [![Stars](https://img.shields.io/github/stars/colinfx/prot2text-v2?color=yellow&style=social)](https://github.com/colinfx/prot2text-v2)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/xiao-fei/Prot2Text-V2-11B-Instruct-hf)
-
-* **(ProDVa) Protein Design with Dynamic Protein Vocabulary**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2505.18966)
-  [![Stars](https://img.shields.io/github/stars/sornkL/ProDVa?color=yellow&style=social)](https://github.com/sornkL/ProDVa)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/nwliu/prodva)
-
-* **ProteinAligner: A Tri-Modal Contrastive Learning Framework for Protein Representation Learning**
-  
-  [![](https://img.shields.io/badge/ICML_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=LjlJBnmZ0M)
-  [![Stars](https://img.shields.io/github/stars/Alexiland/ProteinAligner?color=yellow&style=social)](https://github.com/Alexiland/ProteinAligner)
-
-* **Prottex: Structure-in-context reasoning and editing of proteins with large language models**
-  
-  [![](https://img.shields.io/badge/JCIM_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00585)
-  [![Stars](https://img.shields.io/github/stars/mzc2113391/ProtTeX?color=yellow&style=social)](https://github.com/mzc2113391/ProtTeX)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/mzcwd/ProtTeX)
-
-* **Prot2Chat: protein large language model with early fusion of text, sequence, and structure**
-  
-  [![](https://img.shields.io/badge/Bioinformatics_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://academic.oup.com/bioinformatics/article/41/8/btaf396/8215464)
-  [![Stars](https://img.shields.io/github/stars/wangzc1233/Prot2Chat?color=yellow&style=social)](https://github.com/wangzc1233/Prot2Chat)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zcw51699/prot2chat/tree/main/zcw51699/prot2chat)
-  
-* **(CLASP) Multi-Modal Protein Representation Learning with CLASP**
-  
-  [![](https://img.shields.io/badge/bioRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2025.08.10.669533v1.full.pdf)
-  [![Stars](https://img.shields.io/github/stars/Emad-COMBINE-lab/clasp?color=yellow&style=social)](https://github.com/Emad-COMBINE-lab/clasp)
-
-* **ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning**
-  
-  [![](https://img.shields.io/badge/Nature_Biotechnology_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41587-025-02836-0)
-  [![Stars](https://img.shields.io/github/stars/westlake-repl/ProTrek?color=yellow&style=social)](https://github.com/westlake-repl/ProTrek)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/ProTrek_650M_UniRef50)
-
-* **Protein as a Section Language for LLMs**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2510.11188)
-
-* **Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization**
-  
-  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.616/)
-  [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/KPO?color=yellow&style=social)](https://github.com/HICAI-ZJU/KPO)
-
-* **(LLaPA) Large Language and Protein Assistant for Protein-Protein Interactions Prediction**
-  
-  [![](https://img.shields.io/badge/ACL_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2025.acl-long.554/)
-  [![Stars](https://img.shields.io/github/stars/HHW-zhou/LLAPA?color=yellow&style=social)](https://github.com/HHW-zhou/LLAPA)
-
-* **Caduceus: MoE-enhanced Foundation Models Unifying Biological and Natural Language**
-  
-  [![](https://img.shields.io/badge/ICLR_Submission_2026-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/forum?id=NNRQW01Xuh)
-
-### Text + BioMulti
-
-* **Galactica: A Large Language Model for Science**
-  
-  [![](https://img.shields.io/badge/Arxiv_2022-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://galactica.org/static/paper.pdf)
-  [![Stars](https://img.shields.io/github/stars/paperswithcode/galai?color=yellow&style=social)](https://github.com/paperswithcode/galai)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/models?other=galactica)
-
-* **BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations**
-  
-  [![](https://img.shields.io/badge/EMNLP_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://aclanthology.org/2023.emnlp-main.70.pdf)
-  [![Stars](https://img.shields.io/github/stars/QizhiPei/BioT5?color=yellow&style=social)](https://github.com/QizhiPei/BioT5)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/QizhiPei/biot5-base)
-
-* **DARWIN Series: Domain Specific Large Language Models for Natural Science**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2308.13565.pdf)
-  [![Stars](https://img.shields.io/github/stars/MasterAI-EAM/Darwin?color=yellow&style=social)](https://github.com/MasterAI-EAM/Darwin)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/MasterAI-EAM/Darwin)
-
-* **BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2308.09442.pdf)
-  [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://pan.baidu.com/share/init?surl=iAMBkuoZnNAylhopP5OgEg\&pwd=7a6b)
-
-* **(StructChem) Structured Chemistry Reasoning with Large Language Models**
-  
-  [![](https://img.shields.io/badge/Arxiv_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2311.09656.pdf)
-  [![Stars](https://img.shields.io/github/stars/ozyyshr/StructChem?color=yellow&style=social)](https://github.com/ozyyshr/StructChem?tab=readme-ov-file)
-
-* **(BioTranslator) Multilingual translation for zero-shot biomedical classification using BioTranslator**
-  
-  [![](https://img.shields.io/badge/Nature_Communications_2023-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s41467-023-36476-2.pdf)
-  [![Stars](https://img.shields.io/github/stars/HanwenXuTHU/BioTranslatorProject?color=yellow&style=social)](https://github.com/HanwenXuTHU/BioTranslatorProject)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://figshare.com/articles/dataset/Protein_Pathway_data_tar/20120447)
-
-* **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models**
-  
-  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=Tlsdsb6l9n)
-  [![Stars](https://img.shields.io/github/stars/zjunlp/Mol-Instructions?color=yellow&style=social)](https://github.com/zjunlp/Mol-Instructions)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zjunlp)
-
-* **(ChatDrug) ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback**
-  
-  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=yRrPfKyJQ2)
-  [![Stars](https://img.shields.io/github/stars/chao1224/ChatDrug?color=yellow&style=social)](https://github.com/chao1224/ChatDrug)
-
-* **BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs**
-  
-  [![](https://img.shields.io/badge/ICLR_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://openreview.net/pdf?id=jJCeMiwHdH)
-  [![Stars](https://img.shields.io/github/stars/RyanWangZf/BioBridge?color=yellow&style=social)](https://github.com/RyanWangZf/BioBridge)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/RyanWangZf/BioBridge/tree/main/checkpoints)
-
-* **(KEDD) Towards Unified AI Drug Discovery with Multiple Knowledge Modalities**
-  
-  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2305.01523.pdf)
-
-* **（Otter Knowledge) Knowledge Enhanced Representation Learning for Drug Discovery**
-  
-  [![](https://img.shields.io/badge/AAAI_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://ojs.aaai.org/index.php/AAAI/article/view/28924)
-  [![Stars](https://img.shields.io/github/stars/IBM/otter-knowledge?color=yellow&style=social)](https://github.com/IBM/otter-knowledge)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ibm)
-
-* **ChatCell: Facilitating Single-Cell Analysis with Natural Language**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.08303v2.pdf)
-  [![Stars](https://img.shields.io/github/stars/zjunlp/ChatCell?color=yellow&style=social)](https://github.com/zjunlp/ChatCell)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zjunlp)
-
-* **LangCell: Language-Cell Pre-training for Cell Identity Understanding**
-  
-  [![](https://img.shields.io/badge/ICML_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2405.06708v2)
-  [![Stars](https://img.shields.io/github/stars/PharMolix/LangCell?color=yellow&style=social)](https://github.com/PharMolix/LangCell)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1cuhVG9v0YoAnjW-t_WMpQQguajumCBTp)
-
-* **BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning**
-  
-  [![](https://img.shields.io/badge/ACL_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.17810.pdf)
-  [![Stars](https://img.shields.io/github/stars/QizhiPei/BioT5?color=yellow&style=social)](https://github.com/QizhiPei/BioT5)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/QizhiPei/BioT5)
-
-* **MolBind: Multimodal Alignment of Language, Molecules, and Proteins**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.08167.pdf)
-  [![Stars](https://img.shields.io/github/stars/tengxiao1/MolBind?color=yellow&style=social)](https://github.com/tengxiao1/MolBind)
-
-* **Uni-SMART: Universal Science Multimodal Analysis and Research Transformer**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2403.10301.pdf)
-
-* **Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains**
-  
-  [![](https://img.shields.io/badge/ICML_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.05140.pdf)
-  [![Stars](https://img.shields.io/github/stars/sjunhongshen/Tag-LLM?color=yellow&style=social)](https://github.com/sjunhongshen/Tag-LLM)
-
-* **An Evaluation of Large Language Models in Bioinformatics Research**
-  
-  [![](https://img.shields.io/badge/Arxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2402.13714.pdf)
-
-* **SciMind: A Multimodal Mixture-of-Experts Model for Advancing Pharmaceutical Sciences**
-  
-  [![](https://img.shields.io/badge/bioRxiv_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2024.07.16.603812v1.full.pdf)
-
-* **SciDFM: A Large Language Model with Mixture-of-Experts for Science**
-  
-  [![](https://img.shields.io/badge/NeurIPS_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2409.18412)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/OpenDFM/SciDFM-MoE-A5.6B-v1.0)
-
-* **ChemDFM-X: Towards Large Multimodal Model for Chemistry**
-  
-  [![](https://img.shields.io/badge/Sci_China_Inf_Sci_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2409.13194)
-  [![Stars](https://img.shields.io/github/stars/OpenDFM/ChemDFM-X?color=yellow&style=social)](https://github.com/OpenDFM/ChemDFM-X)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/OpenDFM/ChemDFM-X-v1.0-13B)
-
-* **(NatureLM) Nature Language Model: Deciphering the Language of Nature for Scientific Discovery**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2502.07527)
-  [![Stars](https://img.shields.io/github/stars/microsoft/SFM?color=yellow&style=social)](https://github.com/microsoft/SFM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/microsoft/naturelm)
-
-* **(ChemDFM) Developing ChemDFM as a large language foundation model for chemistry**
-  
-  [![](https://img.shields.io/badge/Cell_Rep_Phys_Sci_2024-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00122-5)
-  [![Stars](https://img.shields.io/github/stars/OpenDFM/ChemDFM?color=yellow&style=social)](https://github.com/OpenDFM/ChemDFM)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/OpenDFM/ChemDFM-v1.0-13B)
-
-* **(KFPPIMI) Improving protein–protein interaction modulator predictions via knowledge-fused language models**
-  
-  [![](https://img.shields.io/badge/Information_Fusion_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003008?via%3Dihub)
-  [![Stars](https://img.shields.io/github/stars/1zzt/KFPPIMI?color=yellow&style=social)](https://github.com/1zzt/KFPPIMI)
-
-* **STELLA: Towards Protein Function Prediction with Multimodal LLMs Integrating Sequence-Structure Representations**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2506.03800)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://anonymous.4open.science/r/STELLA-DF00/README.md)
-
-* **(CAFT) Improving Large Language Models with Concept-Aware Fine-Tuning**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/pdf/2506.07833)
-  [![Stars](https://img.shields.io/github/stars/michaelchen-lab/caft-llm?color=yellow&style=social)](https://github.com/michaelchen-lab/caft-llm)
-
-* **InstructPro: Natural Language Guided Ligand-Binding Protein Design**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2506.09332)
-
-* **(InstructBioMol) Advancing biomolecular understanding and design following human instructions**
-  
-  [![](https://img.shields.io/badge/NMI_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.nature.com/articles/s42256-025-01064-0)
-  [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/InstructBioMol?color=yellow&style=social)](https://github.com/HICAI-ZJU/InstructBioMol)
-
-* **DrugLM: A Unified Framework to Enhance Drug-Target Interaction Predictions by Incorporating Textual Embeddings via Language Models**
-  
-  [![](https://img.shields.io/badge/bioRxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://www.biorxiv.org/content/10.1101/2025.07.09.657250v1.abstract)
-  [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/InstructBioMol?color=yellow&style=social)](https://github.com/HICAI-ZJU/InstructBioMol)
-
-* **Intern-S1: A Scientific Multimodal Foundation Model**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2508.15763)
-  [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/internlm/Intern-S1)
-
-* **Chem3DLLM: 3D Multimodal Large Language Models for Chemistry**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2508.10696)
-
-* **SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2509.21320)
-  [![Stars](https://img.shields.io/github/stars/open-sciencelab/SciReason?color=yellow&style=social)](https://github.com/open-sciencelab/SciReason)
-
-* **MolChord: Structure-Sequence Alignment for Protein-Guided Drug Design**
-  
-  [![](https://img.shields.io/badge/Arxiv_2025-5291C8?style=flat&logo=Read.cv&labelColor=555555)](https://arxiv.org/abs/2510.27671)
+- **[BioBERT: a pre-trained biomedical language representation model for biomedical text mining](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/dmis-lab) [![Stars](https://img.shields.io/github/stars/dmis-lab/biobert?color=yellow&style=social)](https://github.com/dmis-lab/biobert)
+- **[SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/allenai/scibert) [![Stars](https://img.shields.io/github/stars/allenai/scibert?color=yellow&style=social)](https://github.com/allenai/scibert)
+- **[(BlueBERT) Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets](https://aclanthology.org/W19-5006.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/bionlp) [![Stars](https://img.shields.io/github/stars/ncbi-nlp/bluebert?color=yellow&style=social)](https://github.com/ncbi-nlp/bluebert)
+- **[Bio-Megatron: Larger Biomedical Domain Language Model](https://aclanthology.org/2020.emnlp-main.379.pdf)** - Modality: `BioText` |   [![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo?color=yellow&style=social)](https://github.com/NVIDIA/NeMo)
+- **[ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/pdf/1904.05342.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/lindvalllab/clinicalXLNet) [![Stars](https://img.shields.io/github/stars/kexinhuang12345/clinicalBERT?color=yellow&style=social)](https://github.com/kexinhuang12345/clinicalBERT)
+- **[BioM-Transformers: Building Large Biomedical Language Models with BERT, ALBERT and ELECTRA](https://aclanthology.org/2021.bionlp-1.24.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/sultan) [![Stars](https://img.shields.io/github/stars/salrowili/BioM-Transformers?color=yellow&style=social)](https://github.com/salrowili/BioM-Transformers)
+- **[(PubMedBERT) Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing](https://dl.acm.org/doi/10.1145/3458754)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext) 
+- **[SciFive: a text-to-text transformer model for biomedical literature](https://arxiv.org/pdf/2106.03598.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/razent) [![Stars](https://img.shields.io/github/stars/justinphan3110/SciFive?color=yellow&style=social)](https://github.com/justinphan3110/SciFive)
+- **[(DRAGON) Deep Bidirectional Language-Knowledge Graph Pretraining](https://arxiv.org/pdf/2210.09338.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/michiyasunaga/dragon) [![Stars](https://img.shields.io/github/stars/michiyasunaga/dragon?color=yellow&style=social)](https://github.com/michiyasunaga/dragon)
+- **[LinkBERT: Pretraining Language Models with Document Links](https://aclanthology.org/2022.acl-long.551.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/michiyasunaga) [![Stars](https://img.shields.io/github/stars/michiyasunaga/LinkBERT?color=yellow&style=social)](https://github.com/michiyasunaga/LinkBERT)
+- **[BioBART: Pretraining and Evaluation of A Biomedical Generative Language Model](https://aclanthology.org/2022.bionlp-1.9.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GanjinZero) [![Stars](https://img.shields.io/github/stars/GanjinZero/BioBART?color=yellow&style=social)](https://github.com/GanjinZero/BioBART)
+- **[BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining](https://doi.org/10.1093/bib/bbac409)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/microsoft/biogpt) [![Stars](https://img.shields.io/github/stars/microsoft/BioGPT?color=yellow&style=social)](https://github.com/microsoft/BioGPT)
+- **[GatorTron: A Large Clinical Language Model to Unlock Patient Information from Unstructured Electronic Health Records](https://arxiv.org/pdf/2203.03540.pdf)** - Modality: `BioText` |   [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?color=yellow&style=social)](https://github.com/NVIDIA/Megatron-LM)
+- **[Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2.pdf)** - Modality: `BioText` |   
+- **[(ScholarBERT) The Diminishing Returns of Masked Language Models to Science](https://aclanthology.org/2023.findings-acl.82.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/globuslabs/ScholarBERT) 
+- **[PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/pdf/2304.14454.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/chaoyi-wu/PMC-LLaMA) [![Stars](https://img.shields.io/github/stars/chaoyi-wu/PMC-LLaMA?color=yellow&style=social)](https://github.com/chaoyi-wu/PMC-LLaMA)
+- **[BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine](https://arxiv.org/pdf/2308.09442v2.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/BioMedGPT-LM-7B) [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
+- **[(GatortronGPT) A study of generative large language model for medical research and healthcare](https://arxiv.org/pdf/2305.13523.pdf)** - Modality: `BioText` |   [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM?color=yellow&style=social)](https://github.com/NVIDIA/Megatron-LM)
+- **[Clinical Camel: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding](https://arxiv.org/pdf/2305.12031.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/wanglab/ClinicalCamel-70B) [![Stars](https://img.shields.io/github/stars/bowang-lab/clinical-camel?color=yellow&style=social)](https://github.com/bowang-lab/clinical-camel)
+- **[MEDITRON-70B: Scaling Medical Pretraining for Large Language Models](https://arxiv.org/pdf/2311.16079.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/epfl-llm/meditron-70b) [![Stars](https://img.shields.io/github/stars/epfLLM/meditron?color=yellow&style=social)](https://github.com/epfLLM/meditron)
+- **[BioinspiredLLM: Conversational Large Language Model for the Mechanics of Biological and Bio-inspired Materials](https://arxiv.org/pdf/2309.08788.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/lamm-mit/BioinspiredLLM) 
+- **[ClinicalGPT: Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation](https://arxiv.org/pdf/2306.09968.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/medicalai/ClinicalGPT-base-zh) 
+- **[MedAlpaca - An Open-Source Collection of Medical Conversational AI Models and Training Data](https://arxiv.org/pdf/2304.08247.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/medalpaca) [![Stars](https://img.shields.io/github/stars/kbressem/medAlpaca?color=yellow&style=social)](https://github.com/kbressem/medAlpaca)
+- **[SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning](https://arxiv.org/pdf/2401.07950.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zd21/SciGLM-6B) [![Stars](https://img.shields.io/github/stars/THUDM/SciGLM?color=yellow&style=social)](https://github.com/THUDM/SciGLM)
+- **[BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text](https://arxiv.org/pdf/2403.18421v1.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/stanford-crfm/BioMedLM) [![Stars](https://img.shields.io/github/stars/stanford-crfm/BioMedLM?color=yellow&style=social)](https://github.com/stanford-crfm/BioMedLM)
+- **[BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains](https://arxiv.org/pdf/2402.10373.pdf)** - Modality: `BioText` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/BioMistral) 
+- **[Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries](https://aclanthology.org/2021.emnlp-main.47.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/cnedwards/text2mol?color=yellow&style=social)](https://github.com/cnedwards/text2mol)
+- **[(MolT5) Translation between Molecules and Natural Language](https://aclanthology.org/2022.emnlp-main.26.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/laituan245) [![Stars](https://img.shields.io/github/stars/blender-nlp/MolT5?color=yellow&style=social)](https://github.com/blender-nlp/MolT5)
+- **[(KV-PLM) A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals](https://www.nature.com/articles/s41467-022-28494-3.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1xig3-3JG63kR-Xqj1b9wkPEdxtfD_4IX) [![Stars](https://img.shields.io/github/stars/thunlp/KV-PLM?color=yellow&style=social)](https://github.com/thunlp/KV-PLM)
+- **[(MoMu) A Molecular Multimodal Foundation Model Associating Molecule Graphs with Natural Language](https://arxiv.org/pdf/2209.05481.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/BingSu12/MoMu) [![Stars](https://img.shields.io/github/stars/BingSu12/MoMu?color=yellow&style=social)](https://github.com/BingSu12/MoMu)
+- **[(Text+Chem T5) Unifying Molecular and Textual Representations via Multi-task Language Modelling](https://proceedings.mlr.press/v202/christofidellis23a/christofidellis23a.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GT4SD) [![Stars](https://img.shields.io/github/stars/GT4SD/multitask_text_and_chemistry_t5?color=yellow&style=social)](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
+- **[(CLAMP) Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language](https://proceedings.mlr.press/v202/seidl23a/seidl23a.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/ml-jku/clamp) [![Stars](https://img.shields.io/github/stars/ml-jku/clamp?color=yellow&style=social)](https://github.com/ml-jku/clamp)
+- **[GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning](https://openreview.net/pdf?id=Tt6DrRCgJV)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/haitengzhao/gimlet) [![Stars](https://img.shields.io/github/stars/zhao-ht/GIMLET?color=yellow&style=social)](https://github.com/zhao-ht/GIMLET)
+- **[MoleculeGPT: Instruction Following Large Language Models for Molecular Property Prediction](https://ai4d3.github.io/papers/34.pdf)** - Modality: `Text + Molecule` |   
+- **[(ChemLLMBench) What indeed can GPT models do in chemistry? A comprehensive benchmark on eight tasks](https://openreview.net/pdf?id=1ngbR3SZHW)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/ChemFoundationModels/ChemLLMBench?color=yellow&style=social)](https://github.com/ChemFoundationModels/ChemLLMBench)
+- **[MolXPT: Wrapping Molecules with Text for Generative Pre-training](https://aclanthology.org/2023.acl-short.138.pdf)** - Modality: `Text + Molecule` |   
+- **[(TextReact) Predictive Chemistry Augmented with Text Retrieval](https://aclanthology.org/2023.emnlp-main.784.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/thomas0809/textreact?color=yellow&style=social)](https://github.com/thomas0809/textreact)
+- **[MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter](https://aclanthology.org/2023.emnlp-main.966v2.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://ufile.io/6vffm5bg) [![Stars](https://img.shields.io/github/stars/eltociear/MolCA?color=yellow&style=social)](https://github.com/eltociear/MolCA)
+- **[ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction](https://aclanthology.org/2023.findings-emnlp.366.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/syr-cn/ReLM?color=yellow&style=social)](https://github.com/syr-cn/ReLM)
+- **[(MoleculeSTM) Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing](https://www.nature.com/articles/s42256-023-00759-6.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/chao1224/MoleculeSTM) [![Stars](https://img.shields.io/github/stars/chao1224/MoleculeSTM?color=yellow&style=social)](https://github.com/chao1224/MoleculeSTM)
+- **[(AMAN) Adversarial Modality Alignment Network for Cross-Modal Molecule Retrieval](https://ieeexplore.ieee.org/document/10063974)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/NicoleBonnie/AMAN?color=yellow&style=social)](https://github.com/NicoleBonnie/AMAN)
+- **[MolLM: A Unified Language Model for Integrating Biomedical Text with 2D and 3D Molecular Representations](https://www.biorxiv.org/content/10.1101/2023.11.25.568656v2.full.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/17XhqdsDOxiT8PEDLHdsLPKf62PXPmbms) [![Stars](https://img.shields.io/github/stars/gersteinlab/MolLM?color=yellow&style=social)](https://github.com/gersteinlab/MolLM)
+- **[(MolReGPT) Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective](https://arxiv.org/pdf/2306.06615.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/phenixace/MolReGPT?color=yellow&style=social)](https://github.com/phenixace/MolReGPT)
+- **[(CaR) Can Large Language Models Empower Molecular Property Prediction?](https://arxiv.org/pdf/2307.07443.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/ChnQ/LLM4Mol?color=yellow&style=social)](https://github.com/ChnQ/LLM4Mol)
+- **[MolFM: A Multimodal Molecular Foundation Model](https://arxiv.org/pdf/2307.09484.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://pan.baidu.com/share/init?surl=iAMBkuoZnNAylhopP5OgEg\&pwd=7a6b) [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
+- **[(ChatMol) Interactive Molecular Discovery with Natural Language](https://arxiv.org/pdf/2306.11976.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1I-LcBE0emj8p1W6WFCbEYajTADGN1RuC) [![Stars](https://img.shields.io/github/stars/Ellenzzn/ChatMol?color=yellow&style=social)](https://github.com/Ellenzzn/ChatMol)
+- **[InstructMol: Multi-Modal Integration for Building a Versatile and Reliable Molecular Assistant in Drug Discovery](https://arxiv.org/pdf/2311.16208.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/IDEA-XL/InstructMol?color=yellow&style=social)](https://github.com/IDEA-XL/InstructMol)
+- **[ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/pdf/2304.05376.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/ur-whitelab/chemcrow-public?color=yellow&style=social)](https://github.com/ur-whitelab/chemcrow-public)
+- **[GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction](https://arxiv.org/pdf/2310.03030.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Suryanarayanan-Balaji/GPT-MolBERTa?color=yellow&style=social)](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
+- **[nach0: Multimodal Natural and Chemical Languages Foundation Model](https://arxiv.org/pdf/2311.12410.pdf)** - Modality: `Text + Molecule` |   
+- **[DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs](https://arxiv.org/pdf/2309.03907.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/UCSD-AI4H/drugchat?color=yellow&style=social)](https://github.com/UCSD-AI4H/drugchat)
+- **[(Ada/Aug-T5) From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery](https://arxiv.org/pdf/2309.05203.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/SCIR-HI) [![Stars](https://img.shields.io/github/stars/SCIR-HI/ArtificiallyR2R?color=yellow&style=social)](https://github.com/SCIR-HI/ArtificiallyR2R)
+- **[MolTailor: Tailoring Chemical Molecular Representation to Specific Tasks via Text Prompts](https://arxiv.org/pdf/2401.11403.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/SCIR-HI/MolTailor?color=yellow&style=social)](https://github.com/SCIR-HI/MolTailor)
+- **[(TGM-DLM) Text-Guided Molecule Generation with Diffusion Language Model](https://arxiv.org/pdf/2402.13040.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Deno-V/tgm-dlm?color=yellow&style=social)](https://github.com/Deno-V/tgm-dlm)
+- **[GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text](https://doi.org/10.1016/j.compbiomed.2024.108073)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/ai-hpc-research-team/git-mol?color=yellow&style=social)](https://github.com/ai-hpc-research-team/git-mol)
+- **[PolyNC: a natural and chemical language model for the prediction of unified polymer properties](https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc05079c)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/hkqiu/PolyNC) [![Stars](https://img.shields.io/github/stars/HKQiu/Unified_ML4Polymers?color=yellow&style=social)](https://github.com/HKQiu/Unified_ML4Polymers)
+- **[MolTC: Towards Molecular Relational Modeling In Language Models](https://arxiv.org/pdf/2402.03781.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/MangoKiller/MolTC?color=yellow&style=social)](https://github.com/MangoKiller/MolTC)
+- **[T-Rex: Text-assisted Retrosynthesis Prediction](https://arxiv.org/pdf/2401.14637.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/lauyikfung/T-Rex?color=yellow&style=social)](https://github.com/lauyikfung/T-Rex)
+- **[LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset](https://arxiv.org/pdf/2402.09391.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/osunlp/LLM4Chem) [![Stars](https://img.shields.io/github/stars/OSU-NLP-Group/LLM4Chem?color=yellow&style=social)](https://github.com/OSU-NLP-Group/LLM4Chem)
+- **[(Drug-to-indication) Emerging Opportunities of Using Large Language Models for Translation Between Drug Molecules and Indications](https://arxiv.org/pdf/2402.09588.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/PittNAIL/drug-to-indication?color=yellow&style=social)](https://github.com/PittNAIL/drug-to-indication)
+- **[ChemDFM: Dialogue Foundation Model for Chemistry](https://arxiv.org/pdf/2401.14818.pdf)** - Modality: `Text + Molecule` |   
+- **[DrugAssist: A Large Language Model for Molecule Optimization](https://arxiv.org/pdf/2401.10334.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/blazerye/DrugAssist?color=yellow&style=social)](https://github.com/blazerye/DrugAssist)
+- **[ChemLLM: A Chemical Large Language Model](https://arxiv.org/pdf/2402.06852.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) 
+- **[(TEDMol) Text-guided Diffusion Model for 3D Molecule Generation](https://openreview.net/pdf?id=FdUloEgBSE)** - Modality: `Text + Molecule` |   
+- **[(3DToMolo) Sculpting Molecules in 3D: A Flexible Substructure Aware Framework for Text-Oriented Molecular Optimization](https://arxiv.org/pdf/2403.03425.pdf)** - Modality: `Text + Molecule` |   
+- **[(ICMA) Large Language Models are In-Context Molecule Learners](https://arxiv.org/pdf/2403.04197.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/phenixace) 
+- **[(LLMaMol) Benchmarking Large Language Models for Molecule Prediction Tasks](https://arxiv.org/pdf/2403.05075.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/zhiqiangzhongddu/LLMaMol?color=yellow&style=social)](https://github.com/zhiqiangzhongddu/LLMaMol)
+- **[3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs](https://arxiv.org/pdf/2403.07179.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/huaishengzhu/3MDiffusion?color=yellow&style=social)](https://github.com/huaishengzhu/3MDiffusion)
+- **[(TSMMG) Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model](https://arxiv.org/pdf/2403.13244.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/HHW-zhou/TSMMG?color=yellow&style=social)](https://github.com/HHW-zhou/TSMMG)
+- **[(SLM4CRP) A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions](https://arxiv.org/pdf/2404.09606.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/AI-HPC-Research-Team/SLM4CRP?color=yellow&style=social)](https://github.com/AI-HPC-Research-Team/SLM4CRP)
+- **[Atomas: Hierarchical Alignment on Molecule-Text for Unified Molecule Understanding and Generation](https://arxiv.org/pdf/2404.16880.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/yikunpku/Atomas?color=yellow&style=social)](https://github.com/yikunpku/Atomas)
+- **[ReactXT: Understanding Molecular"Reaction-ship"via Reaction-Contextualized Molecule-Text Pretraining](https://arxiv.org/pdf/2405.14225)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/syr-cn/ReactXT?color=yellow&style=social)](https://github.com/syr-cn/ReactXT)
+- **[ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation](https://aclanthology.org/2024.langmol-1.3/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery?color=yellow&style=social)](https://github.com/REAL-Lab-NUgithub.com/REAL-Lab-NU/Awesome-LLM-Centric-Molecular-Discovery)
+- **[LDMol: Text-Conditioned Molecule Diffusion Model Leveraging Chemically Informative Latent Space](https://arxiv.org/pdf/2405.17829)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/jinhojsk515/LDMol?color=yellow&style=social)](https://github.com/jinhojsk515/LDMol)
+- **[DrugLLM: Open Large Language Model for Few-shot Molecule Generation](https://arxiv.org/pdf/2405.06690)** - Modality: `Text + Molecule` |   
+- **[(HI-Mol) Data-Efficient Molecular Generation with Hierarchical Textual Inversion](https://arxiv.org/abs/2405.02845)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Seojin-Kim/HI-Mol?color=yellow&style=social)](https://github.com/Seojin-Kim/HI-Mol)
+- **[(MV-Mol) Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge](https://arxiv.org/pdf/2406.09841)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1cd1EZTuyNOCLRt2Vr0JgXh3kWm9f2qwU) [![Stars](https://img.shields.io/github/stars/icycookies/MV-Mol?color=yellow&style=social)](https://github.com/icycookies/MV-Mol)
+- **[DRAK: Unlocking Molecular Insights with Domain-Specific Retrieval-Augmented Knowledge in LLMs](https://arxiv.org/pdf/2406.18535)** - Modality: `Text + Molecule` |   
+- **[HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment](https://arxiv.org/pdf/2406.14021)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/LFhase/HIGHT?color=yellow&style=social)](https://github.com/LFhase/HIGHT)
+- **[PRESTO: Progressive Pretraining Enhances Synthetic Chemistry Outcomes](https://arxiv.org/pdf/2406.13193v1)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/IDEA-XL/PRESTO?color=yellow&style=social)](https://github.com/IDEA-XL/PRESTO)
+- **[3D-MolT5: Towards Unified 3D Molecule-Text Modeling with 3D Molecular Tokenization](https://arxiv.org/pdf/2406.05797)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/QizhiPei/3D-MolT5?color=yellow&style=social)](https://github.com/QizhiPei/3D-MolT5)
+- **[MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction](https://arxiv.org/pdf/2406.12950)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/YuyanLiu/MolecularGPT) [![Stars](https://img.shields.io/github/stars/NYUSHCS/MolecularGPT?color=yellow&style=social)](https://github.com/NYUSHCS/MolecularGPT)
+- **[MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension](https://arxiv.org/pdf/2406.06777)** - Modality: `Text + Molecule` |   
+- **[(AMOLE) Vision Language Model is NOT All You Need: Augmentation Strategies for Molecule Language Models](https://arxiv.org/pdf/2407.09043)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Namkyeong/AMOLE?color=yellow&style=social)](https://github.com/Namkyeong/AMOLE)
+- **[(Chemma-RC) Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation](https://arxiv.org/abs/2407.15141)** - Modality: `Text + Molecule` |   
+- **[(SMILES-probing) Chemical Language Models Have Problems with Chemistry: A Case Study on Molecule Captioning Task](https://openreview.net/pdf?id=JoO6mtCLHD)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/ChemistryLLMs/SMILES-probing?color=yellow&style=social)](https://github.com/ChemistryLLMs/SMILES-probing)
+- **[UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation](https://arxiv.org/pdf/2408.00863)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Uni-MoT/uni-mot.github.io?color=yellow&style=social)](https://github.com/Uni-MoT/uni-mot.github.io)
+- **[(UTGDiff) Instruction-Based Molecular Graph Generation with Unified Text-Graph Diffusion Model](https://arxiv.org/abs/2408.09896)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/18EqQ7MDHesmtiMiZz2o09PyeSwyf0hXb) [![Stars](https://img.shields.io/github/stars/ran1812/UTGDiff?color=yellow&style=social)](https://github.com/ran1812/UTGDiff)
+- **[Mol2Lang-VLM: Vision- and Text-Guided Generative Pre-trained Language Models for Advancing Molecule Captioning through Multimodal Fusion](https://aclanthology.org/2024.langmol-1.12/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/nhattruongpham/mol-lang-bridge?color=yellow&style=social)](https://github.com/nhattruongpham/mol-lang-bridge/tree/mol2lang/)
+- **[Lang2Mol-Diff: A Diffusion-Based Generative Model for Language-to-Molecule Translation Leveraging SELFIES Representation](https://aclanthology.org/2024.langmol-1.15/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/nhattruongpham/mol-lang-bridge?color=yellow&style=social)](https://github.com/nhattruongpham/mol-lang-bridge/tree/lang2mol/)
+- **[(Self-Augmentation) Enhancing Cross Text-Molecule Learning by Self-Augmentation](https://aclanthology.org/2024.findings-acl.569/)** - Modality: `Text + Molecule` |   
+- **[MTSwitch: A Web-based System for Translation between Molecules and Texts](https://aclanthology.org/2024.inlg-demos.2.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/hanninaa/MTSwitch?color=yellow&style=social)](https://github.com/hanninaa/MTSwitch)
+- **[SmileyLlama: Modifying Large Language Models for Directed Chemical Space Exploration](https://arxiv.org/abs/2409.02231)** - Modality: `Text + Molecule` |   
+- **[(MoleculeSTM) Geometry-text Multi-modal Foundation Model for Reactivity-oriented Molecule Editing](https://openreview.net/forum?id=A9FlQMKxJ4)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/chao1224/MoleculeSTM/tree/main) [![Stars](https://img.shields.io/github/stars/chao1224/MoleculeSTM?color=yellow&style=social)](https://github.com/chao1224/MoleculeSTM)
+- **[(MSR) Structural Reasoning Improves Molecular Understanding of LLM](https://arxiv.org/abs/2410.05610)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/yunhuijang/MSR?color=yellow&style=social)](https://github.com/yunhuijang/MSR)
+- **[(TransDLM) Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model](https://arxiv.org/abs/2410.13597)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Cello2195/TransDLM?color=yellow&style=social)](https://github.com/Cello2195/TransDLM)
+- **[Can LLMs Generate Diverse Molecules? Towards Alignment with Structural Diversity](https://arxiv.org/abs/2410.03138)** - Modality: `Text + Molecule` |   
+- **[(ChemLML) Chemical Language Model Linker: blending text and molecules with modular adapters](https://arxiv.org/pdf/2410.20182)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://doi.org/10.5281/zenodo.11661517) [![Stars](https://img.shields.io/github/stars/gitter-lab/ChemLML?color=yellow&style=social)](https://github.com/gitter-lab/ChemLML)
+- **[(Chemlactica) Small Molecule Optimization with Large Language Models](https://openreview.net/forum?id=nJCYKdRZXb)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/yerevann/chemlactica?color=yellow&style=social)](https://github.com/yerevann/chemlactica)
+- **[Question Rephrasing for Quantifying Uncertainty in Large Language Models: Applications in Molecular Chemistry Tasks](https://neurips.cc/media/neurips-2024/Slides/105558.pdf)** - Modality: `Text + Molecule` |   
+- **[(LLaMo) Large Language Model-based Molecular Graph Assistant](https://proceedings.neurips.cc/paper_files/paper/2024/file/ee46288ab2aaf5c6e53aebebe719712c-Paper-Conference.pdf)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/mlvlab/LLaMo?color=yellow&style=social)](https://github.com/mlvlab/LLaMo)
+- **[(MolPuzzle) Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f2b9e8e7a36d43ddfd3d55113d56b1e0-Abstract-Datasets_and_Benchmarks_Track.html)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/KehanGuo2/MolPuzzle?color=yellow&style=social)](https://github.com/KehanGuo2/MolPuzzle)
+- **[(M³LLM) Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs](https://arxiv.org/abs/2411.04708)** - Modality: `Text + Molecule` |   
+- **[MolReFlect: Towards In-Context Fine-grained Alignments between Molecules and Texts](https://arxiv.org/abs/2411.14721)** - Modality: `Text + Molecule` |   
+- **[(AMORE) Lost in Translation: Chemical Language Models and the Misunderstanding of Molecule Structures](https://aclanthology.org/2024.findings-emnlp.760/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/ChemistryLLMs/AMORE?color=yellow&style=social)](https://github.com/ChemistryLLMs/AMORE)
+- **[GeomCLIP: Contrastive Geometry-Text Pre-training for Molecules](https://ieeexplore.ieee.org/abstract/document/10822346)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/xiaocui3737/GeomCLIP?color=yellow&style=social)](https://github.com/xiaocui3737/GeomCLIP)
+- **[(CMTMR) Towards Cross-Modal Text-Molecule Retrieval with Better Modality Alignment](https://ieeexplore.ieee.org/abstract/document/10821722)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/XMUDeepLIT/CMTMR?color=yellow&style=social)](https://github.com/XMUDeepLIT/CMTMR)
+- **[(ORMA) Exploring Optimal Transport-Based Multi-Grained Alignments for Text-Molecule Retrieval](https://ieeexplore.ieee.org/abstract/document/10822800)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/XMUDeepLIT/Orma?color=yellow&style=social)](https://github.com/XMUDeepLIT/Orma)
+- **[PEIT: Property Enhanced Instruction Tuning for Multi-task Molecular Generation with LLMs](https://arxiv.org/abs/2412.18084)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ccsalong/PEIT-LLM-LLaMa3.1-8B/tree/main) [![Stars](https://img.shields.io/github/stars/chenlong164/PEIT?color=yellow&style=social)](https://github.com/chenlong164/PEIT)
+- **[(HME) Navigating Chemical-Linguistic Sharing Space with Heterogeneous Molecular Encoding](https://arxiv.org/abs/2412.20888)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Lyu6PosHao/HME?color=yellow&style=social)](https://github.com/Lyu6PosHao/HME)
+- **[(Llamole) Multimodal Large Language3D-MOLT5 Models for Inverse Molecular Design with Retrosynthetic Planning](https://openreview.net/forum?id=rQ7fz9NO7f)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/liuganghuggingface/llamole-collection) [![Stars](https://img.shields.io/github/stars/liugangcode/Llamole?color=yellow&style=social)](https://github.com/liugangcode/Llamole)
+- **[RetroInText: A Multimodal Large Language Model Enhanced Framework for Retrosynthetic Planning via In-Context Representation Learning](https://openreview.net/forum?id=J6e4hurEKd)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Kin-CL/RetroInText?color=yellow&style=social)](https://github.com/Kin-CL/RetroInText)
+- **[OCSU: Optical Chemical Structure Understanding for Molecule-centric Scientific Discovery](https://arxiv.org/abs/2501.15415)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/Mol-VL-7B) [![Stars](https://img.shields.io/github/stars/PharMolix/OCSU?color=yellow&style=social)](https://github.com/PharMolix/OCSU)
+- **[Omni-Mol: Multitask Molecular Model for Any-to-any Modalities](https://arxiv.org/abs/2502.01074)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/datasets/CodeMagic/Omni-Mol-Dataset) [![Stars](https://img.shields.io/github/stars/1789336421/Omni-Mol?color=yellow&style=social)](https://github.com/1789336421/Omni-Mol)
+- **[Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization](https://arxiv.org/abs/2502.02810)** - Modality: `Text + Molecule` |   
+- **[(SLM4Mol) A Quantitative Analysis of Knowledge-Learning Preferences in Large Language Models in Molecular Science](https://www.nature.com/articles/s42256-024-00977-6)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/AI-HPC-Research-Team/SLM4Mol?color=yellow&style=social)](https://github.com/AI-HPC-Research-Team/SLM4Mol)
+- **[CLASS: Enhancing Cross-Modal Text-Molecule Retrieval Performance and Training Efficiency](https://arxiv.org/abs/2502.11633)** - Modality: `Text + Molecule` |   
+- **[Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model](https://arxiv.org/abs/2502.13449)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/DongkiKim/Mol-Llama-2-7b-chat) [![Stars](https://img.shields.io/github/stars/DongkiKim95/Mol-LLaMA?color=yellow&style=social)](https://github.com/DongkiKim95/Mol-LLaMA)
+- **[ChatMol: A Versatile Molecule Designer Based on the Numerically Enhanced Large Language Model](https://arxiv.org/abs/2502.19794)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/ChatMol/ChatMol?color=yellow&style=social)](https://github.com/ChatMol/ChatMol)
+- **[MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Model](https://aclanthology.org/2025.findings-emnlp.1174/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/sumin124/mv-clam?color=yellow&style=social)](https://github.com/sumin124/mv-clam)
+- **[GraphT5: Unified Molecular Graph-Language Modeling via Multi-Modal Cross-Token Attention](https://arxiv.org/pdf/2503.07655)** - Modality: `Text + Molecule` |   
+- **[XMolCap: Advancing Molecular Captioning through Multimodal Fusion and Explainable Graph Neural Networks](https://ieeexplore.ieee.org/abstract/document/11012653)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/cbbl-skku-org/XMolCap?color=yellow&style=social)](https://github.com/cbbl-skku-org/XMolCap)
+- **[(ChatChemTS) Large language models open new way of AI-assisted molecule design for chemists](https://ieeexplore.ieee.org/abstract/document/11012653)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/molecule-generator-collection/ChatChemTS?color=yellow&style=social)](https://github.com/molecule-generator-collection/ChatChemTS)
+- **[(LLM-MPP) Effective and Explainable Molecular Property Prediction by Chain-of-Thought Enabled Large Language Models and Multi-Modal Molecular Information Fusion](https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c00577)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/jinchang1223/LLM-MPP?color=yellow&style=social)](https://github.com/jinchang1223/LLM-MPP)
+- **[Graph2Token: Make LLMs Understand Molecule Graphs](https://doi.org/10.1609/aaai.v39i20.35422)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/ZeLeBron/Graph2Token?color=yellow&style=social)](https://github.com/ZeLeBron/Graph2Token)
+- **[ExDDI: Explaining Drug-Drug Interaction Predictions with Natural Language](https://ojs.aaai.org/index.php/AAAI/article/view/34709)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/ZhaoyueSun/ExDDI?color=yellow&style=social)](https://github.com/ZhaoyueSun/ExDDI)
+- **[ChemVLM: Exploring the Power of Multimodal Large Language Models in Chemistry Area](https://ojs.aaai.org/index.php/AAAI/article/view/32020)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/AI4Chem/ChemVLM-26B-1-2) [![Stars](https://img.shields.io/github/stars/lijunxian111/ChemVlm?color=yellow&style=social)](https://github.com/lijunxian111/ChemVlm)
+- **[ChemDual: Enhancing Chemical Reaction and Retrosynthesis Prediction with Large Language Model and Dual-task Learning](https://arxiv.org/abs/2505.02639)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/JacklinGroup/ChemDual?color=yellow&style=social)](https://github.com/JacklinGroup/ChemDual)
+- **[GeLLM³O: Generalizing Large Language Models for Multi-property Molecule Optimization](https://aclanthology.org/anthology-files/anthology-files/pdf/acl/2025.acl-long.1225.pdf)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/NingLab/GeLLMO-P6-Mistral) [![Stars](https://img.shields.io/github/stars/ninglab/GeLLMO?color=yellow&style=social)](https://github.com/ninglab/GeLLMO)
+- **[Less for More: Enhanced Feedback-aligned Mixed LLMs for Molecule Caption Generation and Fine-Grained NLI Evaluation](https://aclanthology.org/2025.acl-long.144/)** - Modality: `Text + Molecule` |   
+- **[(GeLLMO-C) Large Language Models for Controllable Multi-property Multi-objective Molecule Optimization](https://aclanthology.org/2025.findings-emnlp.1145/)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/NingLab/controllable-gellmo) [![Stars](https://img.shields.io/github/stars/ninglab/GeLLMO-C?color=yellow&style=social)](https://github.com/ninglab/GeLLMO-C)
+- **[ReactGPT: Understanding of Chemical Reactions via In-Context Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/31983)** - Modality: `Text + Molecule` |   
+- **[nach0-pc: Multi-task Language Model with Molecular Point Cloud Encoder](https://doi.org/10.1609/aaai.v39i23.34613)** - Modality: `Text + Molecule` |   
+- **[mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model](https://arxiv.org/abs/2505.12565)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/language-plus-molecules/mclm) 
+- **[ChemMLLM: Chemical Multimodal Large Language Model](https://arxiv.org/abs/2505.16326)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/bbsbz/ChemMLLM?color=yellow&style=social)](https://github.com/bbsbz/ChemMLLM)
+- **[(CLEANMOL) Improving Chemical Understanding of LLMs via SMILES Parsing](https://arxiv.org/abs/2505.16340)** - Modality: `Text + Molecule` |   
+- **[ModuLM: Enabling Modular and Multimodal Molecular Relational Learning with Large Language Models](https://arxiv.org/html/2506.00880v1)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://anonymous.4open.science/r/ModuLM/README.md) 
+- **[(ToDi) TextOmics-Guided Diffusion for Hit-like Molecular Generation](https://arxiv.org/abs/2507.09982)** - Modality: `Text + Molecule` |   
+- **[ChemDFM-R: An Chemical Reasoner LLM Enhanced with Atomized Chemical Knowledge](https://arxiv.org/pdf/2507.21990v2)** - Modality: `Text + Molecule` |   
+- **[Dual Learning Between Molecules and Natural Language](https://link.springer.com/chapter/10.1007/978-981-96-8173-0_31)** - Modality: `Text + Molecule` |   
+- **[CROP: Integrating Topological and Spatial Structures via Cross-View Prefixes for Molecular LLMs](https://arxiv.org/pdf/2508.06917)** - Modality: `Text + Molecule` |   
+- **[Mol-R1: Towards Explicit Long-CoT Reasoning in Molecule Discovery](https://arxiv.org/abs/2508.08401)** - Modality: `Text + Molecule` |   
+- **[AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models](https://arxiv.org/abs/2508.04748)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/szu-tera/AttriLens-Mol?color=yellow&style=social)](https://github.com/szu-tera/AttriLens-Mol)
+- **[MolPrompt: improving multi-modal molecular pre-training with knowledge prompts](https://academic.oup.com/bioinformatics/article/41/9/btaf466/8240326?login=false)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/catly/MolPrompt?color=yellow&style=social)](https://github.com/catly/MolPrompt)
+- **[(CAMT5) Training Text-to-Molecule Models with Context-Aware Tokenization](https://aclanthology.org/2025.findings-emnlp.1221/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Songhyeontae/CAMT5?color=yellow&style=social)](https://github.com/Songhyeontae/CAMT5)
+- **[Enhancing Molecular Property Prediction with Knowledge from Large Language Models](https://arxiv.org/abs/2509.20664)** - Modality: `Text + Molecule` |   
+- **[(MolFinePrompt) Fine-grained multimodal molecular pretraining via prompt learning](https://doi.org/10.1016/j.knosys.2025.114381)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/yzf-code/KnowMol?color=yellow&style=social)](https://github.com/catly/MolFinePrompt)
+- **[(MPPReasoner) Reasoning-Enhanced Large Language Models for Molecular Property Prediction](https://arxiv.org/abs/2510.10248)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://anonymous.4open.science/r/MPPReasoner-12687/README.md) [![Stars](https://img.shields.io/github/stars/Jesse-zjx/MPPReasoner?color=yellow&style=social)](https://github.com/Jesse-zjx/MPPReasoner)
+- **[(MECo) Coder as Editor: Code-Driven Interpretable Molecule Optimization](https://arxiv.org/pdf/2510.14455)** - Modality: `Text + Molecule` |   
+- **[Chem-R: Learning to Reason as a Chemist](https://arxiv.org/abs/2510.16880)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/davidweidawang/Chem-R?color=yellow&style=social)](https://github.com/davidweidawang/Chem-R)
+- **[KnowMol: Advancing Molecular Large Language Models with Multi-Level Chemical Knowledge](https://arxiv.org/abs/2510.19484)** - Modality: `Text + Molecule` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://hf.co/datasets/yzf1102/KnowMol-100K) [![Stars](https://img.shields.io/github/stars/yzf-code/KnowMol?color=yellow&style=social)](https://github.com/yzf-code/KnowMol)
+- **[(Mol-LLM) Incorporating Molecular Knowledge in Large Language Models via Multimodal Modeling](https://ieeexplore.ieee.org/abstract/document/10838383)** - Modality: `Text + Molecule` |   
+- **[DeepMolTex: Deep Alignment of Molecular Graphs with Large Language Models via Mixture of Modality Experts](https://dl.acm.org/doi/abs/10.1145/3746027.3755875)** - Modality: `Text + Molecule` |   
+- **[Mol-L2: Transferring text knowledge with frozen language models for molecular representation learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231225015097)** - Modality: `Text + Molecule` |   
+- **[(MolRAG) Unlocking the Power of LLMs for Molecular Property Prediction](https://aclanthology.org/2025.acl-long.755/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/AcaciaSin/MolRAG?color=yellow&style=social)](https://github.com/AcaciaSin/MolRAG)
+- **[Boosting LLM's Molecular Structure Elucidation with Knowledge Enhanced Tree Search Reasoning](https://aclanthology.org/2025.acl-long.1100/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/K-MSE?color=yellow&style=social)](https://github.com/HICAI-ZJU/K-MSE)
+- **[(MolBridge) Bridging the Gap Between Molecule and Textual Descriptions via Substructure-aware Alignment](https://aclanthology.org/2025.emnlp-main.1197/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Park-ing-lot/MolBridge?color=yellow&style=social)](https://github.com/Park-ing-lot/MolBridge)
+- **[GAMIC: Graph-Aligned Molecular In-context Learning for Molecule Analysis via LLMs](https://aclanthology.org/2025.findings-emnlp.996/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/aliwister/mol-icl?color=yellow&style=social)](https://github.com/aliwister/mol-icl)
+- **[How to Make Large Language Models Generate 100% Valid Molecules?](https://aclanthology.org/2025.emnlp-main.1350/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/wentao228/SmiSelf?color=yellow&style=social)](https://github.com/wentao228/SmiSelf)
+- **[Molecular String Representation Preferences in Pretrained LLMs: A Comparative Study in Zero- & Few-Shot Molecular Property Prediction](https://aclanthology.org/2025.emnlp-main.56/)** - Modality: `Text + Molecule` |   [![Stars](https://img.shields.io/github/stars/Spongeorge/llm-mpp?color=yellow&style=social)](https://github.com/Spongeorge/llm-mpp)
+- **[OntoProtein: Protein Pretraining With Gene Ontology Embedding](https://openreview.net/pdf?id=yfe1VMYAXa4)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zjunlp/OntoProtein) [![Stars](https://img.shields.io/github/stars/zjunlp/OntoProtein?color=yellow&style=social)](https://github.com/zjunlp/OntoProtein)
+- **[ProTranslator: Zero-Shot Protein Function Prediction Using Textual Description](https://arxiv.org/abs/2204.10286)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/HanwenXuTHU/ProTranslator?color=yellow&style=social)](https://github.com/HanwenXuTHU/ProTranslator)
+- **[ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts](https://proceedings.mlr.press/v202/xu23t/xu23t.pdf)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/DeepGraphLearning/ProtST?color=yellow&style=social)](https://github.com/DeepGraphLearning/ProtST)
+- **[(ProGen) Large language models generate functional protein sequences across diverse families](https://www.nature.com/articles/s41587-022-01618-2)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/salesforce/progen?color=yellow&style=social)](https://github.com/salesforce/progen)
+- **[(ProteinDT) A Text-guided Protein Design Framework](https://arxiv.org/pdf/2302.04611.pdf)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/chao1224/ProteinDT?color=yellow&style=social)](https://github.com/chao1224/ProteinDT)
+- **[ProteinChat: Towards Achieving ChatGPT-Like Functionalities on Protein 3D Structures](https://www.techrxiv.org/doi/full/10.36227/techrxiv.23120606.v1)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/UCSD-AI4H/proteinchat?color=yellow&style=social)](https://github.com/UCSD-AI4H/proteinchat)
+- **[(ProteinChat v2) Multi-Modal Large Language Model Enables Protein Function Prediction](https://www.biorxiv.org/content/10.1101/2024.08.19.608729v1.abstract)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/file/d/1H-POt4e5Q5fYF59ZwfSdAJyuQiJ2rtJl/view) [![Stars](https://img.shields.io/github/stars/mignonjia/ProteinChat?color=yellow&style=social)](https://github.com/mignonjia/ProteinChat)
+- **[Prot2Text: Multimodal Protein's Function Generation with GNNs and Transformers](https://arxiv.org/pdf/2307.14367.pdf)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/hadi-abdine/Prot2Text?color=yellow&style=social)](https://github.com/hadi-abdine/Prot2Text)
+- **[ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://arxiv.org/pdf/2402.04268.pdf)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/lamm-mit/ProtAgents?color=yellow&style=social)](https://github.com/lamm-mit/ProtAgents)
+- **[ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing](https://ieeexplore.ieee.org/abstract/document/10979347)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/GreatCaptainNemo/ProLLaMA) [![Stars](https://img.shields.io/github/stars/Lyu6PosHao/ProLLaMA?color=yellow&style=social)](https://github.com/Lyu6PosHao/ProLLaMA)
+- **[ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training](https://arxiv.org/pdf/2403.07920.pdf)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/datasets/ProtLLM/ProtLLM) [![Stars](https://img.shields.io/github/stars/ProtLLM/ProtLLM?color=yellow&style=social)](https://github.com/ProtLLM/ProtLLM)
+- **[ProtT3: Protein-to-Text Generation for Text-based Protein Understanding](https://arxiv.org/pdf/2405.12564)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://osf.io/23azs/overview?view_only=185575515e714f4798499bf06513a730) [![Stars](https://img.shields.io/github/stars/acharkq/ProtT3?color=yellow&style=social)](https://github.com/acharkq/ProtT3)
+- **[ProteinCLIP: enhancing protein language models with natural language](https://www.biorxiv.org/content/10.1101/2024.05.14.594226v1.full.pdf)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/wukevin/proteinclip?color=yellow&style=social)](https://github.com/wukevin/proteinclip)
+- **[ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction](https://arxiv.org/pdf/2405.06649)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/MingyuJ666/ProLLM?color=yellow&style=social)](https://github.com/MingyuJ666/ProLLM)
+- **[(PAAG) Annotation-guided Protein Design with Multi-Level Domain Alignment](https://arxiv.org/pdf/2404.16866)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ychaohao/PAAG) [![Stars](https://img.shields.io/github/stars/chaohaoyuan/PAAG?color=yellow&style=social)](https://github.com/chaohaoyuan/PAAG)
+- **[(Pinal) Toward De Novo Protein Design from Natural Language](https://www.biorxiv.org/content/10.1101/2024.08.01.606258v1.full.pdf)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/Pinal) [![Stars](https://img.shields.io/github/stars/westlake-repl/Denovo-Pinal?color=yellow&style=social)](https://github.com/westlake-repl/Denovo-Pinal)
+- **[TourSynbio: A Multi-Modal Large Model and Agent Framework to Bridge Text and Protein Sequences for Protein Engineering](https://www.arxiv.org/pdf/2408.15299)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/tsynbio/Toursynbio) [![Stars](https://img.shields.io/github/stars/tsynbio/TourSynbio?color=yellow&style=social)](https://github.com/tsynbio/TourSynbio)
+- **[(SEPIT) Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding with LLMs](https://arxiv.org/abs/2410.03553)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/U-rara/SEPIT) [![Stars](https://img.shields.io/github/stars/U-rara/SEPIT?color=yellow&style=social)](https://github.com/U-rara/SEPIT)
+- **[(BioM3) Natural Language Prompts Guide the Design of Novel Functional Protein Sequences](https://openreview.net/forum?id=L1MyyRCAjX)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/niksapraljak1/BioM3) [![Stars](https://img.shields.io/github/stars/PraljakReps/BioM3?color=yellow&style=social)](https://github.com/PraljakReps/BioM3)
+- **[(LLM4ProteinEvolution) Language Models for Text-guided Protein Evolution](https://openreview.net/forum?id=CNla8z0V2p)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/ZhanghanNi/LLM4ProteinEvolution?color=yellow&style=social)](https://github.com/ZhanghanNi/LLM4ProteinEvolution)
+- **[MMSite: A Multi-modal Framework for the Identification of Active Sites in Proteins](https://neurips.cc/virtual/2024/poster/94780)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/14599105) [![Stars](https://img.shields.io/github/stars/Gift-OYS/MMSite?color=yellow&style=social)](https://github.com/Gift-OYS/MMSite)
+- **[MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering](https://neurips.cc/virtual/2024/poster/92987)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/PharMolix/MutaPLM) [![Stars](https://img.shields.io/github/stars/PharMolix/MutaPLM?color=yellow&style=social)](https://github.com/PharMolix/MutaPLM)
+- **[ProtDAT: A Unified Framework for Protein Sequence Design from Any Protein Text Description](https://arxiv.org/abs/2412.04069)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/14264096) [![Stars](https://img.shields.io/github/stars/GXY0116/ProtDAT?color=yellow&style=social)](https://github.com/GXY0116/ProtDAT)
+- **[EvoLlama: Enhancing LLMs' Understanding of Proteins via Multimodal Structure and Sequence Representations](https://arxiv.org/pdf/2412.11618)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/nwliu/EvoLlama) [![Stars](https://img.shields.io/github/stars/sornkL/EvoLlama?color=yellow&style=social)](https://github.com/sornkL/EvoLlama)
+- **[FAPM: functional annotation of proteins using multimodal models beyond structural modeling](https://academic.oup.com/bioinformatics/article/40/12/btae680/7900294)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/wenkai/FAPM/tree/main/model) [![Stars](https://img.shields.io/github/stars/xiangwenkai/FAPM?color=yellow&style=social)](https://github.com/xiangwenkai/FAPM)
+- **[ProCyon: A multimodel foundation model for protein phenotypes](https://www.biorxiv.org/content/10.1101/2024.12.10.627665v1)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/mims-harvard/ProCyon-Full) [![Stars](https://img.shields.io/github/stars/mims-harvard/ProCyon?color=yellow&style=social)](https://github.com/mims-harvard/ProCyon)
+- **[(Evolla) Decoding the Molecular Language of Proteins with Evolla](https://www.biorxiv.org/content/10.1101/2025.01.05.630192v1)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/Evolla-10B) [![Stars](https://img.shields.io/github/stars/westlake-repl/Evolla?color=yellow&style=social)](https://github.com/westlake-repl/Evolla)
+- **[ProteinGPT: Multimodal LLM for Protein Property Prediction and Structure Understanding](https://openreview.net/pdf?id=qWlqfjGVWX)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/OviaLabs/ProteinGPT?color=yellow&style=social)](https://github.com/OviaLabs/ProteinGPT)
+- **[(MP4) A generalized protein design ML model enables generation of functional de novo proteins](https://openreview.net/forum?id=H7KaafflRG)** - Modality: `Text + Protein` |   
+- **[Protclip: Function-informed protein multi-modal learning](https://ojs.aaai.org/index.php/AAAI/article/view/34456)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://zenodo.org/records/15245588) [![Stars](https://img.shields.io/github/stars/diaoshaoyou/ProtCLIP?color=yellow&style=social)](https://github.com/diaoshaoyou/ProtCLIP)
+- **[(CtrlProt) Controllable Protein Sequence Generation with LLM Preference Optimization Authors](https://ojs.aaai.org/index.php/AAAI/article/view/32030)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/nju-websoft/CtrlProt?color=yellow&style=social)](https://github.com/nju-websoft/CtrlProt)
+- **[Protein2Text: Resampling Mechanism to Translate Protein Sequences into Human-Interpretable Text](https://aclanthology.org/2025.naacl-industry.68/)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/tumorailab/protein2text-llama3.1-8B-instruct-esm2-650M) [![Stars](https://img.shields.io/github/stars/alaaj27/Protein2Text?color=yellow&style=social)](https://github.com/alaaj27/Protein2Text)
+- **[(RAPM): Rethinking Text-based Protein Understanding: Retrieval or LLM?](https://aclanthology.org/2025.emnlp-main.1211/)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/IDEA-XL/RAPM?color=yellow&style=social)](https://github.com/IDEA-XL/RAPM)
+- **[Prot2Text-V2: Protein Function Prediction with Multimodal Contrastive Alignment](https://arxiv.org/abs/2505.11194)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/xiao-fei/Prot2Text-V2-11B-Instruct-hf) [![Stars](https://img.shields.io/github/stars/colinfx/prot2text-v2?color=yellow&style=social)](https://github.com/colinfx/prot2text-v2)
+- **[(ProDVa) Protein Design with Dynamic Protein Vocabulary](https://arxiv.org/abs/2505.18966)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/nwliu/prodva) [![Stars](https://img.shields.io/github/stars/sornkL/ProDVa?color=yellow&style=social)](https://github.com/sornkL/ProDVa)
+- **[ProteinAligner: A Tri-Modal Contrastive Learning Framework for Protein Representation Learning](https://openreview.net/forum?id=LjlJBnmZ0M)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/Alexiland/ProteinAligner?color=yellow&style=social)](https://github.com/Alexiland/ProteinAligner)
+- **[Prottex: Structure-in-context reasoning and editing of proteins with large language models](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.5c00585)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/mzcwd/ProtTeX) [![Stars](https://img.shields.io/github/stars/mzc2113391/ProtTeX?color=yellow&style=social)](https://github.com/mzc2113391/ProtTeX)
+- **[Prot2Chat: protein large language model with early fusion of text, sequence, and structure](https://academic.oup.com/bioinformatics/article/41/8/btaf396/8215464)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zcw51699/prot2chat/tree/main/zcw51699/prot2chat) [![Stars](https://img.shields.io/github/stars/wangzc1233/Prot2Chat?color=yellow&style=social)](https://github.com/wangzc1233/Prot2Chat)
+- **[ProTrek: Navigating the Protein Universe through Tri-Modal Contrastive Learning](https://www.nature.com/articles/s41587-025-02836-0)** - Modality: `Text + Protein` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/westlake-repl/ProTrek_650M_UniRef50) [![Stars](https://img.shields.io/github/stars/westlake-repl/ProTrek?color=yellow&style=social)](https://github.com/westlake-repl/ProTrek)
+- **[Protein as a Section Language for LLMs](https://arxiv.org/pdf/2510.11188)** - Modality: `Text + Protein` |   
+- **[Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization](https://aclanthology.org/2025.acl-long.616/)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/KPO?color=yellow&style=social)](https://github.com/HICAI-ZJU/KPO)
+- **[(LLaPA) Large Language and Protein Assistant for Protein-Protein Interactions Prediction](https://aclanthology.org/2025.acl-long.554/)** - Modality: `Text + Protein` |   [![Stars](https://img.shields.io/github/stars/HHW-zhou/LLAPA?color=yellow&style=social)](https://github.com/HHW-zhou/LLAPA)
+- **[Caduceus: MoE-enhanced Foundation Models Unifying Biological and Natural Language](https://openreview.net/forum?id=NNRQW01Xuh)** - Modality: `Text + Protein` |   
+- **[Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/models?other=galactica) [![Stars](https://img.shields.io/github/stars/paperswithcode/galai?color=yellow&style=social)](https://github.com/paperswithcode/galai)
+- **[BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations](https://aclanthology.org/2023.emnlp-main.70.pdf)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/QizhiPei/biot5-base) [![Stars](https://img.shields.io/github/stars/QizhiPei/BioT5?color=yellow&style=social)](https://github.com/QizhiPei/BioT5)
+- **[DARWIN Series: Domain Specific Large Language Models for Natural Science](https://arxiv.org/pdf/2308.13565.pdf)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/MasterAI-EAM/Darwin) [![Stars](https://img.shields.io/github/stars/MasterAI-EAM/Darwin?color=yellow&style=social)](https://github.com/MasterAI-EAM/Darwin)
+- **[BioMedGPT: Open Multimodal Generative Pre-trained Transformer for BioMedicine](https://arxiv.org/pdf/2308.09442.pdf)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://pan.baidu.com/share/init?surl=iAMBkuoZnNAylhopP5OgEg\&pwd=7a6b) [![Stars](https://img.shields.io/github/stars/PharMolix/OpenBioMed?color=yellow&style=social)](https://github.com/PharMolix/OpenBioMed)
+- **[(StructChem) Structured Chemistry Reasoning with Large Language Models](https://arxiv.org/pdf/2311.09656.pdf)** - Modality: `Text + BioMulti` |   [![Stars](https://img.shields.io/github/stars/ozyyshr/StructChem?color=yellow&style=social)](https://github.com/ozyyshr/StructChem?tab=readme-ov-file)
+- **[(BioTranslator) Multilingual translation for zero-shot biomedical classification using BioTranslator](https://www.nature.com/articles/s41467-023-36476-2.pdf)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://figshare.com/articles/dataset/Protein_Pathway_data_tar/20120447) [![Stars](https://img.shields.io/github/stars/HanwenXuTHU/BioTranslatorProject?color=yellow&style=social)](https://github.com/HanwenXuTHU/BioTranslatorProject)
+- **[Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models](https://openreview.net/pdf?id=Tlsdsb6l9n)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zjunlp) [![Stars](https://img.shields.io/github/stars/zjunlp/Mol-Instructions?color=yellow&style=social)](https://github.com/zjunlp/Mol-Instructions)
+- **[(ChatDrug) ChatGPT-powered Conversational Drug Editing Using Retrieval and Domain Feedback](https://openreview.net/pdf?id=yRrPfKyJQ2)** - Modality: `Text + BioMulti` |   [![Stars](https://img.shields.io/github/stars/chao1224/ChatDrug?color=yellow&style=social)](https://github.com/chao1224/ChatDrug)
+- **[BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs](https://openreview.net/pdf?id=jJCeMiwHdH)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/RyanWangZf/BioBridge/tree/main/checkpoints) [![Stars](https://img.shields.io/github/stars/RyanWangZf/BioBridge?color=yellow&style=social)](https://github.com/RyanWangZf/BioBridge)
+- **[(KEDD) Towards Unified AI Drug Discovery with Multiple Knowledge Modalities](https://arxiv.org/pdf/2305.01523.pdf)** - Modality: `Text + BioMulti` |   
+- **[（Otter Knowledge) Knowledge Enhanced Representation Learning for Drug Discovery](https://ojs.aaai.org/index.php/AAAI/article/view/28924)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/ibm) [![Stars](https://img.shields.io/github/stars/IBM/otter-knowledge?color=yellow&style=social)](https://github.com/IBM/otter-knowledge)
+- **[ChatCell: Facilitating Single-Cell Analysis with Natural Language](https://arxiv.org/pdf/2402.08303v2.pdf)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/zjunlp) [![Stars](https://img.shields.io/github/stars/zjunlp/ChatCell?color=yellow&style=social)](https://github.com/zjunlp/ChatCell)
+- **[LangCell: Language-Cell Pre-training for Cell Identity Understanding](https://arxiv.org/pdf/2405.06708v2)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://drive.google.com/drive/folders/1cuhVG9v0YoAnjW-t_WMpQQguajumCBTp) [![Stars](https://img.shields.io/github/stars/PharMolix/LangCell?color=yellow&style=social)](https://github.com/PharMolix/LangCell)
+- **[BioT5+: Towards Generalized Biological Understanding with IUPAC Integration and Multi-task Tuning](https://arxiv.org/pdf/2402.17810.pdf)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://github.com/QizhiPei/BioT5) [![Stars](https://img.shields.io/github/stars/QizhiPei/BioT5?color=yellow&style=social)](https://github.com/QizhiPei/BioT5)
+- **[MolBind: Multimodal Alignment of Language, Molecules, and Proteins](https://arxiv.org/pdf/2403.08167.pdf)** - Modality: `Text + BioMulti` |   [![Stars](https://img.shields.io/github/stars/tengxiao1/MolBind?color=yellow&style=social)](https://github.com/tengxiao1/MolBind)
+- **[Uni-SMART: Universal Science Multimodal Analysis and Research Transformer](https://arxiv.org/pdf/2403.10301.pdf)** - Modality: `Text + BioMulti` |   
+- **[Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains](https://arxiv.org/pdf/2402.05140.pdf)** - Modality: `Text + BioMulti` |   [![Stars](https://img.shields.io/github/stars/sjunhongshen/Tag-LLM?color=yellow&style=social)](https://github.com/sjunhongshen/Tag-LLM)
+- **[An Evaluation of Large Language Models in Bioinformatics Research](https://arxiv.org/pdf/2402.13714.pdf)** - Modality: `Text + BioMulti` |   
+- **[SciMind: A Multimodal Mixture-of-Experts Model for Advancing Pharmaceutical Sciences](https://www.biorxiv.org/content/10.1101/2024.07.16.603812v1.full.pdf)** - Modality: `Text + BioMulti` |   
+- **[SciDFM: A Large Language Model with Mixture-of-Experts for Science](https://arxiv.org/abs/2409.18412)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/OpenDFM/SciDFM-MoE-A5.6B-v1.0) 
+- **[ChemDFM-X: Towards Large Multimodal Model for Chemistry](https://arxiv.org/abs/2409.13194)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/OpenDFM/ChemDFM-X-v1.0-13B) [![Stars](https://img.shields.io/github/stars/OpenDFM/ChemDFM-X?color=yellow&style=social)](https://github.com/OpenDFM/ChemDFM-X)
+- **[(NatureLM) Nature Language Model: Deciphering the Language of Nature for Scientific Discovery](https://arxiv.org/abs/2502.07527)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/collections/microsoft/naturelm) [![Stars](https://img.shields.io/github/stars/microsoft/SFM?color=yellow&style=social)](https://github.com/microsoft/SFM)
+- **[(ChemDFM) Developing ChemDFM as a large language foundation model for chemistry](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/OpenDFM/ChemDFM-v1.0-13B) [![Stars](https://img.shields.io/github/stars/OpenDFM/ChemDFM?color=yellow&style=social)](https://github.com/OpenDFM/ChemDFM)
+- **[(KFPPIMI) Improving protein–protein interaction modulator predictions via knowledge-fused language models](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003008?via%3Dihub)** - Modality: `Text + BioMulti` |   [![Stars](https://img.shields.io/github/stars/1zzt/KFPPIMI?color=yellow&style=social)](https://github.com/1zzt/KFPPIMI)
+- **[STELLA: Towards Protein Function Prediction with Multimodal LLMs Integrating Sequence-Structure Representations](https://arxiv.org/abs/2506.03800)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://anonymous.4open.science/r/STELLA-DF00/README.md) 
+- **[(CAFT) Improving Large Language Models with Concept-Aware Fine-Tuning](https://arxiv.org/pdf/2506.07833)** - Modality: `Text + BioMulti` |   [![Stars](https://img.shields.io/github/stars/michaelchen-lab/caft-llm?color=yellow&style=social)](https://github.com/michaelchen-lab/caft-llm)
+- **[InstructPro: Natural Language Guided Ligand-Binding Protein Design](https://arxiv.org/abs/2506.09332)** - Modality: `Text + BioMulti` |   
+- **[(InstructBioMol) Advancing biomolecular understanding and design following human instructions](https://www.nature.com/articles/s42256-025-01064-0)** - Modality: `Text + BioMulti` |   [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/InstructBioMol?color=yellow&style=social)](https://github.com/HICAI-ZJU/InstructBioMol)
+- **[DrugLM: A Unified Framework to Enhance Drug-Target Interaction Predictions by Incorporating Textual Embeddings via Language Models](https://www.biorxiv.org/content/10.1101/2025.07.09.657250v1.abstract)** - Modality: `Text + BioMulti` |   [![Stars](https://img.shields.io/github/stars/HICAI-ZJU/InstructBioMol?color=yellow&style=social)](https://github.com/HICAI-ZJU/InstructBioMol)
+- **[Intern-S1: A Scientific Multimodal Foundation Model](https://arxiv.org/abs/2508.15763)** - Modality: `Text + BioMulti` |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/internlm/Intern-S1) 
+- **[Chem3DLLM: 3D Multimodal Large Language Models for Chemistry](https://arxiv.org/abs/2508.10696)** - Modality: `Text + BioMulti` |   
+- **[SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines](https://arxiv.org/abs/2509.21320)** - Modality: `Text + BioMulti` |   [![Stars](https://img.shields.io/github/stars/open-sciencelab/SciReason?color=yellow&style=social)](https://github.com/open-sciencelab/SciReason)
+- **[MolChord: Structure-Sequence Alignment for Protein-Guided Drug Design](https://arxiv.org/abs/2510.27671)** - Modality: `Text + BioMulti` |   
 
 ## Datasets & Benchmarks
 | **Dataset**          | **Usage**         | **Modality**            | **Link**                                                             |
