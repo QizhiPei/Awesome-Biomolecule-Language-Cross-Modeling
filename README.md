@@ -1390,6 +1390,8 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 
 ## Related Resources
 ### Related Surveys & Evaluations
+* Multimodal Pre-training Models of Molecular Representation for Drug Discovery [NSF_2511](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf495/8320534)
+* A Comprehensive Survey of Multimodal LLMs for Scientific Discovery [VLM4RWD@NeurIPS 2511](https://openreview.net/forum?id=HSz1Kr5BeC)
 * A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers [Arxiv_2508](https://arxiv.org/abs/2508.21148)
 * A Survey of Large Language Models for Text-Guided Molecular Discovery: from Molecule Generation to Optimization [Arxiv_2505](https://arxiv.org/abs/2505.16094)
 * From Generalist to Specialist: A Survey of Large Language Models for Chemistry [Arxiv_2412](https://arxiv.org/abs/2412.19994)
@@ -1412,6 +1414,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * [Language + Molecules @ ACL 2024 Workshop](https://language-plus-molecules.github.io/)
 
 ### Related Repositories
+* [MultiPM4Drug](https://github.com/AISciLab/MultiPM4Drug)
 * [Awesome-Scientific-Datasets-and-LLMs](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)
 * [LLM4Chemistry](https://github.com/OpenDFM/LLM4Chemistry)
 * [LLMs-in-science](https://github.com/ur-whitelab/LLMs-in-science)
