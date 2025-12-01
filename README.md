@@ -9,7 +9,7 @@
 
 The repository for [Leveraging Biomolecule and Natural Language through Multi-Modal Learning: A Survey](https://arxiv.org/abs/2403.01528), including related models, datasets/benchmarks, and other resource links.
 
-🔥 **We will keep this repository updated**.
+🔥 **2025.12.01: We have updated our paper and repository with new models, datasets, and additional features developed since February 2024. Please check the latest version of our paper and the updated repository for more details.**.
 
 🌟 **If you have a paper or resource you'd like to add, feel free to submit a pull request, open an issue, or email the author at <qizhipei@ruc.edu.cn>.**
 
