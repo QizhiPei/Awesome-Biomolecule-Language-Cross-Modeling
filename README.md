@@ -341,6 +341,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 - `Fine-tuning`- `Text, Molecule` [ExDDI](https://drive.google.com/drive/folders/1o2UgoPvMw6hunoewChw0ErumxXWJ4aTX?usp=sharing)
 - `Fine-tuning`- `Text, Molecule` [MMP](https://github.com/Cello2195/TransDLM/tree/main/datasets/mmp)
 - `Fine-tuning`- `Text, Molecule` [SLM4CRP_with_RTs](https://huggingface.co/datasets/liupf/SLM4CRP_with_RTs)
+- `Fine-tuning`- `Text, Molecule` [MolLangData](https://huggingface.co/datasets/ChemFM/MolLangData)
 - `Fine-tuning`- `Text, Molecule, etc` [SciAssess](https://sci-assess.github.io)
 - `Fine-tuning`- `Text, Molecule, etc` [DrugBank](https://github.com/SCIR-HI/ArtificiallyR2R)
 - `Fine-tuning`- `Text, Molecule, etc` [DARWIN](https://github.com/MasterAI-EAM/Darwin/tree/main/dataset)
