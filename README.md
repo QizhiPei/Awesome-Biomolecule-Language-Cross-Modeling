@@ -149,7 +149,8 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 - `Text + Molecule` *`Arxiv 2025`* **[Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization](https://arxiv.org/abs/2502.02810)** |   
 - `Text + Molecule` *`NMI 2025`* **[(SLM4Mol) A Quantitative Analysis of Knowledge-Learning Preferences in Large Language Models in Molecular Science](https://www.nature.com/articles/s42256-024-00977-6)** |   [![Stars](https://img.shields.io/github/stars/AI-HPC-Research-Team/SLM4Mol?color=yellow&style=social)](https://github.com/AI-HPC-Research-Team/SLM4Mol)
 - `Text + Molecule` *`Arxiv 2025`* **[CLASS: Enhancing Cross-Modal Text-Molecule Retrieval Performance and Training Efficiency](https://arxiv.org/abs/2502.11633)** |   
-- `Text + Molecule` *`NeurIPS 2025`* **[Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model](https://arxiv.org/abs/2502.13449)** |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/DongkiKim/Mol-Llama-2-7b-chat) [![Stars](https://img.shields.io/github/stars/DongkiKim95/Mol-LLaMA?color=yellow&style=social)](https://github.com/DongkiKim95/Mol-LLaMA)
+- `Text + Molecule` *`NeurIPS 2025`* **[Mol-LLaMA: Towards General Understanding of Molecules in Large Molecular Language Model](https://arxiv.org/abs/2502.13449)** |   [![Model](https://img.shields.io/badge/Model-5291C8?style=flat&logo=themodelsresource&labelColor=555555)](https://huggingface.co/DongkiKim/Mol-Llama-2-7b-chat) | [![Stars](https://img.shields.io/github/stars/DongkiKim95/Mol-LLaMA?color=yellow&style=social)](https://github.com/DongkiKim95/Mol-LLaMA)
+- `Text + Molecule` *`NeurIPS 2025`* **[MolVision: Molecular Property Prediction with Vision Language Models](https://arxiv.org/abs/2507.03283)** | [![Stars](https://img.shields.io/github/stars/molvision/MolVision?color=yellow&style=social)](https://github.com/molvision/MolVision)
 - `Text + Molecule` *`Bioinformatics 2025`* **[ChatMol: A Versatile Molecule Designer Based on the Numerically Enhanced Large Language Model](https://arxiv.org/abs/2502.19794)** |   [![Stars](https://img.shields.io/github/stars/ChatMol/ChatMol?color=yellow&style=social)](https://github.com/ChatMol/ChatMol)
 - `Text + Molecule` *`EMNLP 2025`* **[MV-CLAM: Multi-View Molecular Interpretation with Cross-Modal Projection via Language Model](https://aclanthology.org/2025.findings-emnlp.1174/)** |   [![Stars](https://img.shields.io/github/stars/sumin124/mv-clam?color=yellow&style=social)](https://github.com/sumin124/mv-clam)
 - `Text + Molecule` *`Arxiv 2025`* **[GraphT5: Unified Molecular Graph-Language Modeling via Multi-Modal Cross-Token Attention](https://arxiv.org/pdf/2503.07655)** |   
@@ -344,6 +345,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 - `Fine-tuning`- `Text, Molecule` [MMP](https://github.com/Cello2195/TransDLM/tree/main/datasets/mmp)
 - `Fine-tuning`- `Text, Molecule` [SLM4CRP_with_RTs](https://huggingface.co/datasets/liupf/SLM4CRP_with_RTs)
 - `Fine-tuning`- `Text, Molecule` [MolLangData](https://huggingface.co/datasets/ChemFM/MolLangData)
+- `Fine-tuning`- `Text, Molecule` [ChemVQA](https://huggingface.co/datasets/chandrabhuma/ChemVQA-2K)
 - `Fine-tuning`- `Text, Molecule, etc` [SciAssess](https://sci-assess.github.io)
 - `Fine-tuning`- `Text, Molecule, etc` [DrugBank](https://github.com/SCIR-HI/ArtificiallyR2R)
 - `Fine-tuning`- `Text, Molecule, etc` [DARWIN](https://github.com/MasterAI-EAM/Darwin/tree/main/dataset)
@@ -375,6 +377,7 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 - `Benchmark`- `Text, Molecule` [MolPuzzle](https://huggingface.co/datasets/kguo2/MolPuzzle_data)
 - `Benchmark`- `Text, Molecule` [MolcularIQ](https://github.com/ml-jku/moleculariq)
 - `Benchmark`- `Text, Molecule` [ChemVTS-Bench](-)
+- `Benchmark`- `Text, Molecule` [MolVision](https://github.com/molvision/MolVision)
 - `Benchmark`- `Text, Protein` [ProteinLMBench](https://huggingface.co/datasets/tsynbio/ProteinLMBench)
 - `Benchmark`- `Text, Protein` [Prot-Inst-OOD](https://huggingface.co/datasets/TimeRune/Prot-Inst-OOD)
 
