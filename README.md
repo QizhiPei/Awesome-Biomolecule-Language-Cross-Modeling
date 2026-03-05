@@ -395,7 +395,6 @@ The repository for [Leveraging Biomolecule and Natural Language through Multi-Mo
 * What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks [NeurIPS 2309](https://openreview.net/pdf?id=1ngbR3SZHW)
 * Do Large Language Models Understand Chemistry? A Conversation with ChatGPT [JCIM 2303](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00285)
 * A Systematic Survey of Chemical Pre-trained Models [IJCAI 2023](https://www.ijcai.org/proceedings/2023/0760.pdf)
-* MolLangBench: A Comprehensive Benchmark for Language-Prompted Molecular Structure Recognition, Editing, and Generation [ICLR 2026](https://openreview.net/pdf?id=KbXl2jfFRn)
 
 ### Related Workshop
 * [Language + Molecules @ ACL 2024 Workshop](https://language-plus-molecules.github.io/)
